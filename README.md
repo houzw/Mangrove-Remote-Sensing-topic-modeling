@@ -1,4 +1,4 @@
-# Mangrove remote sensing topic moldeing pipeline — code
+# Mangrove remote sensing topic modeling pipeline — code
 
 It reproduces every number reported in the manuscript from the tables.
 
