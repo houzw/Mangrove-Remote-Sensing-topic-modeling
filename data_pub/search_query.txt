@@ -1,0 +1,50 @@
+Web of Science retrieval queries — mangrove remote sensing corpus
+===============================================================
+
+Database : Web of Science Core Collection
+Search   : TS (Topic)
+Coverage : January 1972 – 15 July 2026
+Filters  : English; document types = article, proceedings paper, review
+Result   : 2,332 publications after DOI deduplication
+
+NOTES
+-----
+* The 2026 slice ends on 15 July 2026 and is therefore partially indexed.
+  It is excluded from trend fitting throughout the manuscript.
+* The corpus itself is NOT redistributable (Clarivate licence). Only the
+  derived tables in this archive are released; re-run these queries against
+  your own institutional subscription to obtain the source records.
+
+
+-------------------------------------------------------------------------
+1. PRIMARY QUERY — mangrove remote sensing corpus (2,332 publications)
+-------------------------------------------------------------------------
+
+TS=(("mangrove*" OR "mangal" OR "rhizophoraceae") AND ("remote sensing" OR "earth observation" OR "satellite imagery" OR "aerial photography" OR "airborne" OR "UAV" OR "UAS" OR "drone" OR "LiDAR" OR "SAR" OR "synthetic aperture radar" OR "optical remote sensing" OR "multispectral" OR "hyperspectral" OR "radar" OR "InSAR" OR "PolSAR" OR "RGB"))
+
+
+-------------------------------------------------------------------------
+2. PARENT-FIELD QUERY — remote sensing, mangrove block removed
+-------------------------------------------------------------------------
+
+The same string with the mangrove term block deleted, so that mangrove papers
+sit *inside* the denominator. Used for the parent-field normalization
+(RRMI_norm, A_c) of Tables S7–S8; ΣP = 1,035,922 record counts over
+200 countries/regions.
+
+TS=(("remote sensing" OR "earth observation" OR "satellite imagery" OR "aerial photography" OR "airborne" OR "UAV" OR "UAS" OR "drone" OR "LiDAR" OR "SAR" OR "synthetic aperture radar" OR "optical remote sensing" OR "multispectral" OR "hyperspectral" OR "radar" OR "InSAR" OR "PolSAR" OR "RGB"))
+
+Export the parent-field result as **Refine results → Countries/Regions** (or
+Analyze results → Countries/Regions); both act on the whole result set.
+The archived copy of that export is
+external/parent_field_country_counts.xlsx.
+
+
+-------------------------------------------------------------------------
+3. EXTERNAL DATA — mangrove area
+-------------------------------------------------------------------------
+
+High-resolution Global Mangrove Forest (HGMF) 2020 map, 10 m
+(Jia et al. 2023) — publicly available; cite the source, do not
+redistribute the raster. Per-country aggregates derived here:
+external/HGMF_country_area.csv

@@ -1,0 +1,1354 @@
+﻿m6_key,study_countries,n_study_countries,n_low_output_countries,binary_low_output_study,fractional_weight,PY,first_author_country,flag_any
+10.1177/0309133310385371,,0,0,False,0.0,2011,United States,False
+10.1016/j.gecco.2025.e03408,,0,0,False,0.0,2025,China,False
+10.3390/rs11030230,,0,0,False,0.0,2019,Japan,False
+10.1016/j.jag.2024.104197,,0,0,False,0.0,2024,China,False
+10.1109/IGARSS46834.2022.9883700,,0,0,False,0.0,2022,United States,False
+10.1016/j.ecoinf.2025.103522,,0,0,False,0.0,2025,Netherlands,False
+10.1109/JSTARS.2016.2527360,,0,0,False,0.0,2016,United Kingdom,False
+10.3390/rs12091519,,0,0,False,0.0,2020,India,False
+10.3390/s17040777,,0,0,False,0.0,2017,China,False
+10.3390/s19081933,,0,0,False,0.0,2019,Japan,False
+10.3390/drones3030060,,0,0,False,0.0,2019,United States,False
+10.1007/s40747-021-00457-z,,0,0,False,0.0,2021,India,False
+10.1016/j.rse.2011.03.021,,0,0,False,0.0,2011,United States,False
+10.1080/01431161.2014.978034,,0,0,False,0.0,2014,China,False
+10.3390/rs18040592,,0,0,False,0.0,2026,China,False
+10.3390/rs12223834,Vietnam,1,0,False,0.0,2020,Japan,False
+10.1006/jema.1998.0255,,0,0,False,0.0,1999,United Kingdom,False
+10.1109/IGARSS47720.2021.9554627,India,1,0,False,0.0,2021,India,False
+10.3390/f14091838,China,1,0,False,0.0,2023,China,False
+10.3390/rs12142190,,0,0,False,0.0,2020,United States,False
+10.1109/JSTARS.2018.2835647,Gabon,1,0,False,0.0,2018,United States,False
+10.3390/rs15102551,China,1,0,False,0.0,2023,China,False
+10.3390/f10111047,China,1,0,False,0.0,2019,China,False
+10.3390/f15112047,,0,0,False,0.0,2024,China,False
+10.1007/s11273-014-9370-6,,0,0,False,0.0,2015,United Kingdom,False
+10.1016/j.rse.2013.04.005,,0,0,False,0.0,2013,United States,False
+10.1080/10106049.2016.1206974,,0,0,False,0.0,2017,Japan,False
+10.1016/j.rsma.2025.104361,Papua New Guinea,1,1,True,1.0,2025,United States,True
+10.1515/geo-2022-0573,Saudi Arabia,1,0,False,0.0,2024,Saudi Arabia,False
+10.3390/rs16213992,,0,0,False,0.0,2024,United States,False
+10.2166/wcc.2023.238,,0,0,False,0.0,2024,India,False
+10.3390/f16101517,Malaysia,1,0,False,0.0,2025,China,False
+10.3390/rs15235621,,0,0,False,0.0,2023,China,False
+10.5194/isprsarchives-XLI-B8-705-2016,Indonesia,1,1,True,1.0,2016,Japan,True
+10.1080/01431161.2018.1539267,,0,0,False,0.0,2019,United States,False
+10.1016/j.rse.2019.111543,Malaysia,1,0,False,0.0,2020,United Kingdom,False
+10.1109/InGARSS48198.2020.9358929,India,1,0,False,0.0,2020,India,False
+10.1061/JSUED2.SUENG-1665,,0,0,False,0.0,2026,United States,False
+10.3390/rs15102622,China,1,0,False,0.0,2023,China,False
+10.1080/17538947.2026.2620197,,0,0,False,0.0,2026,China,False
+10.1038/s41598-024-81511-x,,0,0,False,0.0,2024,China,False
+10.3390/rs16163093,China,1,0,False,0.0,2024,China,False
+10.1109/JSTARS.2014.2328656,,0,0,False,0.0,2015,Japan,False
+10.3390/rs10010089,,0,0,False,0.0,2018,China,False
+10.1016/j.ecolind.2025.114054,China,1,0,False,0.0,2025,China,False
+10.1016/j.jag.2021.102414,China,1,0,False,0.0,2021,China,False
+10.1080/10106049.2021.2017014,India,1,0,False,0.0,2022,India,False
+10.3390/w17131971,,0,0,False,0.0,2025,China,False
+10.3390/rs12122039,China,1,0,False,0.0,2020,China,False
+10.1109/JSTARS.2026.3668218,,0,0,False,0.0,2026,China,False
+10.1016/j.ecss.2025.109435,Pakistan,1,0,False,0.0,2025,United States,False
+10.1080/15481603.2026.2629148,Japan; Myanmar,2,1,True,0.5,2026,United States,True
+10.1080/01431161.2017.1325534,India,1,0,False,0.0,2017,India,False
+10.1007/s12524-023-01788-9,India,1,0,False,0.0,2024,India,False
+10.1007/s11852-023-00994-4,India,1,0,False,0.0,2023,India,True
+10.1007/s12524-023-01790-1,India,1,0,False,0.0,2024,India,False
+10.1016/j.rse.2021.112403,,0,0,False,0.0,2021,China,False
+10.1109/IGARSS47720.2021.9555140,,0,0,False,0.0,2021,France,False
+10.1080/01431161.2023.2185114,India,1,0,False,0.0,2023,India,False
+10.3389/fenvs.2026.1800493,Puerto Rico,1,0,False,0.0,2026,United States,False
+10.3390/rs11040414,,0,0,False,0.0,2019,China,False
+10.1002/ecs2.70226,Puerto Rico,1,0,False,0.0,2025,United States,False
+10.1016/j.jag.2025.104398,China,1,0,False,0.0,2025,China,False
+10.1016/j.jag.2012.12.001,,0,0,False,0.0,2013,India,False
+10.1117/1.3571040,United States,1,0,False,0.0,2011,United States,True
+10.1016/j.rse.2024.114002,,0,0,False,0.0,2024,United States,False
+10.1088/1748-9326/aa9d23,,0,0,False,0.0,2018,United States,False
+10.3390/rs17060993,,0,0,False,0.0,2025,United States,False
+10.1016/j.jag.2020.102158,Indonesia,1,1,True,1.0,2020,Netherlands,True
+10.1117/12.901847,,0,0,False,0.0,2011,China,False
+10.1080/01431161.2017.1285083,China,1,0,False,0.0,2017,China,False
+10.1007/s12524-024-02026-6,India,1,0,False,0.0,2025,India,False
+10.1109/InGARSS61818.2024.10984125,,0,0,False,0.0,2024,India,False
+10.3390/rs13061084,Indonesia,1,1,True,1.0,2021,Netherlands,True
+10.1080/01431161.2012.712224,,0,0,False,0.0,2013,United States,True
+10.3390/rs15245645,,0,0,False,0.0,2023,China,False
+10.1016/j.ecss.2023.108444,,0,0,False,0.0,2023,China,False
+10.1080/01431161.2018.1471544,Vietnam,1,0,False,0.0,2018,Japan,False
+10.3390/ijerph192215108,China,1,0,False,0.0,2022,China,False
+10.1117/12.2228027,,0,0,False,0.0,2016,India,False
+10.1016/j.scitotenv.2021.146816,,0,0,False,0.0,2021,China,False
+10.3390/rs8030230,China,1,0,False,0.0,2016,China,False
+10.3390/f16081302,,0,0,False,0.0,2025,China,False
+10.1109/36.739128,French Guiana,1,0,False,0.0,1999,France,False
+10.1080/10106049.2022.2136768,India,1,0,False,0.0,2022,India,False
+10.1016/j.rse.2025.114719,China,1,0,False,0.0,2025,China,False
+10.1016/j.ejrs.2020.10.002,,0,0,False,0.0,2021,India,False
+10.3390/rs15051386,,0,0,False,0.0,2023,China,False
+10.1109/AMTA.2008.4763087,,0,0,False,0.0,2008,India,False
+10.1080/01490410701296663,,0,0,False,0.0,2007,United States,False
+10.1007/s00343-025-5293-8,China,1,0,False,0.0,2026,China,False
+10.1371/journal.pone.0179302,,0,0,False,0.0,2017,United States,False
+10.1080/01431161.2021.1945158,Vietnam,1,0,False,0.0,2021,Vietnam,False
+10.3389/fmars.2023.1241928,Saudi Arabia; Oman; Bahrain; Kuwait; Qatar; United Arab Emirates,6,0,False,0.0,2023,United States,False
+10.1016/j.ecoinf.2025.103160,,0,0,False,0.0,2025,China,False
+10.3390/rs11070831,Myanmar,1,1,True,1.0,2019,United States,True
+10.3390/rs16193596,United States,1,0,False,0.0,2024,United States,False
+10.1016/j.rse.2019.111223,,0,0,False,0.0,2019,United States,False
+10.3390/f10100871,,0,0,False,0.0,2019,China,False
+10.1016/j.scitotenv.2018.03.372,,0,0,False,0.0,2018,Netherlands,False
+10.1007/s12040-024-02432-x,India,1,0,False,0.0,2024,India,False
+10.1186/s13717-024-00566-w,,0,0,False,0.0,2024,China,False
+10.1109/IGARSS.2014.6947513,,0,0,False,0.0,2014,United States,False
+10.3390/app15020976,China,1,0,False,0.0,2025,China,False
+10.3390/s18114012,China,1,0,False,0.0,2018,China,False
+10.1080/10106049.2015.1094521,,0,0,False,0.0,2016,India,False
+10.1080/10106049.2012.756940,,0,0,False,0.0,2014,United States,False
+10.1038/s41598-024-55090-w,,0,0,False,0.0,2024,Saudi Arabia,False
+10.3390/rs13234792,French Guiana,1,0,False,0.0,2021,France,False
+10.1109/IGARSS55030.2025.11242868,,0,0,False,0.0,2025,India,False
+10.3390/drones8030113,,0,0,False,0.0,2024,United States,False
+10.1016/j.gecco.2024.e03007,,0,0,False,0.0,2024,United States,False
+10.1109/IGARSS39084.2020.9323829,Gabon,1,0,False,0.0,2020,United States,False
+10.1117/1.JRS.14.044504,China,1,0,False,0.0,2020,China,False
+10.1109/IGARSS39084.2020.9324460,Gabon,1,0,False,0.0,2020,United States,False
+10.14358/PERS.75.4.425,,0,0,False,0.0,2009,United States,False
+10.1016/j.rse.2018.12.034,,0,0,False,0.0,2019,China,False
+10.1002/rse2.257,India; Bangladesh,2,1,True,0.5,2022,United States,True
+10.3390/drones5020045,,0,0,False,0.0,2021,United States,False
+10.1016/j.ecss.2005.06.014,,0,0,False,0.0,2005,Netherlands,False
+10.1007/s13131-024-2356-1,,0,0,False,0.0,2024,China,False
+10.1080/01431161.2026.2663564,,0,0,False,0.0,2026,China,False
+10.3390/rs12081334,Vietnam,1,0,False,0.0,2020,Japan,False
+10.5194/isprs-archives-XLVIII-3-2024-35-2024,,0,0,False,0.0,2024,France,False
+10.1016/j.jenvman.2024.122101,China,1,0,False,0.0,2024,China,False
+10.3390/f16060870,,0,0,False,0.0,2025,China,False
+10.1016/j.scitotenv.2024.173270,,0,0,False,0.0,2024,United States,True
+10.3390/rs9070702,,0,0,False,0.0,2017,United States,False
+10.3390/rs10091343,China,1,0,False,0.0,2018,China,False
+10.3390/rs12101690,,0,0,False,0.0,2020,China,False
+10.1080/01431160903475258,China,1,0,False,0.0,2010,China,False
+10.3390/rs8010024,,0,0,False,0.0,2016,China,False
+10.2112/07-0987.1,,0,0,False,0.0,2008,United States,False
+10.1016/j.gecco.2016.07.005,,0,0,False,0.0,2016,United States,False
+10.1016/j.jag.2022.103031,,0,0,False,0.0,2022,United States,False
+10.1016/j.ecolind.2017.12.008,Indonesia; Bangladesh,2,2,True,0.5,2018,United States,True
+10.3390/rs13081529,,0,0,False,0.0,2021,China,False
+10.3390/rs12233986,Mexico,1,1,True,1.0,2020,United States,True
+10.1016/j.jag.2021.102320,,0,0,False,0.0,2021,China,False
+10.1016/j.ecolind.2022.108694,China,1,0,False,0.0,2022,China,False
+10.26525/jtfs2024.36.2.224,Vietnam,1,0,False,0.0,2024,Vietnam,False
+10.3390/rs12193120,China,1,0,False,0.0,2020,China,False
+10.1007/s12524-024-01968-1,India,1,0,False,0.0,2024,India,False
+10.1080/15481603.2026.2654180,China,1,0,False,0.0,2026,China,False
+10.1023/A:1003894927650,Gabon; Madagascar; Brazil; Mayotte,4,2,True,0.25,1999,France,True
+10.1088/1748-9326/aa9f03,Mozambique,1,1,True,1.0,2018,United States,True
+10.3390/s8042262,,0,0,False,0.0,2008,United States,False
+10.1016/j.apgeog.2017.06.019,Vietnam,1,0,False,0.0,2017,Vietnam,False
+10.5194/isprsarchives-XL-8-667-2014,,0,0,False,0.0,2014,India,False
+10.1080/17538947.2024.2392851,,0,0,False,0.0,2024,China,False
+10.1109/IGARSS.2014.6947084,,0,0,False,0.0,2014,India,False
+10.1109/JSTARS.2016.2553170,Indonesia,1,1,True,1.0,2016,France,True
+10.1109/JSTARS.2026.3668886,China,1,0,False,0.0,2026,China,False
+10.1016/j.ufug.2022.127558,,0,0,False,0.0,2022,China,False
+10.1038/s41598-026-40303-1,,0,0,False,0.0,2026,China,False
+10.1016/j.rsma.2022.102435,,0,0,False,0.0,2022,India,False
+10.1117/12.2324701,China,1,0,False,0.0,2018,China,False
+10.1016/j.jag.2021.102493,,0,0,False,0.0,2021,China,False
+10.1117/12.865068,French Guiana,1,0,False,0.0,2010,France,False
+10.1016/j.jag.2019.101986,China,1,0,False,0.0,2020,China,False
+10.1109/IGARSS.2006.443,Colombia,1,1,True,1.0,2006,United States,True
+10.1038/s41598-025-12689-x,India,1,0,False,0.0,2025,India,False
+10.3390/rs14030480,Belize,1,0,False,0.0,2022,United Kingdom,False
+10.1016/j.ocecoaman.2024.107074,,0,0,False,0.0,2024,India,False
+10.2112/JCOASTRES-D-09-00133.1,,0,0,False,0.0,2010,United States,False
+10.3389/fmars.2022.944454,,0,0,False,0.0,2022,China,False
+10.1016/j.rsma.2025.104391,India,1,0,False,0.0,2025,India,False
+10.1016/j.marpolbul.2013.09.033,,0,0,False,0.0,2013,Netherlands,False
+10.1007/s11273-023-09952-1,,0,0,False,0.0,2023,India,False
+10.3390/rs11101208,China,1,0,False,0.0,2019,China,False
+10.3390/rs11091018,China,1,0,False,0.0,2019,China,False
+10.1109/CIS.2015.48,,0,0,False,0.0,2015,China,False
+10.1088/1748-9326/ac4d4d,,0,0,False,0.0,2022,United States,False
+10.3390/su17083631,,0,0,False,0.0,2025,China,False
+10.1111/1440-1703.12503,Philippines,1,0,False,0.0,2025,Japan,False
+10.1002/wsb.344,,0,0,False,0.0,2013,United States,False
+10.1002/rse2.268,China,1,0,False,0.0,2022,China,False
+10.3390/sym17030461,China,1,0,False,0.0,2025,China,False
+10.1016/j.ocecoaman.2026.108173,China,1,0,False,0.0,2026,China,False
+10.1109/IGARSS52108.2023.10282203,,0,0,False,0.0,2023,Singapore,False
+10.3390/rs11182156,China,1,0,False,0.0,2019,China,False
+10.1109/IGARSS.2010.5650660,Australia,1,0,False,0.0,2010,United States,False
+10.1007/s11852-014-0322-3,,0,0,False,0.0,2014,India,False
+10.1016/j.rsma.2024.103972,India,1,0,False,0.0,2025,India,False
+10.3390/f17010131,China,1,0,False,0.0,2026,China,False
+10.1109/IGARSS.2006.885,China,1,0,False,0.0,2006,China,False
+10.1109/IGARSS55030.2025.11242628,Saudi Arabia,1,0,False,0.0,2025,Saudi Arabia,False
+10.1007/s12524-024-01820-6,,0,0,False,0.0,2024,Japan,False
+10.1080/17538947.2025.2564260,China,1,0,False,0.0,2025,China,False
+10.1186/s13717-023-00419-y,Bangladesh,1,1,True,1.0,2023,China,True
+10.3390/rs11182114,China,1,0,False,0.0,2019,China,False
+10.1109/IGARSS.2010.5654182,,0,0,False,0.0,2010,United States,False
+10.1080/01431161.2010.514305,,0,0,False,0.0,2011,United States,False
+10.1016/j.jag.2017.05.002,,0,0,False,0.0,2017,China,False
+10.3390/rs15041033,Japan,1,0,False,0.0,2023,Japan,False
+10.1080/2150704X.2024.2414434,United States,1,0,False,0.0,2024,United States,False
+10.1109/JSTARS.2015.2431646,Mexico; Mozambique,2,2,True,0.5,2015,United States,True
+10.1016/j.eswa.2026.131647,,0,0,False,0.0,2026,China,False
+10.1016/j.seares.2021.102162,,0,0,False,0.0,2022,India,False
+10.1016/j.ecoinf.2025.103208,,0,0,False,0.0,2025,United States,False
+10.5194/isprs-archives-XLIII-B3-2022-691-2022,,0,0,False,0.0,2022,France,False
+10.1080/17538947.2025.2497488,,0,0,False,0.0,2025,China,False
+10.3390/ijgi6060177,China,1,0,False,0.0,2017,China,False
+10.1080/15481603.2025.2491920,,0,0,False,0.0,2025,China,False
+10.1016/j.isprsjprs.2019.11.022,China,1,0,False,0.0,2020,China,False
+10.3390/f16111696,China,1,0,False,0.0,2025,China,False
+10.3390/s23156669,,0,0,False,0.0,2023,United States,False
+10.1002/rse2.353,Nigeria,1,1,True,1.0,2024,United States,True
+10.1016/j.asr.2021.11.020,China,1,0,False,0.0,2022,China,False
+10.3390/rs5010224,Bangladesh; India,2,1,True,0.5,2013,United Kingdom,True
+10.3390/sym17081250,,0,0,False,0.0,2025,China,False
+10.1016/j.gloenvcha.2007.03.001,Vietnam,1,0,False,0.0,2007,United States,False
+10.1614/WT-03-174R,United States,1,0,False,0.0,2004,United States,False
+10.2112/05-0480.1,,0,0,False,0.0,2007,United States,False
+10.3390/rs8040327,,0,0,False,0.0,2016,United States,False
+10.1016/j.ecolind.2024.112774,China,1,0,False,0.0,2024,China,False
+10.1007/s12524-024-01811-7,,0,0,False,0.0,2024,India,False
+10.3390/drones7030152,,0,0,False,0.0,2023,China,False
+10.1016/j.rse.2015.05.008,,0,0,False,0.0,2015,United States,False
+10.1109/InGARSS61818.2024.10984152,,0,0,False,0.0,2024,India,False
+10.3390/rs6065559,Mexico,1,1,True,1.0,2014,United States,True
+10.1080/01431161.2010.512944,,0,0,False,0.0,2011,United States,False
+10.3390/rs15030820,,0,0,False,0.0,2023,France,False
+10.3390/su17188211,China,1,0,False,0.0,2025,China,False
+10.1080/15481603.2013.814275,,0,0,False,0.0,2013,India,False
+10.1016/j.jag.2024.103963,,0,0,False,0.0,2024,China,False
+10.2166/hydro.2025.203,India; Bangladesh,2,1,True,0.5,2025,India,True
+10.14358/PERS.72.3.299,,0,0,False,0.0,2006,United States,False
+10.1186/s13021-019-0117-9,Colombia,1,1,True,1.0,2019,United States,True
+10.18520/cs/v116/i7/1136-1142,,0,0,False,0.0,2019,India,False
+10.1109/IGARSS47720.2021.9554028,,0,0,False,0.0,2021,China,False
+10.1080/10106049.2014.985743,,0,0,False,0.0,2015,India,False
+10.3390/rs14153657,,0,0,False,0.0,2022,United Kingdom,False
+10.3390/rs12132086,,0,0,False,0.0,2020,United States,False
+10.1016/j.rse.2015.01.007,,0,0,False,0.0,2015,Japan,False
+10.1007/s12524-026-02423-z,India,1,0,False,0.0,2026,India,False
+10.1007/s10661-026-15126-2,China,1,0,False,0.0,2026,China,False
+10.3390/rs71215810,,0,0,False,0.0,2015,United States,False
+10.1117/12.2067483,India,1,0,False,0.0,2014,United Kingdom,False
+10.1117/1.JRS.11.026010,Vietnam,1,0,False,0.0,2017,Japan,False
+10.5194/essd-15-265-2023,,0,0,False,0.0,2023,China,False
+10.1016/j.jag.2014.04.007,,0,0,False,0.0,2014,United States,False
+10.1038/s41598-025-34281-z,Thailand,1,0,False,0.0,2026,China,False
+10.1080/10106049.2022.2040601,India,1,0,False,0.0,2022,India,False
+10.1080/2150704X.2018.1504339,,0,0,False,0.0,2018,United States,False
+10.1016/j.isprsjprs.2022.05.003,,0,0,False,0.0,2022,China,False
+10.3390/rs17050898,China,1,0,False,0.0,2025,China,False
+10.3390/rs12203454,Bangladesh,1,1,True,1.0,2020,United States,True
+10.1080/01431161.2026.2687820,Vietnam,1,0,False,0.0,2026,Vietnam,False
+10.1016/j.rse.2018.02.021,,0,0,False,0.0,2018,United States,False
+10.3390/rs18030494,China,1,0,False,0.0,2026,China,False
+10.1071/MF97153,,0,0,False,0.0,1998,France,False
+10.15666/aeer/1905_38973930,Vietnam,1,0,False,0.0,2021,Vietnam,False
+10.3390/ijgi10020092,China,1,0,False,0.0,2021,China,False
+10.1016/j.scitotenv.2022.155679,Brazil,1,1,True,1.0,2022,United Kingdom,True
+10.1016/j.aeolia.2009.11.001,Brazil,1,1,True,1.0,2010,United States,True
+10.1109/TGRS.2024.3385202,,0,0,False,0.0,2024,China,False
+10.3390/s25082540,,0,0,False,0.0,2025,China,False
+10.3390/rs12223729,,0,0,False,0.0,2020,Netherlands,False
+10.1038/s41467-021-24253-y,,0,0,False,0.0,2021,United States,False
+10.1007/s10531-019-01698-8,India,1,0,False,0.0,2019,India,False
+10.1007/s10661-018-6472-2,United Arab Emirates; Kuwait; Bahrain; Qatar; Saudi Arabia; Iran,6,0,False,0.0,2018,Saudi Arabia,False
+10.1146/annurev-marine-050823-120619,,0,0,False,0.0,2025,United States,False
+10.1117/12.794097,China,1,0,False,0.0,2008,China,False
+10.1080/17538947.2024.2346277,,0,0,False,0.0,2024,China,False
+10.14358/PERS.79.5.479,,0,0,False,0.0,2013,China,False
+10.1109/JSTARS.2025.3647732,,0,0,False,0.0,2026,China,False
+10.3390/su10041127,China,1,0,False,0.0,2018,China,False
+10.3390/rs70810184,,0,0,False,0.0,2015,United States,False
+10.1109/LGRS.2012.2221675,China,1,0,False,0.0,2013,China,False
+10.1016/j.isprsjprs.2019.01.021,China,1,0,False,0.0,2019,China,False
+10.1007/s41064-025-00332-3,India,1,0,False,0.0,2025,India,False
+10.1016/j.asr.2022.05.063,,0,0,False,0.0,2024,India,False
+10.1016/j.ecss.2018.04.021,China,1,0,False,0.0,2018,China,False
+10.1007/s12524-014-0437-x,India,1,0,False,0.0,2015,India,False
+10.1016/j.marpolbul.2026.119386,,0,0,False,0.0,2026,India,False
+10.1016/j.plaphe.2025.100059,,0,0,False,0.0,2025,China,False
+10.1002/ldr.3652,Malaysia,1,0,False,0.0,2021,United Kingdom,False
+10.1109/TGRS.2026.3685730,,0,0,False,0.0,2026,China,False
+10.1109/TGRS.2017.2767607,,0,0,False,0.0,2018,United States,False
+10.1007/978-981-10-3373-5_5,,0,0,False,0.0,2018,India,False
+10.3390/jmse14100892,,0,0,False,0.0,2026,United Kingdom,False
+10.1371/journal.pone.0217310,Costa Rica,1,0,False,0.0,2019,United States,False
+10.3389/fmars.2025.1578892,,0,0,False,0.0,2025,China,False
+10.1016/j.rse.2007.10.003,,0,0,False,0.0,2008,United States,False
+10.1007/s11273-018-9620-0,India,1,0,False,0.0,2018,India,False
+10.1109/InGARSS61818.2024.11105096,,0,0,False,0.0,2024,India,False
+10.1002/rse2.105,,0,0,False,0.0,2019,Japan,False
+10.3390/rs11030367,Guadeloupe; Mayotte; New Caledonia,3,0,False,0.0,2019,France,False
+10.1007/s10668-026-07408-z,,0,0,False,0.0,2026,India,False
+10.3390/rs12040656,,0,0,False,0.0,2020,China,False
+10.1016/j.jag.2022.102890,,0,0,False,0.0,2022,China,False
+10.3390/su17073004,China,1,0,False,0.0,2025,China,False
+10.1016/j.rsma.2024.103702,India,1,0,False,0.0,2024,India,False
+10.1016/j.ecolind.2023.110815,China,1,0,False,0.0,2023,China,False
+10.3390/f16101612,China,1,0,False,0.0,2025,China,False
+10.3390/electronics12051111,,0,0,False,0.0,2023,China,False
+10.1016/j.eswa.2023.121455,,0,0,False,0.0,2024,India,False
+10.1016/j.ecolind.2025.114038,Iran,1,0,False,0.0,2025,United States,False
+10.1109/JSTARS.2022.3223227,China,1,0,False,0.0,2022,China,False
+10.1007/s11273-025-10047-2,,0,0,False,0.0,2025,India,False
+10.1088/1755-1315/20/1/012051,Indonesia,1,1,True,1.0,2014,Japan,True
+10.1016/j.rse.2007.01.009,French Guiana,1,0,False,0.0,2007,France,False
+10.3390/rs18010117,,0,0,False,0.0,2025,United States,False
+10.1007/s11273-026-10118-y,India,1,0,False,0.0,2026,India,False
+10.1016/j.isprsjprs.2007.05.006,,0,0,False,0.0,2007,Netherlands,False
+10.3390/f14040754,China,1,0,False,0.0,2023,China,False
+10.1016/j.proenv.2011.09.357,,0,0,False,0.0,2011,China,False
+10.3390/ijgi9090513,China,1,0,False,0.0,2020,Japan,False
+10.1109/TGRS.2025.3599189,China,1,0,False,0.0,2025,China,False
+10.1016/j.rse.2014.04.019,China,1,0,False,0.0,2014,China,False
+10.1016/j.jag.2026.105166,China,1,0,False,0.0,2026,China,False
+10.3390/rs13071292,China,1,0,False,0.0,2021,China,False
+10.18520/cs/v125/i3/299-308,,0,0,False,0.0,2023,India,False
+10.3390/rs12040597,,0,0,False,0.0,2020,India,False
+10.1016/j.isprsjprs.2006.05.005,,0,0,False,0.0,2006,Netherlands,False
+10.1109/MIGARS57353.2023.10064566,India,1,0,False,0.0,2023,India,False
+10.1109/IGARSS52108.2023.10282908,,0,0,False,0.0,2023,United States,False
+10.1016/j.scitotenv.2024.173487,,0,0,False,0.0,2024,China,False
+10.3390/rs14163886,,0,0,False,0.0,2022,United States,False
+10.1080/10106049.2017.1408699,,0,0,False,0.0,2019,India,False
+10.1111/geb.13852,,0,0,False,0.0,2024,United Kingdom,False
+10.1016/j.jag.2024.104188,China,1,0,False,0.0,2024,China,False
+10.1002/rra.70062,Japan,1,0,False,0.0,2026,Japan,False
+10.3390/rs11060688,Philippines,1,0,False,0.0,2019,China,False
+10.1038/s41598-025-03280-5,Saudi Arabia,1,0,False,0.0,2025,Saudi Arabia,False
+10.15666/aeer/2301_16351658,,0,0,False,0.0,2025,Vietnam,False
+10.3390/rs14215533,,0,0,False,0.0,2022,China,False
+10.1080/01431161.2025.2589530,,0,0,False,0.0,2026,India,False
+10.3390/rs17142485,British Virgin Islands,1,0,False,0.0,2025,United States,False
+10.1007/s11852-012-0223-2,India,1,0,False,0.0,2013,India,False
+10.1023/A:1003807330375,Madagascar,1,1,True,1.0,1999,France,True
+10.1016/j.pce.2026.104349,Mozambique,1,1,True,1.0,2026,China,True
+10.1016/j.jag.2024.104140,China,1,0,False,0.0,2024,China,False
+10.1016/j.ejrs.2018.04.006,,0,0,False,0.0,2020,India,False
+10.1672/18-20,,0,0,False,0.0,2003,United States,False
+10.26525/jtfs2020.32.3.317,,0,0,False,0.0,2020,India,False
+10.3389/fmars.2025.1535917,,0,0,False,0.0,2025,China,False
+10.3390/rs10111739,,0,0,False,0.0,2018,China,False
+10.1111/j.1365-3091.2006.00848.x,,0,0,False,0.0,2007,United States,False
+10.2112/JCOASTRES-D-11-00028.1,United States,1,0,False,0.0,2011,United States,True
+10.1109/IGARSS53475.2024.10642667,,0,0,False,0.0,2024,China,False
+10.1016/j.ecolind.2024.112653,China,1,0,False,0.0,2024,China,False
+10.1080/01431161.2018.1455239,,0,0,False,0.0,2018,China,False
+10.1109/IGARSS.2006.961,,0,0,False,0.0,2006,United States,False
+10.1016/j.pce.2019.01.004,,0,0,False,0.0,2019,United States,False
+10.1080/00330124.2018.1501710,Belize,1,0,False,0.0,2019,United States,False
+10.1016/j.rsma.2021.101718,India,1,0,False,0.0,2021,India,False
+10.1016/j.apgeog.2013.09.024,Thailand,1,0,False,0.0,2013,Singapore,False
+10.3390/rs15071928,China,1,0,False,0.0,2023,China,False
+10.1016/j.foreco.2023.121345,India,1,0,False,0.0,2023,India,False
+10.3390/rs17091482,Madagascar,1,1,True,1.0,2025,United States,True
+10.1007/s11356-023-28486-w,,0,0,False,0.0,2023,India,False
+10.1109/IGARSS53475.2024.10641521,India,1,0,False,0.0,2024,India,False
+10.3390/rs14225903,,0,0,False,0.0,2022,France,False
+10.1117/12.897709,China,1,0,False,0.0,2011,China,False
+10.1080/01431160701227638,China,1,0,False,0.0,2007,China,False
+10.15244/pjoes/173165,Vietnam,1,0,False,0.0,2024,Vietnam,False
+10.1016/j.rse.2004.04.005,Panama,1,0,False,0.0,2004,United States,False
+10.1016/j.jenvman.2022.114950,India,1,0,False,0.0,2022,United Kingdom,False
+10.1007/s13157-024-01887-4,,0,0,False,0.0,2025,India,False
+10.1672/07-233.1,,0,0,False,0.0,2009,United States,False
+10.1016/j.geoderma.2025.117324,China,1,0,False,0.0,2025,China,False
+10.1007/s10661-019-7679-6,India,1,0,False,0.0,2019,India,False
+10.1080/01431161.2022.2032457,,0,0,False,0.0,2022,China,False
+10.1016/j.rse.2022.113021,China,1,0,False,0.0,2022,China,False
+10.2983/035.034.0206,United States,1,0,False,0.0,2015,United States,False
+10.1002/rse2.315,China,1,0,False,0.0,2023,China,False
+10.3390/su10061913,,0,0,False,0.0,2018,China,False
+10.3964/j.issn.1000-0593(2023)12-3906-10,China,1,0,False,0.0,2023,China,False
+10.3390/rs10091466,,0,0,False,0.0,2018,United States,True
+10.1007/s00267-017-0880-x,,0,0,False,0.0,2017,United States,False
+10.1088/1748-9326/ab82cf,,0,0,False,0.0,2020,United States,True
+10.3390/rs10091406,Vietnam,1,0,False,0.0,2018,Japan,False
+10.3390/f14071417,,0,0,False,0.0,2023,China,False
+10.1016/j.margeo.2004.04.018,French Guiana,1,0,False,0.0,2004,France,False
+10.3390/rs12040691,Bangladesh,1,1,True,1.0,2020,United States,True
+10.3389/fenvs.2025.1641301,Grenada; Jamaica; Dominican Republic; Bahamas,4,0,False,0.0,2025,United States,False
+10.1109/IGARSS47720.2021.9553225,Philippines,1,0,False,0.0,2021,Netherlands,False
+10.3389/fenvs.2025.1612446,,0,0,False,0.0,2025,China,False
+10.1088/1755-1315/37/1/012036,Vietnam,1,0,False,0.0,2016,Japan,False
+10.1007/s12040-026-02783-7,,0,0,False,0.0,2026,India,False
+10.1109/IGARSS.2013.6723092,Vietnam,1,0,False,0.0,2013,Japan,False
+10.1080/01431161.2022.2145584,,0,0,False,0.0,2022,United States,False
+10.1016/j.rse.2007.10.012,Colombia,1,1,True,1.0,2008,United States,True
+10.1029/2021JF006294,,0,0,False,0.0,2022,United States,False
+10.3390/rs14122940,United States; India,2,0,False,0.0,2022,United States,False
+10.1080/10106049.2011.591943,India,1,0,False,0.0,2011,India,False
+10.1016/j.cageo.2021.104737,,0,0,False,0.0,2021,India,False
+10.1007/s10661-025-14767-z,,0,0,False,0.0,2025,United States,False
+10.1016/j.ecoinf.2022.101845,China,1,0,False,0.0,2022,China,False
+10.1080/01490419.2020.1751753,Mexico,1,1,True,1.0,2020,United States,True
+10.1007/s12237-026-01757-8,,0,0,False,0.0,2026,United States,False
+10.1016/j.ecoser.2015.04.007,Vietnam,1,0,False,0.0,2015,Vietnam,False
+10.1007/978-981-13-1951-8_69,India,1,0,False,0.0,2019,India,False
+10.1111/btp.70124,Madagascar,1,1,True,1.0,2025,United States,True
+10.1016/j.ecolind.2020.106196,China,1,0,False,0.0,2020,China,False
+10.1080/01431161.2012.725958,Indonesia,1,1,True,1.0,2013,Netherlands,True
+10.3390/f17020180,,0,0,False,0.0,2026,China,False
+10.1080/2150704X.2023.2215945,,0,0,False,0.0,2023,India,False
+10.1117/1.JRS.6.063501,,0,0,False,0.0,2012,United States,False
+10.1016/j.jag.2023.103446,,0,0,False,0.0,2023,China,False
+10.1109/igarss.2019.8898987,Vietnam,1,0,False,0.0,2019,Japan,False
+10.1016/j.ecolind.2022.109286,,0,0,False,0.0,2022,China,False
+10.1002/rse2.160,Belize,1,0,False,0.0,2021,United Kingdom,False
+10.1007/s10113-024-02319-z,French Guiana,1,0,False,0.0,2024,France,False
+10.1016/j.ecoinf.2023.102200,,0,0,False,0.0,2023,China,False
+10.1016/j.jag.2026.105170,,0,0,False,0.0,2026,China,False
+10.1016/j.ecss.2018.06.020,,0,0,False,0.0,2018,Netherlands,False
+10.1002/esp.70351,Guyana; Suriname,2,0,False,0.0,2026,United Kingdom,False
+10.1016/j.isprsjprs.2017.07.011,China,1,0,False,0.0,2017,China,False
+10.1080/01431161.2026.2668092,China,1,0,False,0.0,2026,China,False
+10.1016/j.marpolbul.2015.05.028,,0,0,False,0.0,2015,United States,False
+10.1016/j.jag.2024.104249,,0,0,False,0.0,2024,China,False
+10.3389/ffgc.2021.775341,Philippines,1,0,False,0.0,2022,United Kingdom,False
+10.3390/f15101788,China,1,0,False,0.0,2024,China,False
+10.3390/electronics12040881,,0,0,False,0.0,2023,China,False
+10.2112/SI90-007.1,,0,0,False,0.0,2019,China,False
+10.1007/s10021-021-00686-w,,0,0,False,0.0,2022,United States,False
+10.1080/17538947.2026.2640711,,0,0,False,0.0,2026,China,False
+10.1016/j.ocecoaman.2025.108059,China,1,0,False,0.0,2026,China,False
+10.1016/j.jastp.2025.106663,,0,0,False,0.0,2025,India,False
+10.1007/s10661-022-10177-7,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.1016/j.ecolind.2025.113452,Pakistan,1,0,False,0.0,2025,China,False
+10.1080/10106049.2018.1520923,,0,0,False,0.0,2020,India,False
+10.1109/JSTARS.2026.3664013,,0,0,False,0.0,2026,Singapore,False
+10.1016/j.rsma.2025.104371,Vietnam,1,0,False,0.0,2025,Vietnam,False
+10.1142/S0578563407001617,India,1,0,False,0.0,2007,India,False
+10.1016/S0034-4257(01)00301-7,French Guiana,1,0,False,0.0,2002,France,True
+10.1016/j.gloenvcha.2019.01.003,Senegal; Gambia,2,0,False,0.0,2019,United States,True
+10.1117/12.3057569,,0,0,False,0.0,2025,China,False
+10.1007/s11042-015-2906-9,,0,0,False,0.0,2016,China,False
+10.1109/JSTARS.2020.2989500,China,1,0,False,0.0,2020,China,False
+10.1016/j.foreco.2025.122747,Pakistan,1,0,False,0.0,2025,United States,False
+10.1117/12.860304,,0,0,False,0.0,2010,China,False
+10.1117/1.JRS.14.010501,China,1,0,False,0.0,2020,China,False
+10.1016/j.rse.2026.115301,,0,0,False,0.0,2026,United States,False
+10.1016/S0034-4257(99)00064-4,,0,0,False,0.0,2000,France,False
+10.1007/s40010-017-0441-y,India,1,0,False,0.0,2017,United States,False
+10.3390/su12083242,Indonesia,1,1,True,1.0,2020,China,True
+10.1109/IGARSS39084.2020.9324084,China,1,0,False,0.0,2020,China,False
+10.1002/ecs2.1366,,0,0,False,0.0,2016,United States,False
+10.1038/s41598-024-53961-w,Mayotte,1,0,False,0.0,2024,France,False
+10.1016/j.ipm.2021.102813,China,1,0,False,0.0,2022,China,False
+10.1002/rse2.393,,0,0,False,0.0,2024,United Kingdom,False
+10.1016/j.rsma.2019.100550,Vietnam,1,0,False,0.0,2019,Vietnam,False
+10.1016/j.foreco.2025.123388,China,1,0,False,0.0,2026,China,False
+10.1080/01431161.2019.1630784,India,1,0,False,0.0,2019,India,False
+10.1080/15481603.2025.2573529,,0,0,False,0.0,2025,China,False
+10.3390/rs18040567,,0,0,False,0.0,2026,China,False
+10.1007/s10530-025-03626-0,India,1,0,False,0.0,2025,India,False
+10.1016/j.scib.2023.05.004,,0,0,False,0.0,2023,China,True
+10.3390/rs17030549,China,1,0,False,0.0,2025,China,False
+10.1016/j.rse.2011.06.019,Bangladesh; India,2,1,True,0.5,2011,United States,True
+10.1007/s12040-024-02378-0,,0,0,False,0.0,2024,India,False
+10.1155/2014/638296,China,1,0,False,0.0,2014,China,False
+10.1007/s00343-018-7004-1,,0,0,False,0.0,2018,China,False
+10.1007/s11069-021-04895-3,India,1,0,False,0.0,2021,India,False
+10.1016/j.ecss.2016.04.019,Vietnam,1,0,False,0.0,2016,United States,False
+10.1117/12.2304499,,0,0,False,0.0,2018,China,False
+10.3390/rs10030467,,0,0,False,0.0,2018,China,False
+10.3390/rs13132596,,0,0,False,0.0,2021,United States,False
+10.1016/j.jag.2025.104958,China,1,0,False,0.0,2025,China,False
+10.1186/s40645-024-00626-x,Japan,1,0,False,0.0,2024,Japan,False
+10.1186/s13677-023-00565-w,,0,0,False,0.0,2024,China,False
+10.1080/014311600211082,,0,0,False,0.0,2000,Netherlands,False
+10.1109/IGARSS39084.2020.9324575,China,1,0,False,0.0,2020,China,False
+10.3390/jmse4020033,United States,1,0,False,0.0,2016,United States,True
+10.1016/j.jag.2025.104984,China,1,0,False,0.0,2025,China,False
+10.1016/j.ecolind.2019.105511,,0,0,False,0.0,2019,China,False
+10.5194/essd-18-2907-2026,China,1,0,False,0.0,2026,China,False
+10.1016/j.geoforum.2014.02.013,Gambia; Senegal,2,0,False,0.0,2014,United States,False
+10.1109/LGRS.2021.3107440,,0,0,False,0.0,2022,China,False
+10.3390/app16125812,,0,0,False,0.0,2026,China,False
+10.15666/aeer/1701_015031,Vietnam,1,0,False,0.0,2019,Vietnam,False
+10.3389/fmars.2024.1285518,China,1,0,False,0.0,2024,China,False
+10.1016/j.ocecoaman.2025.107844,,0,0,False,0.0,2025,China,False
+10.1109/IGARSS55030.2025.11242649,,0,0,False,0.0,2025,India,False
+10.3390/f15091512,China,1,0,False,0.0,2024,China,False
+10.3390/rs11030254,,0,0,False,0.0,2019,China,False
+10.1007/BF03030873,India,1,0,False,0.0,2004,India,False
+10.1109/IGARSS55030.2025.11243372,Thailand,1,0,False,0.0,2025,China,False
+10.3390/rs11070876,,0,0,False,0.0,2019,United States,False
+10.3390/su11195356,China,1,0,False,0.0,2019,China,False
+10.1016/j.foreco.2020.117963,Senegal,1,0,False,0.0,2020,France,False
+10.3390/f17050525,,0,0,False,0.0,2026,China,False
+10.1007/s11069-016-2252-x,India,1,0,False,0.0,2016,India,False
+10.1007/s11852-022-00891-2,India,1,0,False,0.0,2022,India,False
+10.3390/rs3112440,,0,0,False,0.0,2011,United States,False
+10.3390/rs12183086,Vietnam,1,0,False,0.0,2020,China,False
+10.1007/s13157-015-0660-4,,0,0,False,0.0,2015,India,False
+10.1080/014311698215036,Madagascar,1,1,True,1.0,1998,France,True
+10.1109/LGRS.2025.3563897,,0,0,False,0.0,2025,China,False
+10.1007/s10661-024-12902-w,India,1,0,False,0.0,2024,India,False
+10.1080/2150704X.2018.1508910,India,1,0,False,0.0,2018,India,False
+10.3390/rs13244957,India,1,0,False,0.0,2021,India,True
+10.1016/j.jag.2023.103588,,0,0,False,0.0,2023,China,False
+10.1016/j.landusepol.2026.108145,China,1,0,False,0.0,2026,China,False
+10.1016/j.rsma.2025.104023,Philippines; Indonesia,2,1,True,0.5,2025,Japan,True
+10.1002/esp.3968,Vietnam,1,0,False,0.0,2016,United States,False
+10.18520/cs/v124/i3/363-370,India,1,0,False,0.0,2023,India,False
+10.2112/08-1119.1,India,1,0,False,0.0,2010,India,False
+10.1109/IGARSS.2006.81,,0,0,False,0.0,2006,Singapore,False
+10.1109/IGARSS39084.2020.9324186,,0,0,False,0.0,2020,China,False
+10.1007/s12040-024-02463-4,India,1,0,False,0.0,2024,India,False
+10.3390/rs12111740,,0,0,False,0.0,2020,United States,False
+10.1109/JSTARS.2021.3132164,,0,0,False,0.0,2021,China,False
+10.1007/s11852-010-0126-z,India,1,0,False,0.0,2011,India,False
+10.1016/j.rsma.2023.103207,India,1,0,False,0.0,2023,India,False
+10.1080/14634980903140364,Vietnam,1,0,False,0.0,2009,Vietnam,False
+10.2112/JCOASTRES-D-13-00187.1,Grenada,1,0,False,0.0,2015,United States,False
+10.1111/j.1466-8238.2010.00584.x,,0,0,False,0.0,2011,United States,False
+10.3389/fmars.2023.1127720,Myanmar; Thailand; Cambodia,3,1,True,0.3333,2023,United States,True
+10.1016/j.ecss.2025.109275,,0,0,False,0.0,2025,United States,False
+10.18520/cs/v126/i9/1088-1101,,0,0,False,0.0,2024,India,False
+10.3390/rs70912192,,0,0,False,0.0,2015,China,False
+10.1016/j.rsma.2021.102054,India,1,0,False,0.0,2021,India,False
+10.3390/f13091489,China,1,0,False,0.0,2022,China,False
+10.1071/FP17295,,0,0,False,0.0,2018,China,False
+10.1109/JSTARS.2026.3698337,,0,0,False,0.0,2026,United States,False
+10.3390/rs8080627,China,1,0,False,0.0,2016,China,False
+10.3390/s24227224,,0,0,False,0.0,2024,China,False
+10.3390/rs14061386,China,1,0,False,0.0,2022,China,False
+10.3390/rs12091375,Bangladesh,1,1,True,1.0,2020,China,True
+10.1371/journal.pone.0345762,,0,0,False,0.0,2026,China,False
+10.1007/s10641-022-01382-x,Belize,1,0,False,0.0,2023,United States,False
+10.1016/j.geoforum.2018.10.024,Ecuador,1,0,False,0.0,2019,United States,False
+10.1038/s41597-024-04213-z,,0,0,False,0.0,2025,United States,True
+10.3390/su17135957,Saudi Arabia,1,0,False,0.0,2025,Saudi Arabia,False
+10.1016/j.ecolind.2022.108978,,0,0,False,0.0,2022,China,False
+10.3390/rs10010133,,0,0,False,0.0,2018,United States,False
+10.3390/rs10122047,China,1,0,False,0.0,2018,China,False
+10.1007/s10661-025-14829-2,India,1,0,False,0.0,2025,India,False
+10.1007/s10531-011-0191-0,,0,0,False,0.0,2012,India,False
+10.1016/j.ecolind.2023.110870,China,1,0,False,0.0,2023,China,False
+10.1371/journal.pone.0327315,Vietnam,1,0,False,0.0,2025,Vietnam,False
+10.1117/1.JRS.7.073523,India,1,0,False,0.0,2013,India,False
+10.1016/j.rsma.2026.104816,India; Bangladesh,2,1,True,0.5,2026,India,True
+10.3390/w16131780,China,1,0,False,0.0,2024,China,False
+10.1080/10106049.2022.2102226,China,1,0,False,0.0,2022,China,False
+10.1080/2150704X.2016.1195935,,0,0,False,0.0,2016,China,False
+10.1672/06-91.1,,0,0,False,0.0,2008,China,False
+10.1016/j.marpolbul.2014.08.008,,0,0,False,0.0,2014,China,False
+10.1130/0091-7613(2002)030<0583:QROGCO>2.0.CO;2,Bahamas,1,0,False,0.0,2002,United States,False
+10.3390/su16198408,China,1,0,False,0.0,2024,China,False
+10.1007/s11707-024-1125-y,,0,0,False,0.0,2025,China,False
+10.1109/LGRS.2019.2962723,,0,0,False,0.0,2020,China,False
+10.1016/j.rse.2025.114613,,0,0,False,0.0,2025,China,False
+10.1080/00387010.2021.1928224,,0,0,False,0.0,2021,China,False
+10.1007/s10661-020-8140-6,Saudi Arabia,1,0,False,0.0,2020,Saudi Arabia,False
+10.1016/j.ocecoaman.2024.107307,Puerto Rico; U.S. Virgin Islands; British Virgin Islands,3,0,False,0.0,2024,United States,False
+10.1016/j.actaastro.2025.08.050,Brazil,1,1,True,1.0,2026,United States,True
+10.1371/journal.pone.0233110,Vietnam,1,0,False,0.0,2020,Vietnam,False
+10.1016/j.rse.2024.114226,United States,1,0,False,0.0,2024,United States,False
+10.1002/esp.5390,Suriname,1,0,False,0.0,2022,Netherlands,False
+10.7717/peerj.9471,China,1,0,False,0.0,2020,China,False
+10.18520/cs/v111/i9/1492-1499,India,1,0,False,0.0,2016,India,False
+10.1007/s10021-023-00871-z,USA,1,0,False,0.0,2024,United States,True
+10.1016/j.margeo.2004.04.026,French Guiana,1,0,False,0.0,2004,United States,False
+10.1016/j.ecolind.2018.09.063,,0,0,False,0.0,2019,United States,False
+10.3390/rs17060964,,0,0,False,0.0,2025,China,False
+10.1109/JSTARS.2024.3398604,,0,0,False,0.0,2024,China,False
+10.3390/rs13101986,China,1,0,False,0.0,2021,China,False
+10.1016/j.rsma.2021.101871,India,1,0,False,0.0,2021,India,False
+10.3390/rs14153679,,0,0,False,0.0,2022,China,False
+10.1002/rse2.394,,0,0,False,0.0,2024,United States,False
+10.1029/2020JG006159,,0,0,False,0.0,2021,China,False
+10.1016/j.ecoleng.2025.107709,,0,0,False,0.0,2025,China,False
+10.1109/TGRS.2024.3407363,,0,0,False,0.0,2024,China,False
+10.1016/j.marpolbul.2019.05.046,China,1,0,False,0.0,2019,China,False
+10.1016/j.ecolind.2024.112430,Bangladesh,1,1,True,1.0,2024,Japan,True
+10.1016/j.ecoinf.2022.101843,India,1,0,False,0.0,2022,India,False
+10.1109/IGARSS.2011.6049678,Singapore,1,0,False,0.0,2011,Singapore,False
+10.3389/feart.2021.771753,,0,0,False,0.0,2022,China,False
+10.1016/j.jclepro.2024.140889,India; Bangladesh,2,1,True,0.5,2024,India,True
+10.3390/su18115594,China,1,0,False,0.0,2026,China,False
+10.3390/rs16020396,,0,0,False,0.0,2024,China,False
+10.1088/2515-7620/ae52ae,China,1,0,False,0.0,2026,China,False
+10.1016/j.ecolind.2024.111714,,0,0,False,0.0,2024,China,False
+10.1016/j.ocecoaman.2019.104918,India,1,0,False,0.0,2019,India,False
+10.5194/isprs-archives-XLII-3-W4-45-2018,Saudi Arabia,1,0,False,0.0,2018,Saudi Arabia,False
+10.1038/s41598-025-05397-z,,0,0,False,0.0,2025,Vietnam,False
+10.1111/sjtg.12228,Myanmar,1,1,True,1.0,2018,Singapore,True
+10.1007/s12524-016-0562-9,India,1,0,False,0.0,2016,India,False
+10.1016/j.catena.2025.108813,China,1,0,False,0.0,2025,China,False
+10.1371/journal.pone.0275928,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.3389/fmars.2022.814577,,0,0,False,0.0,2022,Singapore,False
+10.1016/S0304-3770(97)00013-2,Turks and Caicos Islands,1,0,False,0.0,1997,United Kingdom,False
+10.1109/JSTARS.2017.2782324,,0,0,False,0.0,2018,India,False
+10.1016/j.ecolind.2021.108135,China,1,0,False,0.0,2021,China,False
+10.1038/s41598-022-05189-9,,0,0,False,0.0,2022,Saudi Arabia,False
+10.3390/rs11172043,,0,0,False,0.0,2019,China,False
+10.3390/rs12091472,,0,0,False,0.0,2020,United States,False
+10.18520/cs/v115/i3/541-548,India,1,0,False,0.0,2018,India,False
+10.1016/j.ecss.2026.109903,French Guiana,1,0,False,0.0,2026,France,False
+10.1002/ece3.73574,China,1,0,False,0.0,2026,China,False
+10.1016/j.catena.2022.106413,United States; Brazil,2,1,True,0.5,2022,United States,True
+10.1038/s41598-022-15774-7,China,1,0,False,0.0,2022,China,False
+10.1049/ipr2.13263,,0,0,False,0.0,2024,China,False
+10.2112/SI75-163.1,French Guiana,1,0,False,0.0,2016,France,False
+10.1016/j.quascirev.2024.108842,Oman,1,0,False,0.0,2024,Saudi Arabia,False
+10.1109/IGARSS.2010.5652405,,0,0,False,0.0,2010,France,False
+10.1007/s12524-010-0013-y,India,1,0,False,0.0,2010,India,False
+10.1016/j.ecolind.2021.107901,,0,0,False,0.0,2021,China,False
+10.1117/1.JRS.16.034525,,0,0,False,0.0,2022,China,False
+10.3390/rs15225271,,0,0,False,0.0,2023,China,False
+10.3390/rs15020295,Bangladesh,1,1,True,1.0,2023,Japan,True
+10.3390/rs14153694,,0,0,False,0.0,2022,China,False
+10.1016/j.jag.2022.102750,China,1,0,False,0.0,2022,China,False
+10.1109/EAIT.2014.18,,0,0,False,0.0,2014,India,False
+10.1117/1.JRS.15.042606,,0,0,False,0.0,2021,India,False
+10.1080/15481603.2015.1026049,China,1,0,False,0.0,2015,China,False
+10.1117/12.2068938,India,1,0,False,0.0,2014,India,False
+10.1007/s10661-017-6426-0,India,1,0,False,0.0,2018,India,False
+10.1117/1.JRS.12.046029,,0,0,False,0.0,2018,China,False
+10.1109/JSTARS.2021.3070810,China,1,0,False,0.0,2021,China,False
+10.1016/j.apgeog.2017.08.018,Honduras,1,0,False,0.0,2017,United States,False
+10.1016/j.ecss.2006.08.007,Vietnam,1,0,False,0.0,2007,France,False
+10.5343/bms.2012.1069,Indonesia; Brazil; India; Bangladesh; China; Thailand; Vietnam; Ecuador,8,3,True,0.125,2013,United States,True
+10.1371/journal.pone.0135538,China,1,0,False,0.0,2015,China,False
+10.1007/978-3-319-78208-9_5,India,1,0,False,0.0,2018,India,False
+10.1007/s10668-020-00656-7,India,1,0,False,0.0,2021,India,False
+10.1007/s11852-011-0162-3,India,1,0,False,0.0,2012,India,False
+10.1080/01431160701646332,,0,0,False,0.0,2008,United States,False
+10.3390/rs17132290,,0,0,False,0.0,2025,United States,False
+10.1002/ldr.70105,,0,0,False,0.0,2026,India,False
+10.1016/j.scitotenv.2024.172284,United States,1,0,False,0.0,2024,United States,True
+10.2112/05-0599.1,India,1,0,False,0.0,2007,India,False
+10.1007/s11273-011-9245-z,India,1,0,False,0.0,2012,India,False
+10.3390/rs12101634,Cambodia; Jamaica; Peru; Philippines; Senegal; Uganda; Zambia,7,0,False,0.0,2020,United States,False
+10.3390/su16135311,,0,0,False,0.0,2024,China,False
+10.1016/j.rsma.2021.101985,Vietnam,1,0,False,0.0,2021,Vietnam,False
+10.1016/j.isprsjprs.2020.10.001,China,1,0,False,0.0,2020,China,False
+10.1016/j.ecss.2008.10.001,Thailand,1,0,False,0.0,2009,Japan,False
+10.1016/j.ecolind.2025.113113,China; Vietnam,2,0,False,0.0,2025,China,False
+10.3390/land14091820,Sri Lanka,1,0,False,0.0,2025,Japan,False
+10.1007/s10661-007-9636-z,India,1,0,False,0.0,2007,India,False
+10.1117/12.978992,Thailand,1,0,False,0.0,2012,Japan,False
+10.1109/Agro-Geoinformatics262780.2024.10661009,,0,0,False,0.0,2024,United States,False
+10.1038/s43247-026-03532-w,Bangladesh,1,1,True,1.0,2026,China,True
+10.1016/j.rse.2016.04.026,Indonesia,1,1,True,1.0,2016,United States,True
+10.3390/s24134108,,0,0,False,0.0,2024,China,False
+10.3390/rs12142289,,0,0,False,0.0,2020,Vietnam,False
+10.3390/rs12142344,,0,0,False,0.0,2020,United Kingdom,False
+10.3390/f16071168,,0,0,False,0.0,2025,China,False
+10.1002/oik.11095,,0,0,False,0.0,2025,Singapore,False
+10.1016/j.geoforum.2018.10.019,Cayman Islands,1,0,False,0.0,2018,United Kingdom,False
+10.1109/JSTARS.2022.3185078,China,1,0,False,0.0,2022,China,False
+10.3354/meps13067,Bahamas,1,0,False,0.0,2019,United States,False
+10.1007/s12040-014-0503-3,,0,0,False,0.0,2014,India,False
+10.1007/s10531-024-02800-5,Indonesia,1,1,True,1.0,2024,United States,True
+10.1080/13416979.2022.2045676,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.1016/j.ecss.2020.106750,,0,0,False,0.0,2021,United States,False
+10.1117/12.976284,Indonesia,1,1,True,1.0,2012,Japan,True
+10.1016/j.pce.2022.103135,India,1,0,False,0.0,2022,India,False
+10.1016/j.gsf.2023.101665,China,1,0,False,0.0,2024,China,False
+10.1109/JSTARS.2024.3494058,China,1,0,False,0.0,2025,China,False
+10.1016/j.rse.2020.111940,Puerto Rico,1,0,False,0.0,2020,United States,False
+10.1007/s11355-024-00620-x,,0,0,False,0.0,2025,India,False
+10.1007/s12237-023-01217-7,,0,0,False,0.0,2023,United States,False
+10.1080/01431161.2026.2624802,India,1,0,False,0.0,2026,India,False
+10.3390/land11122158,,0,0,False,0.0,2022,China,False
+10.3390/su15010759,China,1,0,False,0.0,2023,China,False
+10.1109/IGARSS.2007.4423301,China,1,0,False,0.0,2007,China,False
+10.1016/j.rsma.2024.103822,Qatar,1,0,False,0.0,2024,United States,False
+10.1007/s10113-022-01913-3,French Guiana; Guyana; Suriname,3,0,False,0.0,2022,France,False
+10.1007/s11252-015-0511-3,Singapore,1,0,False,0.0,2016,Singapore,False
+10.1016/j.jenvman.2019.04.095,India,1,0,False,0.0,2019,India,False
+10.1007/s10661-025-14380-0,Bangladesh,1,1,True,1.0,2025,Japan,True
+10.3390/rs12223758,Myanmar,1,1,True,1.0,2020,United Kingdom,True
+10.1016/j.ecss.2013.09.017,New Zealand,1,0,False,0.0,2013,China,False
+10.1186/s13021-021-00172-9,China,1,0,False,0.0,2021,China,False
+10.1080/01431161.2017.1312033,,0,0,False,0.0,2017,United States,False
+10.5194/isprs-archives-XLVIII-1-W2-2023-405-2023,,0,0,False,0.0,2023,India,False
+10.1007/s11273-025-10052-5,,0,0,False,0.0,2025,India,False
+10.1007/s13157-014-0512-7,Mayotte,1,0,False,0.0,2014,France,False
+10.1016/j.ancene.2021.100295,,0,0,False,0.0,2021,United States,False
+10.1016/j.csr.2008.01.003,French Guiana,1,0,False,0.0,2008,France,False
+10.3390/rs14092146,Myanmar,1,1,True,1.0,2022,China,True
+10.1073/pnas.1315800111,,0,0,False,0.0,2014,United States,False
+10.1017/S0376892905002493,Myanmar,1,1,True,1.0,2005,United States,True
+10.1016/j.csr.2008.09.017,French Guiana,1,0,False,0.0,2009,France,False
+10.5194/essd-13-2001-2021,,0,0,False,0.0,2021,United States,False
+10.1155/2015/641798,Indonesia,1,1,True,1.0,2015,Japan,True
+10.3390/w16243662,,0,0,False,0.0,2024,China,False
+10.1080/01431160802474014,Panama,1,0,False,0.0,2009,United States,False
+10.1080/014311698215801,Turks and Caicos Islands,1,0,False,0.0,1998,United Kingdom,False
+10.1016/j.ocecoaman.2025.107711,Vietnam,1,0,False,0.0,2025,Vietnam,False
+10.1007/s11069-025-07654-w,India,1,0,False,0.0,2025,India,False
+10.3390/rs16152796,,0,0,False,0.0,2024,United States,False
+10.1007/s11284-008-0518-9,Japan,1,0,False,0.0,2009,Japan,False
+10.1016/j.jag.2014.06.006,,0,0,False,0.0,2014,China,False
+10.1016/j.geoderma.2022.116093,,0,0,False,0.0,2022,China,False
+10.1016/j.ecolind.2018.03.076,Philippines,1,0,False,0.0,2018,United Kingdom,False
+10.1016/j.jag.2018.07.025,China,1,0,False,0.0,2018,China,False
+10.1007/s00704-014-1206-z,India,1,0,False,0.0,2015,United States,False
+10.1007/s10531-026-03369-x,,0,0,False,0.0,2026,United Kingdom,False
+10.1109/JSTARS.2025.3549480,,0,0,False,0.0,2025,China,False
+10.17491/jgsi/2025/174188,India,1,0,False,0.0,2025,India,False
+10.3390/rs16010076,Myanmar,1,1,True,1.0,2024,Japan,True
+10.1016/j.ecss.2018.12.021,Vietnam,1,0,False,0.0,2019,Vietnam,False
+10.1175/JPO-D-23-0019.1,India,1,0,False,0.0,2024,India,False
+10.1080/01431161.2026.2684248,,0,0,False,0.0,2026,India,False
+10.1016/j.eswa.2026.132633,,0,0,False,0.0,2026,China,False
+10.3390/rs18111716,,0,0,False,0.0,2026,United States,False
+10.1117/12.751057,China,1,0,False,0.0,2007,China,False
+10.1080/014311698213858,Martinique,1,0,False,0.0,1998,France,False
+10.1016/j.marpolbul.2025.119005,China,1,0,False,0.0,2026,China,False
+10.1007/s11707-011-0156-3,China,1,0,False,0.0,2011,China,False
+10.1109/IGARSS.2006.515,,0,0,False,0.0,2006,United States,False
+10.1007/s40009-012-0087-x,India,1,0,False,0.0,2013,India,False
+10.1080/15481603.2014.936669,Thailand,1,0,False,0.0,2014,United States,False
+10.1080/01431161.2015.1054959,,0,0,False,0.0,2015,United States,False
+10.1111/gcb.12843,,0,0,False,0.0,2015,United States,False
+10.5194/isprsarchives-XL-8-1403-2014,India,1,0,False,0.0,2014,India,False
+10.1007/s40010-017-0434-x,,0,0,False,0.0,2017,India,False
+10.1080/01431161.2019.1655174,,0,0,False,0.0,2020,India,False
+10.3389/feart.2020.560933,,0,0,False,0.0,2021,United States,False
+10.3390/md9101887,,0,0,False,0.0,2011,China,False
+10.3390/f14081566,,0,0,False,0.0,2023,China,False
+10.1007/s11356-023-27395-2,Saudi Arabia,1,0,False,0.0,2023,Saudi Arabia,False
+10.1109/JSTARS.2026.3671376,China,1,0,False,0.0,2026,China,False
+10.1007/s11273-023-09925-4,Vietnam,1,0,False,0.0,2023,Vietnam,False
+10.1016/j.ocecoaman.2021.106013,Vietnam,1,0,False,0.0,2022,Netherlands,False
+10.1016/j.jag.2017.06.010,China,1,0,False,0.0,2017,China,False
+10.1111/geb.12140,Indonesia; Nigeria; Cuba; Brazil; Philippines,5,4,True,0.2,2014,Singapore,True
+10.1016/j.quascirev.2023.108064,United States,1,0,False,0.0,2023,United States,True
+10.1016/j.ecolind.2024.112685,China,1,0,False,0.0,2024,China,False
+10.3390/rs13020316,Sri Lanka,1,0,False,0.0,2021,Japan,False
+10.3390/rs13183740,Fiji,1,0,False,0.0,2021,China,False
+10.1016/j.jenvman.2022.115100,Vietnam; Indonesia; Thailand; Myanmar,4,2,True,0.25,2022,China,True
+10.1016/j.scitotenv.2023.165413,,0,0,False,0.0,2023,United States,True
+10.1016/j.ocecoaman.2020.105120,,0,0,False,0.0,2020,United Kingdom,False
+10.1016/j.jsames.2025.105560,Mexico,1,1,True,1.0,2025,India,True
+10.1007/s11273-026-10140-0,,0,0,False,0.0,2026,India,False
+10.1016/j.scitotenv.2021.145854,,0,0,False,0.0,2021,United Kingdom,False
+10.1038/s41586-022-05355-z,,0,0,False,0.0,2022,United States,False
+10.3390/rs16214077,Myanmar,1,1,True,1.0,2024,Japan,True
+10.1016/j.jaridenv.2006.05.016,,0,0,False,0.0,2007,United States,False
+10.3964/j.issn.1000-0593(2013)01-0136-06,,0,0,False,0.0,2013,China,False
+10.3390/rs12050777,Vietnam,1,0,False,0.0,2020,Japan,False
+10.1111/j.1744-7429.1999.tb00408.x,Belize,1,0,False,0.0,1999,United States,False
+10.1002/eco.1509,,0,0,False,0.0,2015,United States,False
+10.2112/JCOASTRES-D-12-00184.1,United States,1,0,False,0.0,2013,United States,True
+10.3354/meps09093,,0,0,False,0.0,2011,United States,False
+10.1109/IGARSS53475.2024.10641171,,0,0,False,0.0,2024,France,False
+10.1109/IGARSS47720.2021.9553650,,0,0,False,0.0,2021,France,False
+10.3390/rs8030217,Vietnam; Cambodia; Lao PDR,3,0,False,0.0,2016,France,False
+10.1117/1.JRS.18.032404,United States,1,0,False,0.0,2024,United States,False
+10.1007/s13157-017-0925-1,,0,0,False,0.0,2018,China,False
+10.1007/s11852-022-00923-x,Sri Lanka,1,0,False,0.0,2022,Vietnam,False
+10.1016/j.rse.2017.11.009,Mexico,1,1,True,1.0,2018,United Kingdom,True
+10.1016/j.ecss.2021.107432,Gabon,1,0,False,0.0,2021,United States,False
+10.1007/s11600-023-01040-5,India,1,0,False,0.0,2024,India,False
+10.1016/j.rse.2021.112584,United States; China,2,0,False,0.0,2021,United States,False
+10.3390/su17031069,China,1,0,False,0.0,2025,China,False
+10.1016/j.gecco.2024.e03355,China,1,0,False,0.0,2025,China,False
+10.1109/LGRS.2009.2014398,Panama,1,0,False,0.0,2009,China,False
+10.1109/InGARSS61818.2024.10983985,,0,0,False,0.0,2024,India,False
+10.1080/10549811.2022.2059515,,0,0,False,0.0,2023,India,False
+10.1111/cobi.13715,,0,0,False,0.0,2021,United Kingdom,False
+10.1117/12.2028907,,0,0,False,0.0,2013,United Kingdom,False
+10.1155/2016/9264690,,0,0,False,0.0,2016,China,False
+10.4067/S0717-92002013000200003,Ecuador,1,0,False,0.0,2013,United States,False
+10.1109/InGARSS61818.2024.10984245,,0,0,False,0.0,2024,India,False
+10.1109/IGARSS.2013.6723311,,0,0,False,0.0,2013,Singapore,False
+10.1111/conl.12372,,0,0,False,0.0,2018,United Kingdom,False
+10.3390/land15010037,China,1,0,False,0.0,2025,China,False
+10.1016/j.rse.2020.111798,Belize,1,0,False,0.0,2020,United States,False
+10.1016/j.jag.2007.10.007,,0,0,False,0.0,2008,India,False
+10.1016/j.isprsjprs.2024.06.007,,0,0,False,0.0,2024,Vietnam,False
+10.1016/j.marpolbul.2023.115658,,0,0,False,0.0,2023,China,False
+10.1371/journal.pone.0125404,United States,1,0,False,0.0,2015,United States,True
+10.1007/s13157-013-0483-0,,0,0,False,0.0,2014,United States,False
+10.1002/ldr.2430,Thailand,1,0,False,0.0,2016,Netherlands,False
+10.1016/j.ecolmodel.2017.03.003,India,1,0,False,0.0,2017,India,False
+10.1080/01431161.2019.1648907,China,1,0,False,0.0,2020,China,False
+10.1016/j.isprsjprs.2025.10.007,China,1,0,False,0.0,2025,China,False
+10.3389/fmars.2023.1280373,China,1,0,False,0.0,2023,China,False
+10.1002/clen.201200012,India,1,0,False,0.0,2013,India,False
+10.1007/s10668-020-00791-1,,0,0,False,0.0,2021,India,False
+10.1016/j.marpolbul.2017.05.056,Indonesia,1,1,True,1.0,2018,France,True
+10.14358/PERS.80.10.983,,0,0,False,0.0,2014,United States,False
+10.1117/12.910407,China,1,0,False,0.0,2011,China,False
+10.1007/s10750-018-3673-1,Myanmar,1,1,True,1.0,2018,Vietnam,True
+10.1080/1747423X.2015.1057245,Philippines,1,0,False,0.0,2016,France,False
+10.1016/j.scitotenv.2022.160173,China,1,0,False,0.0,2023,China,False
+10.56042/ijms.v52i01.5436,India,1,0,False,0.0,2023,India,False
+10.1016/j.envsoft.2025.106345,,0,0,False,0.0,2025,France,False
+10.1016/j.marpolbul.2016.06.080,Philippines,1,0,False,0.0,2016,United States,False
+10.1038/s41598-024-73776-z,,0,0,False,0.0,2024,United Kingdom,False
+10.1007/s12665-015-4835-3,Saudi Arabia,1,0,False,0.0,2016,Saudi Arabia,False
+10.1016/j.marpolbul.2023.114726,China,1,0,False,0.0,2023,China,False
+10.1007/s10310-013-0402-5,Thailand,1,0,False,0.0,2014,Japan,False
+10.1016/j.geomorph.2024.109151,,0,0,False,0.0,2024,China,False
+10.1080/01431161.2012.717181,Bangladesh; India,2,1,True,0.5,2013,Japan,True
+10.5194/isprs-annals-X-3-2024-383-2024,,0,0,False,0.0,2024,China,False
+10.1016/j.jenvman.2025.127840,Philippines,1,0,False,0.0,2025,Japan,False
+10.1016/j.isprsjprs.2024.09.026,China; Thailand; Vietnam; Indonesia,4,1,True,0.25,2024,China,True
+10.1016/j.agrformet.2014.11.017,,0,0,False,0.0,2015,United States,False
+10.1007/s12237-023-01301-y,,0,0,False,0.0,2024,United States,False
+10.1016/j.csr.2020.104319,Vietnam,1,0,False,0.0,2021,United States,False
+10.1088/1748-9326/ae6dd8,,0,0,False,0.0,2026,United States,False
+10.1016/j.marpolbul.2016.03.006,,0,0,False,0.0,2016,United States,False
+10.1016/j.rsma.2026.104800,India,1,0,False,0.0,2026,India,False
+10.1007/s11852-019-00683-1,,0,0,False,0.0,2019,India,False
+10.3390/jmse13010017,China,1,0,False,0.0,2025,China,False
+10.3390/s26051701,,0,0,False,0.0,2026,China,False
+10.3389/fpls.2025.1623458,,0,0,False,0.0,2025,China,False
+10.2112/JCOASTRES-D-19-00088.1,,0,0,False,0.0,2020,United States,False
+10.3390/rs6076111,French Guiana; Australia,2,0,False,0.0,2014,United States,False
+10.1016/j.geodrs.2025.e00928,India,1,0,False,0.0,2025,India,False
+10.1080/19475705.2025.2585167,,0,0,False,0.0,2025,China,False
+10.1016/j.ocecoaman.2014.01.010,Bahamas,1,0,False,0.0,2014,United States,False
+10.3390/rs10101669,,0,0,False,0.0,2018,United Kingdom,False
+10.1007/s12524-024-02027-5,,0,0,False,0.0,2025,Vietnam,False
+10.3389/fmars.2022.892946,Colombia,1,1,True,1.0,2022,United States,True
+10.7717/peerj.9776,,0,0,False,0.0,2020,United States,False
+10.3390/su11164396,Iran,1,0,False,0.0,2019,China,False
+10.3389/fmars.2022.1043943,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.1007/s10661-020-08270-w,Iran,1,0,False,0.0,2020,China,False
+10.1007/s42965-022-00256-8,India,1,0,False,0.0,2023,India,True
+10.1007/s12237-026-01697-3,Aruba; Curaçao; Bonaire,3,0,False,0.0,2026,United States,False
+10.1007/s11852-025-01175-1,,0,0,False,0.0,2025,India,False
+10.1016/j.foreco.2025.123330,Indonesia; Myanmar; Malaysia; Philippines; Thailand; Vietnam,6,2,True,0.1667,2026,Japan,True
+10.1007/s12237-019-00638-7,,0,0,False,0.0,2020,United States,False
+10.3389/fmars.2022.932984,China,1,0,False,0.0,2022,China,False
+10.1088/0959-7174/14/2/010,,0,0,False,0.0,2004,France,False
+10.1080/17538947.2026.2627082,,0,0,False,0.0,2026,China,False
+10.3390/jmse11112053,,0,0,False,0.0,2023,United States,False
+10.3390/rs70302715,,0,0,False,0.0,2015,United Kingdom,False
+10.1007/s13157-013-0472-3,China,1,0,False,0.0,2014,China,False
+10.1016/j.ocecoaman.2015.11.024,India,1,0,False,0.0,2016,India,False
+10.1007/s11852-026-01213-6,India,1,0,False,0.0,2026,India,False
+10.1007/s10661-025-14219-8,Myanmar,1,1,True,1.0,2025,China,True
+10.1016/j.ecss.2015.11.027,,0,0,False,0.0,2016,Saudi Arabia,False
+10.3390/rs14102291,,0,0,False,0.0,2022,United Kingdom,False
+10.4028/www.scientific.net/AMR.450-451.985,China,1,0,False,0.0,2012,China,False
+10.1117/1.3563584,American Samoa; Fiji; French Polynesia; Guam; Hawaii; Kiribati; Marshall Islands; Micronesia; Nauru; New Caledonia; Northern Mariana Islands; Palau; Papua New Guinea; Samoa; Solomon Islands; Tonga; Tuvalu; Vanuatu; Wallis and Futuna Islands,19,1,True,0.0526,2011,United States,True
+10.1080/10106049.2016.1140819,India,1,0,False,0.0,2017,India,False
+10.1080/17538941003777521,,0,0,False,0.0,2011,Japan,False
+10.3390/land12040851,China,1,0,False,0.0,2023,China,False
+10.3390/land15060901,Saudi Arabia,1,0,False,0.0,2026,Saudi Arabia,False
+10.3390/f16030550,,0,0,False,0.0,2025,China,False
+10.1038/s41598-025-26905-1,,0,0,False,0.0,2025,India,False
+10.3389/fmars.2026.1632093,China,1,0,False,0.0,2026,China,False
+10.1007/s11852-024-01029-2,India,1,0,False,0.0,2024,India,False
+10.3390/land11101714,Kenya,1,0,False,0.0,2022,United Kingdom,False
+10.1007/s42965-019-00043-y,India,1,0,False,0.0,2019,India,False
+10.1007/s11852-014-0313-4,India,1,0,False,0.0,2014,India,False
+10.1145/3764919.3770871,,0,0,False,0.0,2025,United States,False
+10.1007/s00253-020-10792-9,,0,0,False,0.0,2020,China,False
+10.1109/TGRS.2023.3323741,China,1,0,False,0.0,2023,China,False
+10.1016/j.ecoinf.2024.102509,India,1,0,False,0.0,2024,India,False
+10.1016/j.ecolind.2025.113705,China,1,0,False,0.0,2025,China,False
+10.3389/fmars.2021.780946,,0,0,False,0.0,2022,United States,False
+10.3390/f14112217,China,1,0,False,0.0,2023,China,False
+10.1016/j.jag.2021.102390,Iran,1,0,False,0.0,2021,China,False
+10.1007/s10021-015-9916-3,,0,0,False,0.0,2016,United States,False
+10.1016/j.ecss.2026.109719,China,1,0,False,0.0,2026,China,False
+10.3390/rs11212479,,0,0,False,0.0,2019,China,False
+10.4028/www.scientific.net/AMR.605-607.2274,,0,0,False,0.0,2013,China,False
+10.2112/04-0255.1,India,1,0,False,0.0,2008,India,False
+10.3390/rs16030494,China,1,0,False,0.0,2024,China,False
+10.1021/acs.est.5c06377,Solomon Islands; Bahamas; Colombia,3,1,True,0.3333,2025,United States,True
+10.3390/f17020240,,0,0,False,0.0,2026,Japan,False
+10.3897/BDJ.11.e100050,Philippines,1,0,False,0.0,2023,China,False
+10.3390/rs14102317,India,1,0,False,0.0,2022,India,False
+10.3390/f14122356,China,1,0,False,0.0,2023,China,False
+10.1080/01431160305012,,0,0,False,0.0,2003,United Kingdom,False
+10.1002/ecy.70397,USA,1,0,False,0.0,2026,United States,True
+10.1016/j.rsma.2025.104133,India,1,0,False,0.0,2025,India,False
+10.3390/rs14051241,,0,0,False,0.0,2022,Vietnam,False
+10.1007/s10641-018-0809-0,Cuba,1,1,True,1.0,2019,United States,True
+10.1111/cobi.13905,China,1,0,False,0.0,2022,China,False
+10.1016/j.ecolind.2025.114260,China,1,0,False,0.0,2025,China,False
+10.1111/geb.12751,,0,0,False,0.0,2018,United States,False
+10.1007/s13157-013-0505-y,,0,0,False,0.0,2014,India,False
+10.1016/j.rsma.2021.101803,,0,0,False,0.0,2021,Vietnam,False
+10.1080/22797254.2018.1432295,Senegal; Guinea-Bissau,2,1,True,0.5,2018,France,True
+10.1016/j.ocecoaman.2011.07.013,India,1,0,False,0.0,2011,India,False
+10.1016/j.rsma.2025.104322,India,1,0,False,0.0,2025,India,False
+10.3390/f15071246,,0,0,False,0.0,2024,China,False
+10.1007/s10750-007-0783-6,Thailand,1,0,False,0.0,2007,Netherlands,False
+10.1038/s41598-018-31060-x,,0,0,False,0.0,2018,Netherlands,False
+10.1038/s41598-026-44855-0,India,1,0,False,0.0,2026,India,False
+10.1016/j.marpolbul.2025.118269,India,1,0,False,0.0,2025,India,False
+10.1007/s10113-020-01637-2,India,1,0,False,0.0,2020,India,False
+10.1016/j.isprsjprs.2017.06.013,,0,0,False,0.0,2017,United States,False
+10.1016/j.gecco.2024.e03022,Madagascar,1,1,True,1.0,2024,United States,True
+10.1016/j.marpolbul.2014.04.015,India,1,0,False,0.0,2014,India,False
+10.3390/s16122010,United States,1,0,False,0.0,2016,United States,False
+10.1186/s13717-023-00432-1,China,1,0,False,0.0,2023,China,False
+10.1007/s11273-015-9465-8,Mozambique,1,1,True,1.0,2016,United States,True
+10.1029/92JD03019,,0,0,False,0.0,1993,United States,False
+10.1007/s11355-010-0126-z,China,1,0,False,0.0,2011,China,False
+10.1016/j.ecolind.2025.113877,,0,0,False,0.0,2025,China,False
+10.1007/978-3-031-17808-5_18,Vietnam,1,0,False,0.0,2023,Vietnam,False
+10.1016/j.jenvman.2025.128283,,0,0,False,0.0,2026,China,False
+10.3389/fmars.2023.1243116,China,1,0,False,0.0,2023,China,False
+10.1007/s11356-022-22216-4,,0,0,False,0.0,2022,China,False
+10.3964/j.issn.1000-0593(2013)02-0454-05,,0,0,False,0.0,2013,China,False
+10.3390/rs16234421,United States,1,0,False,0.0,2024,United States,False
+10.1016/S1572-7785(04)01011-1,China,1,0,False,0.0,2004,China,False
+10.1080/01431160110107725,,0,0,False,0.0,2002,France,False
+10.3390/su15107830,,0,0,False,0.0,2023,China,False
+10.1016/j.ecss.2025.109642,,0,0,False,0.0,2026,China,False
+10.1016/j.isprsjprs.2026.03.033,,0,0,False,0.0,2026,United States,False
+10.1007/s00704-025-05557-1,India,1,0,False,0.0,2025,India,False
+10.1007/s10236-010-0321-3,United States,1,0,False,0.0,2010,United States,True
+10.3390/f15101696,China,1,0,False,0.0,2024,China,False
+10.1117/12.2049590,Nigeria,1,1,True,1.0,2014,United Kingdom,True
+10.1016/j.foreco.2021.119611,China,1,0,False,0.0,2021,China,False
+10.3390/rs13020245,,0,0,False,0.0,2021,China,False
+10.1080/14634980701512525,,0,0,False,0.0,2007,France,False
+10.1016/j.rsma.2025.104521,China,1,0,False,0.0,2025,China,False
+10.1007/s10668-021-01291-6,India,1,0,False,0.0,2021,India,False
+10.1071/MF17101,China,1,0,False,0.0,2018,China,False
+10.1080/17538947.2025.2558920,China,1,0,False,0.0,2025,China,False
+10.1007/s11852-020-00737-9,India,1,0,False,0.0,2020,India,False
+10.1016/j.scitotenv.2021.152631,China,1,0,False,0.0,2022,China,False
+10.3390/jmse13101986,Pakistan,1,0,False,0.0,2025,China,False
+10.3390/s18010012,Sierra Leone,1,0,False,0.0,2018,United States,False
+10.1016/j.ocecoaman.2012.12.014,Peru,1,0,False,0.0,2013,France,False
+10.1016/j.rsma.2020.101573,India,1,0,False,0.0,2021,India,False
+10.1007/s11355-022-00525-7,Japan,1,0,False,0.0,2023,Japan,False
+10.1007/s11273-026-10141-z,,0,0,False,0.0,2026,India,False
+10.3390/f8060190,Madagascar,1,1,True,1.0,2017,United Kingdom,True
+10.1016/j.gloenvcha.2018.05.005,India,1,0,False,0.0,2018,India,False
+10.15666/aeer/1806_74997514,Vietnam,1,0,False,0.0,2020,Vietnam,False
+10.1016/j.ecolind.2025.113225,,0,0,False,0.0,2025,China,False
+10.1016/j.jag.2021.102431,China,1,0,False,0.0,2021,China,False
+10.1016/j.ecolind.2024.111763,China,1,0,False,0.0,2024,China,False
+10.1007/s10661-010-1669-z,Nigeria,1,1,True,1.0,2011,United Kingdom,True
+10.1038/s41467-021-26887-4,,0,0,False,0.0,2021,Netherlands,False
+10.1007/s11273-015-9479-2,Vietnam,1,0,False,0.0,2016,Vietnam,False
+10.1016/j.scitotenv.2004.08.015,,0,0,False,0.0,2005,China,False
+10.3390/app10124058,,0,0,False,0.0,2020,Vietnam,False
+10.1111/gcb.15494,United States,1,0,False,0.0,2021,United States,False
+10.1016/j.gsf.2024.101820,India,1,0,False,0.0,2024,India,False
+10.1111/sed.70017,Oman,1,0,False,0.0,2025,Saudi Arabia,False
+10.1016/j.scitotenv.2023.163356,Pakistan,1,0,False,0.0,2023,China,False
+10.1016/j.rsma.2022.102212,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.1016/j.jag.2019.101902,China,1,0,False,0.0,2019,China,False
+10.1007/s12237-025-01640-y,Vietnam,1,0,False,0.0,2025,Vietnam,False
+10.3390/land13071080,Pakistan,1,0,False,0.0,2024,China,False
+10.1016/j.jenvman.2026.129639,China,1,0,False,0.0,2026,China,False
+10.1109/JSTARS.2024.3454976,China,1,0,False,0.0,2025,China,False
+10.1016/j.jag.2024.103765,,0,0,False,0.0,2024,China,False
+10.1016/j.aquaculture.2019.234666,China,1,0,False,0.0,2020,China,False
+10.1016/j.atmosenv.2007.02.023,India,1,0,False,0.0,2007,India,False
+10.1111/1365-2435.70342,,0,0,False,0.0,2026,China,False
+10.34133/ehs.0257,China,1,0,False,0.0,2024,China,False
+10.1016/j.rsma.2025.104422,Mozambique,1,1,True,1.0,2025,China,True
+10.1080/10106049.2026.2657626,China,1,0,False,0.0,2026,China,False
+10.1073/pnas.1510272113,Indonesia; Malaysia; Myanmar,3,2,True,0.3333,2016,Singapore,True
+10.1088/1748-9326/acdae6,,0,0,False,0.0,2023,United States,False
+10.1016/j.rsma.2020.101420,Vietnam,1,0,False,0.0,2020,Vietnam,False
+10.2112/SI85-290.1,India,1,0,False,0.0,2018,India,False
+10.1007/s12524-016-0567-4,India,1,0,False,0.0,2017,India,True
+10.1175/JTECH-D-12-00022.1,Mexico,1,1,True,1.0,2013,United States,True
+10.1016/j.rsma.2022.102703,India,1,0,False,0.0,2022,India,False
+10.1080/1755876X.2025.2531716,,0,0,False,0.0,2025,China,True
+10.1007/s12524-024-02100-z,,0,0,False,0.0,2025,India,False
+10.1007/s10668-025-06414-x,India,1,0,False,0.0,2025,India,False
+10.3390/rs15205018,United States,1,0,False,0.0,2023,United States,False
+10.1109/JSTARS.2024.3353251,China,1,0,False,0.0,2024,China,False
+10.1016/j.jag.2025.104789,China,1,0,False,0.0,2025,China,False
+10.1038/s41559-023-02264-w,,0,0,False,0.0,2024,China,False
+10.1016/j.ecolind.2023.110063,,0,0,False,0.0,2023,China,False
+10.1007/s13131-022-2126-x,China,1,0,False,0.0,2023,China,False
+10.5343/bms.2017.1026,Cuba,1,1,True,1.0,2018,United States,True
+10.1016/j.marpol.2022.105094,Indonesia,1,1,True,1.0,2022,United Kingdom,True
+10.3390/rs14092100,,0,0,False,0.0,2022,China,False
+10.1590/S1679-87592019025806715,India,1,0,False,0.0,2019,India,False
+10.1016/j.jenvman.2022.116568,Madagascar,1,1,True,1.0,2023,China,True
+10.3389/fmars.2024.1430545,,0,0,False,0.0,2024,China,False
+10.1029/2024JG008165,,0,0,False,0.0,2024,United States,False
+10.1080/014311697217107,Nigeria,1,1,True,1.0,1997,United Kingdom,True
+10.1016/j.rse.2025.114923,China,1,0,False,0.0,2025,China,False
+10.1016/j.marpolbul.2026.119330,China,1,0,False,0.0,2026,China,False
+10.1016/j.jenvman.2025.127520,,0,0,False,0.0,2025,China,False
+10.1016/j.ecolind.2025.113874,China,1,0,False,0.0,2025,China,False
+10.1016/j.marenvres.2025.107350,,0,0,False,0.0,2025,China,False
+10.1016/j.marenvres.2025.107655,,0,0,False,0.0,2026,China,False
+10.1016/j.agrformet.2014.10.004,,0,0,False,0.0,2015,United States,False
+10.3390/land13091351,,0,0,False,0.0,2024,United States,False
+10.1007/s40010-017-0457-3,India,1,0,False,0.0,2017,India,False
+10.1371/journal.pone.0118880,Ecuador,1,0,False,0.0,2015,United States,False
+10.1029/2025EF006854,China,1,0,False,0.0,2026,China,False
+10.3390/w17233404,Tanzania,1,0,False,0.0,2025,United States,False
+10.1016/j.jag.2024.104310,,0,0,False,0.0,2025,China,False
+10.1016/j.ecolind.2023.110479,China,1,0,False,0.0,2023,China,False
+10.1016/j.ecss.2020.106798,Bangladesh; India; French Guiana,3,1,True,0.3333,2021,Singapore,True
+10.1016/j.gloenvcha.2013.10.007,Myanmar,1,1,True,1.0,2014,Singapore,True
+10.1007/s11676-026-01992-6,,0,0,False,0.0,2026,China,False
+10.1029/2024EF005380,China,1,0,False,0.0,2025,China,False
+10.1007/s10113-021-01811-0,,0,0,False,0.0,2021,India,False
+10.3389/fmars.2025.1642387,Malaysia,1,0,False,0.0,2025,United Kingdom,False
+10.1007/s12524-024-01823-3,India,1,0,False,0.0,2024,India,False
+10.3389/fmars.2021.633493,India,1,0,False,0.0,2021,India,False
+10.1029/2018JG004501,United States,1,0,False,0.0,2018,United States,False
+10.1016/j.jag.2015.03.011,,0,0,False,0.0,2015,United States,False
+10.1016/j.jenvman.2025.125741,China,1,0,False,0.0,2025,China,False
+10.1016/j.scitotenv.2022.154369,Singapore,1,0,False,0.0,2022,Singapore,False
+10.1016/j.ecolind.2025.113242,United States,1,0,False,0.0,2025,India,True
+10.1007/s11273-026-10148-6,,0,0,False,0.0,2026,China,False
+10.3390/s25247559,Bangladesh; India; Myanmar,3,2,True,0.3333,2025,United States,True
+10.1016/j.agrformet.2025.110821,,0,0,False,0.0,2025,China,False
+10.3390/f16081296,Indonesia,1,1,True,1.0,2025,China,True
+10.1007/s10668-024-05257-2,Bangladesh; India,2,1,True,0.5,2026,India,True
+10.1080/01431161.2018.1448483,,0,0,False,0.0,2018,United Kingdom,False
+10.2112/JCOASTRES-D-14-00142.1,United Arab Emirates,1,0,False,0.0,2015,United States,False
+10.1007/s10531-011-0214-x,India,1,0,False,0.0,2012,India,True
+10.1016/j.rsma.2020.101455,India,1,0,False,0.0,2020,Vietnam,False
+10.1007/s00442-021-05056-w,Belize,1,0,False,0.0,2021,United States,False
+10.1016/j.ecss.2018.08.016,India,1,0,False,0.0,2018,India,False
+10.3390/rs18040667,China,1,0,False,0.0,2026,China,False
+10.1007/s12524-021-01432-4,India,1,0,False,0.0,2021,India,False
+10.3934/era.2024260,,0,0,False,0.0,2024,China,False
+10.1016/j.cub.2025.08.002,Belize,1,0,False,0.0,2025,United Kingdom,False
+10.3354/meps09119,,0,0,False,0.0,2011,United States,False
+10.1007/s41208-023-00583-0,India,1,0,False,0.0,2023,India,False
+10.1088/1748-9326/aaf0de,,0,0,False,0.0,2019,United States,False
+10.1016/j.ecoleng.2017.06.063,,0,0,False,0.0,2017,United States,False
+10.3390/jmse13081559,Vietnam,1,0,False,0.0,2025,Vietnam,False
+10.3390/f13101547,China,1,0,False,0.0,2022,China,False
+10.1002/ldr.70372,China,1,0,False,0.0,2026,China,False
+10.3390/rs15174151,China,1,0,False,0.0,2023,China,False
+10.3390/rs14215554,,0,0,False,0.0,2022,China,False
+10.1016/j.jenvman.2026.130021,China,1,0,False,0.0,2026,China,False
+10.1016/j.marpolbul.2026.119387,,0,0,False,0.0,2026,India,False
+10.1016/j.marenvres.2025.107255,China,1,0,False,0.0,2025,China,False
+10.1007/s10661-025-13637-y,,0,0,False,0.0,2025,India,False
+10.1088/1748-9326/ace208,,0,0,False,0.0,2023,United States,False
+10.1016/j.jclepro.2020.124764,India,1,0,False,0.0,2021,India,False
+10.1073/pnas.1101825108,Tanzania,1,0,False,0.0,2011,United States,False
+10.1016/j.envdev.2024.101065,Vietnam,1,0,False,0.0,2024,Vietnam,False
+10.7717/peerj.17563,Cuba,1,1,True,1.0,2024,United States,True
+10.1007/s12237-026-01753-y,,0,0,False,0.0,2026,United States,False
+10.3389/fmars.2022.988240,China,1,0,False,0.0,2022,China,False
+10.1007/s12237-020-00701-8,,0,0,False,0.0,2020,United States,False
+10.1111/ddi.13380,United States,1,0,False,0.0,2021,United States,True
+10.1007/s00267-017-0924-2,Singapore,1,0,False,0.0,2017,Singapore,False
+10.1016/j.chemosphere.2017.12.189,Vietnam,1,0,False,0.0,2018,Vietnam,False
+10.1007/s12040-023-02099-w,India,1,0,False,0.0,2023,India,False
+10.3390/rs11242928,Senegal; Gambia,2,0,False,0.0,2019,United States,False
+10.1016/j.marpolbul.2026.119849,,0,0,False,0.0,2026,India,False
+10.3389/ffgc.2025.1511361,Indonesia,1,1,True,1.0,2025,China,True
+10.1007/s11273-020-09753-w,Micronesia,1,0,False,0.0,2020,United States,False
+10.3390/rs18020345,China,1,0,False,0.0,2026,China,False
+10.1029/2007JG000551,Mozambique,1,1,True,1.0,2008,United States,True
+10.1002/ecy.3309,,0,0,False,0.0,2021,United States,False
+10.1111/cobi.70248,Brazil,1,1,True,1.0,2026,France,True
+10.13031/aea.11212,China,1,0,False,0.0,2017,China,False
+10.1016/j.ecolind.2024.112882,China,1,0,False,0.0,2024,China,False
+10.1007/s10661-022-10575-x,India,1,0,False,0.0,2022,India,False
+10.1007/s10452-024-10111-8,Vietnam,1,0,False,0.0,2024,Vietnam,False
+10.1088/1748-9326/ade731,China,1,0,False,0.0,2025,China,False
+10.1016/j.jclepro.2025.145784,,0,0,False,0.0,2025,China,False
+10.1080/02723646.2025.2541644,,0,0,False,0.0,2025,Vietnam,False
+10.3390/rs14184664,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.1038/s41598-022-06231-6,China,1,0,False,0.0,2022,Japan,False
+10.1016/j.gloplacha.2022.103902,,0,0,False,0.0,2022,China,False
+10.3390/w15091715,China,1,0,False,0.0,2023,China,False
+10.1016/j.rsma.2023.102898,Kenya,1,0,False,0.0,2023,France,False
+10.2112/09-1186.1,India,1,0,False,0.0,2010,India,False
+10.1002/rra.3715,,0,0,False,0.0,2020,India,False
+10.3390/su10020472,,0,0,False,0.0,2018,United States,False
+10.1016/j.gloplacha.2016.02.003,Bangladesh,1,1,True,1.0,2016,India,True
+10.1016/j.marpolbul.2025.118119,Papua New Guinea,1,1,True,1.0,2025,China,True
+10.3390/rs11080921,,0,0,False,0.0,2019,China,False
+10.3390/rs15092220,,0,0,False,0.0,2023,China,False
+10.1016/j.jenvman.2022.116804,Guinea-Bissau,1,1,True,1.0,2023,China,True
+10.1016/j.landusepol.2019.04.034,India,1,0,False,0.0,2019,India,False
+10.3390/rs10122020,China,1,0,False,0.0,2018,China,False
+10.1016/j.ocecoaman.2025.107904,,0,0,False,0.0,2025,China,False
+10.1016/j.foreco.2024.122231,Pakistan,1,0,False,0.0,2024,China,False
+10.1109/TGRS.2023.3249179,,0,0,False,0.0,2023,China,False
+10.1111/gcb.14409,Myanmar,1,1,True,1.0,2018,Japan,True
+10.1016/j.foreco.2024.121755,China,1,0,False,0.0,2024,China,False
+10.1016/j.ocecoaman.2023.106728,China,1,0,False,0.0,2023,China,False
+10.1016/j.ecoleng.2016.03.007,India,1,0,False,0.0,2016,India,False
+10.1109/JSTARS.2024.3495048,China,1,0,False,0.0,2025,China,False
+10.3390/rs13204053,,0,0,False,0.0,2021,China,False
+10.3390/land10070700,Pakistan,1,0,False,0.0,2021,China,False
+10.1007/s10661-015-4821-y,India,1,0,False,0.0,2015,India,False
+10.1016/j.jag.2018.09.017,India,1,0,False,0.0,2019,United States,False
+10.1002/ece3.72561,China,1,0,False,0.0,2025,China,False
+10.1016/j.rse.2012.11.014,Indonesia,1,1,True,1.0,2013,United States,True
+10.1002/esp.5452,,0,0,False,0.0,2022,China,False
+10.5194/isprs-archives-XLVIII-G-2025-309-2025,,0,0,False,0.0,2025,France,False
+10.1016/j.jenvman.2023.119618,China,1,0,False,0.0,2024,United States,False
+10.1016/j.geoderma.2021.115173,Mexico,1,1,True,1.0,2021,United Kingdom,True
+10.1007/s11069-019-03766-2,India,1,0,False,0.0,2020,India,False
+10.1016/j.jenvman.2024.121529,,0,0,False,0.0,2024,United States,True
+10.1016/j.ecss.2022.108144,,0,0,False,0.0,2022,India,False
+10.1016/j.marpolbul.2025.118789,Pakistan,1,0,False,0.0,2026,China,False
+10.3390/app11094258,Belize,1,0,False,0.0,2021,United States,False
+10.1016/j.ecoinf.2022.101743,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.1016/j.apgeog.2017.12.006,,0,0,False,0.0,2018,United Kingdom,False
+10.1016/j.ecss.2006.12.019,Bangladesh; India,2,1,True,0.5,2007,United States,True
+10.1016/j.catena.2023.107601,Myanmar,1,1,True,1.0,2024,China,True
+10.1016/j.rsma.2020.101422,China,1,0,False,0.0,2020,China,False
+10.1029/2019GB006349,United States,1,0,False,0.0,2020,United States,False
+10.1016/j.marenvres.2025.107295,India,1,0,False,0.0,2025,India,False
+10.3390/rs9060539,China,1,0,False,0.0,2017,China,False
+10.3850/978-981-07-0188-8_P093,Malaysia,1,0,False,0.0,2012,Singapore,False
+10.1016/j.margeo.2004.04.008,French Guiana,1,0,False,0.0,2004,France,False
+10.1016/j.ecoinf.2022.101900,India,1,0,False,0.0,2022,India,False
+10.1109/IGARSS52108.2023.10282683,,0,0,False,0.0,2023,India,False
+10.18520/cs/v111/i6/1055-1062,India,1,0,False,0.0,2016,India,False
+10.1080/01431161.2021.2024912,Vietnam,1,0,False,0.0,2022,Vietnam,False
+10.2112/SI102-040.1,,0,0,False,0.0,2020,China,False
+10.1016/S1572-7785(04)01010-X,,0,0,False,0.0,2004,China,False
+10.1080/014311602331291215,Panama,1,0,False,0.0,2004,United States,False
+10.18520/cs/v114/i06/1338-1345,India,1,0,False,0.0,2018,India,False
+10.1016/j.marpolbul.2023.115934,China,1,0,False,0.0,2024,China,False
+10.1007/s42965-020-00053-1,Vietnam,1,0,False,0.0,2019,Japan,False
+10.1111/jbi.12580,French Guiana,1,0,False,0.0,2015,France,False
+10.3390/rs15102495,Cuba,1,1,True,1.0,2023,United States,True
+10.1111/geb.12449,,0,0,False,0.0,2016,United States,True
+10.1016/j.jag.2024.104218,,0,0,False,0.0,2024,China,False
+10.1111/sed.13036,Myanmar,1,1,True,1.0,2023,United States,True
+10.1007/s12665-016-6175-3,Bangladesh,1,1,True,1.0,2016,India,True
+10.1016/j.rse.2024.114151,China,1,0,False,0.0,2024,China,False
+10.1016/j.ecss.2006.01.011,Thailand,1,0,False,0.0,2006,Netherlands,False
+10.1016/j.marchem.2010.02.002,United States,1,0,False,0.0,2010,United States,True
+10.1109/TGRS.2025.3608266,China,1,0,False,0.0,2025,China,False
+10.1080/15481603.2023.2293525,China,1,0,False,0.0,2024,China,False
+10.1029/2024GL109675,,0,0,False,0.0,2024,China,False
+10.1111/geb.13549,China,1,0,False,0.0,2022,China,False
+10.1016/j.foreco.2021.119855,China,1,0,False,0.0,2022,China,False
+10.3390/rs14133112,China,1,0,False,0.0,2022,China,False
+10.1016/j.jag.2021.102349,China,1,0,False,0.0,2021,China,False
+10.1306/020702720591,Bahamas,1,0,False,0.0,2002,United States,False
+10.1016/j.ecoleng.2022.106863,,0,0,False,0.0,2023,Netherlands,False
+10.3390/rs17152559,China,1,0,False,0.0,2025,China,False
+10.1016/j.earscirev.2017.10.008,Vietnam,1,0,False,0.0,2017,China,False
+10.1007/s12517-013-1220-y,India,1,0,False,0.0,2015,India,False
+10.1016/j.ecoinf.2024.102582,China,1,0,False,0.0,2024,China,False
+10.1016/j.ecolind.2020.106914,,0,0,False,0.0,2021,India,False
+10.1016/j.gecco.2020.e00991,,0,0,False,0.0,2020,China,False
+10.1016/j.scitotenv.2019.135909,India,1,0,False,0.0,2020,India,False
+10.1016/j.bmcl.2011.11.109,,0,0,False,0.0,2012,China,False
+10.3390/w15122212,,0,0,False,0.0,2023,China,False
+10.1111/csp2.13247,Tanzania,1,0,False,0.0,2024,United States,False
+10.1109/LGRS.2020.2969522,,0,0,False,0.0,2021,China,False
+10.1016/j.jag.2026.105377,,0,0,False,0.0,2026,China,False
+10.1016/j.eswa.2022.118839,India,1,0,False,0.0,2023,India,False
+10.3389/fenvs.2024.1416450,Pakistan,1,0,False,0.0,2024,China,False
+10.3389/fmars.2022.1005284,,0,0,False,0.0,2022,China,False
+10.1016/j.rse.2021.112799,,0,0,False,0.0,2022,China,False
+10.1016/j.jhydrol.2020.125271,China,1,0,False,0.0,2020,China,False
+10.3389/fmars.2021.702412,,0,0,False,0.0,2021,Netherlands,False
+10.1002/clen.200900195,China,1,0,False,0.0,2010,China,False
+10.1007/s12524-020-01263-9,,0,0,False,0.0,2021,India,False
+10.3390/rs10020294,,0,0,False,0.0,2018,China,False
+10.1016/j.jenvman.2014.01.020,Bangladesh; India; Pakistan; Sri Lanka,4,1,True,0.25,2015,United States,True
+10.1016/j.jksus.2023.103014,India,1,0,False,0.0,2024,India,False
+10.1111/gcb.16693,,0,0,False,0.0,2023,China,False
+10.1016/j.catena.2025.108787,,0,0,False,0.0,2025,India,False
+10.1016/j.scitotenv.2021.146713,India,1,0,False,0.0,2021,India,False
+10.3390/rs10091468,China,1,0,False,0.0,2018,China,False
+10.1016/j.ecolind.2019.105927,China,1,0,False,0.0,2020,China,False
+10.3389/ffgc.2021.746671,,0,0,False,0.0,2021,United Kingdom,False
+10.3390/f11091016,Bangladesh,1,1,True,1.0,2020,China,True
+10.1016/j.marenvres.2023.106282,,0,0,False,0.0,2024,China,False
+10.1007/s10113-025-02386-w,,0,0,False,0.0,2025,India,False
+10.3390/md8102605,,0,0,False,0.0,2010,China,False
+10.1016/j.ocecoaman.2025.107606,China,1,0,False,0.0,2025,China,False
+10.3390/rs13112027,India,1,0,False,0.0,2021,India,False
+10.5194/isprsarchives-XLI-B8-555-2016,,0,0,False,0.0,2016,India,False
+10.1007/s41208-022-00513-6,,0,0,False,0.0,2023,India,False
+10.1890/14-2265.1,,0,0,False,0.0,2015,United States,False
+10.1016/j.ecolind.2025.114126,China,1,0,False,0.0,2025,China,False
+10.1016/j.jhydrol.2024.132026,,0,0,False,0.0,2024,Singapore,False
+10.1016/j.orggeochem.2018.02.011,China,1,0,False,0.0,2018,China,False
+10.1016/j.jag.2022.102918,China,1,0,False,0.0,2022,China,False
+10.1016/j.ecoinf.2025.103454,India,1,0,False,0.0,2025,India,False
+10.1080/15481603.2020.1857623,Vietnam,1,0,False,0.0,2021,Japan,False
+10.1109/IGARSS46834.2022.9883228,,0,0,False,0.0,2022,France,False
+10.1109/SPACE65882.2025.11171033,India,1,0,False,0.0,2025,India,False
+10.46544/AMS.v30i4.14,,0,0,False,0.0,2025,India,False
+10.1016/j.ecolind.2025.114577,China,1,0,False,0.0,2026,China,False
+10.3390/rs17203396,Belize,1,0,False,0.0,2025,United States,False
+10.1080/15481603.2016.1269869,Vietnam,1,0,False,0.0,2017,Japan,False
+10.1007/s13157-014-0558-6,,0,0,False,0.0,2014,United States,False
+10.1007/s10113-024-02272-x,French Guiana,1,0,False,0.0,2024,United States,False
+10.1038/s41598-017-10424-9,,0,0,False,0.0,2017,Saudi Arabia,False
+10.1007/s10646-012-0951-y,,0,0,False,0.0,2012,China,False
+10.3390/molecules28093756,,0,0,False,0.0,2023,China,False
+10.1088/1755-1315/37/1/012035,,0,0,False,0.0,2016,Japan,True
+10.1021/es4053818,,0,0,False,0.0,2014,China,False
+10.1016/j.asr.2024.10.059,India; Bangladesh,2,1,True,0.5,2025,India,True
+10.3390/w18050617,China,1,0,False,0.0,2026,China,False
+10.1007/s12517-017-2904-5,Saudi Arabia,1,0,False,0.0,2017,Saudi Arabia,False
+10.1016/j.rse.2014.08.022,,0,0,False,0.0,2014,United States,False
+10.3389/fmars.2024.1371162,Belize,1,0,False,0.0,2024,United Kingdom,False
+10.1016/j.margeo.2015.12.013,French Guiana,1,0,False,0.0,2016,France,False
+10.1016/j.ecss.2020.106927,China,1,0,False,0.0,2020,China,False
+10.1016/j.ecolind.2023.111497,,0,0,False,0.0,2024,China,False
+10.3390/s18030829,,0,0,False,0.0,2018,United States,False
+10.2112/JCOASTRES-D-16-00013.1,,0,0,False,0.0,2017,United States,False
+10.1117/12.977261,Vietnam,1,0,False,0.0,2012,Vietnam,False
+10.3390/ijerph19063147,"Macao SAR, China",1,0,False,0.0,2022,China,False
+10.1016/j.marpolbul.2005.02.012,,0,0,False,0.0,2005,China,False
+10.1007/s11273-023-09919-2,Nigeria,1,1,True,1.0,2023,United Kingdom,True
+10.1002/lom3.10401,Micronesia,1,0,False,0.0,2021,United States,False
+10.1007/s10668-021-01839-6,India,1,0,False,0.0,2022,India,False
+10.1016/j.rse.2025.114917,China,1,0,False,0.0,2025,China,False
+10.3390/f14122399,China,1,0,False,0.0,2023,China,False
+10.1016/j.ecolind.2023.111537,China,1,0,False,0.0,2024,China,False
+10.1109/JSTARS.2025.3648510,China,1,0,False,0.0,2026,China,False
+10.3390/f12050565,,0,0,False,0.0,2021,China,False
+10.3389/fmars.2021.643784,,0,0,False,0.0,2021,United States,False
+10.1093/envhis/emz031,US Virgin Islands,1,0,False,0.0,2019,United States,False
+10.1007/s42995-023-00210-0,,0,0,False,0.0,2024,China,False
+10.1007/s12665-018-7373-y,Vietnam,1,0,False,0.0,2018,Japan,False
+10.1007/s00248-013-0238-8,China,1,0,False,0.0,2013,China,False
+10.3390/rs71114530,Mexico,1,1,True,1.0,2015,United Kingdom,True
+10.1016/j.jag.2025.105076,,0,0,False,0.0,2026,China,False
+10.5194/isprs-annals-IV-5-273-2018,,0,0,False,0.0,2018,India,False
+10.1016/j.jag.2021.102387,,0,0,False,0.0,2021,China,False
+10.1080/01490419.2019.1583617,China,1,0,False,0.0,2019,China,False
+10.1016/j.rsma.2022.102167,,0,0,False,0.0,2022,China,False
+10.1016/j.jenvman.2021.113573,Oman,1,0,False,0.0,2021,China,False
+10.5194/bg-23-709-2026,,0,0,False,0.0,2026,China,False
+10.1016/j.rsma.2022.102537,Mayotte,1,0,False,0.0,2022,France,False
+10.1016/j.marpolbul.2005.06.005,,0,0,False,0.0,2005,China,False
+10.1016/j.catena.2025.109317,,0,0,False,0.0,2025,China,False
+10.1016/j.ecoleng.2008.07.010,,0,0,False,0.0,2008,China,False
+10.1016/j.quaint.2009.06.035,Australia,1,0,False,0.0,2010,China,False
+10.3390/rs13010052,Myanmar,1,1,True,1.0,2021,Japan,True
+10.1371/journal.pone.0132079,,0,0,False,0.0,2015,United States,False
+10.1016/j.jag.2020.102134,,0,0,False,0.0,2020,United States,False
+10.3389/feart.2019.00035,Suriname,1,0,False,0.0,2019,France,False
+10.1073/pnas.2513685123,,0,0,False,0.0,2026,United States,False
+10.15666/aeer/2305_91679196,,0,0,False,0.0,2025,Saudi Arabia,False
+10.1002/ece3.6467,China,1,0,False,0.0,2020,China,False
+10.1016/j.ecolind.2020.106467,,0,0,False,0.0,2020,China,False
+10.1016/j.ecolind.2023.110134,China,1,0,False,0.0,2023,China,False
+10.2112/05-0477.1,French Guiana,1,0,False,0.0,2007,France,False
+10.1002/esp.4574,,0,0,False,0.0,2019,United States,False
+10.1016/j.ocecoaman.2012.08.005,India,1,0,False,0.0,2012,India,False
+10.1007/s11852-020-00766-4,,0,0,False,0.0,2020,India,False
+10.1109/IGARSS52108.2023.10281755,,0,0,False,0.0,2023,United States,True
+10.1002/gj.5153,India,1,0,False,0.0,2025,India,False
+10.1016/j.rsma.2025.104398,,0,0,False,0.0,2025,India,False
+10.1016/j.ecoleng.2023.106970,China,1,0,False,0.0,2023,China,False
+10.1016/j.isprsjprs.2024.12.009,China,1,0,False,0.0,2025,China,False
+10.1016/j.jag.2024.103905,,0,0,False,0.0,2024,China,False
+10.1016/j.foreco.2015.06.027,Mozambique,1,1,True,1.0,2015,United States,True
+10.1016/j.ecss.2025.109454,Bahamas,1,0,False,0.0,2025,United States,False
+10.3390/rs18122047,China,1,0,False,0.0,2026,China,False
+10.1016/j.isprsjprs.2026.02.014,,0,0,False,0.0,2026,China,False
+10.1016/j.isprsjprs.2024.10.016,China,1,0,False,0.0,2024,China,False
+10.1029/2017JG004288,,0,0,False,0.0,2018,Saudi Arabia,False
+10.3390/rs12213619,,0,0,False,0.0,2020,United Kingdom,False
+10.1002/nzb2.70082,Saudi Arabia,1,0,False,0.0,2026,Saudi Arabia,False
+10.1111/cobi.14293,,0,0,False,0.0,2024,United States,False
+nodoi-1262,Gabon,1,0,False,0.0,2017,United States,False
+nodoi-1263,,0,0,False,0.0,2013,India,False
+nodoi-1264,,0,0,False,0.0,2018,India,False
+nodoi-1265,Turks and Caicos Islands,1,0,False,0.0,1998,United Kingdom,False
+nodoi-1266,Indonesia; Japan,2,1,True,0.5,2013,Japan,True
+nodoi-1267,,0,0,False,0.0,2014,India,False
+nodoi-1268,,0,0,False,0.0,2016,United States,False
+nodoi-1269,,0,0,False,0.0,2025,India,False
+nodoi-1270,Australia,1,0,False,0.0,2003,United Kingdom,False
+nodoi-1271,Malaysia,1,0,False,0.0,2017,Singapore,False
+nodoi-1272,,0,0,False,0.0,2013,India,False
+nodoi-1273,,0,0,False,0.0,2015,United States,False
+nodoi-1274,Thailand,1,0,False,0.0,2011,United Kingdom,False
+nodoi-1275,Indonesia,1,1,True,1.0,2005,Singapore,True
+nodoi-1276,,0,0,False,0.0,2015,India,False
+nodoi-1277,,0,0,False,0.0,1999,United States,False
+nodoi-1278,,0,0,False,0.0,2001,France,False
+nodoi-1279,India,1,0,False,0.0,2001,India,False
+nodoi-1280,,0,0,False,0.0,2016,India,False
+nodoi-1281,India,1,0,False,0.0,2020,India,False
+nodoi-1282,Malaysia,1,0,False,0.0,2002,Japan,False
+nodoi-1283,,0,0,False,0.0,2011,China,False
+nodoi-1284,,0,0,False,0.0,2021,China,False
+nodoi-1285,,0,0,False,0.0,2007,India,False
+nodoi-1286,India,1,0,False,0.0,2001,India,False
+nodoi-1287,,0,0,False,0.0,1998,India,False
+nodoi-1288,Indonesia,1,1,True,1.0,2025,Japan,True
+nodoi-1289,India,1,0,False,0.0,2014,India,False
+nodoi-1290,India,1,0,False,0.0,2007,India,False
+nodoi-1291,India,1,0,False,0.0,2008,India,False
+nodoi-1292,,0,0,False,0.0,2005,India,False
+nodoi-1293,India,1,0,False,0.0,1998,India,False
+nodoi-1294,China,1,0,False,0.0,2010,China,False
+nodoi-1295,India,1,0,False,0.0,2006,India,False
+nodoi-1296,,0,0,False,0.0,2014,India,False
+nodoi-1297,,0,0,False,0.0,2005,United States,False
+nodoi-1298,China,1,0,False,0.0,2013,China,False
+nodoi-1299,India,1,0,False,0.0,2010,India,False
+nodoi-1300,French Guiana,1,0,False,0.0,2006,France,False
+nodoi-1301,,0,0,False,0.0,2003,India,False
+nodoi-1302,,0,0,False,0.0,1998,India,False
+nodoi-1303,Myanmar,1,1,True,1.0,2015,Netherlands,True
+nodoi-1304,Australia,1,0,False,0.0,2000,United Kingdom,False
+nodoi-1305,,0,0,False,0.0,2015,France,False
+nodoi-1306,India,1,0,False,0.0,2014,India,False
+nodoi-1307,,0,0,False,0.0,2016,China,False
+nodoi-1308,,0,0,False,0.0,2015,China,False
+nodoi-1309,Thailand,1,0,False,0.0,2003,China,False
+nodoi-1310,,0,0,False,0.0,2011,United States,False
+nodoi-1311,India,1,0,False,0.0,2015,India,False
+nodoi-1312,,0,0,False,0.0,2008,China,False
+nodoi-1313,,0,0,False,0.0,2017,China,False
+nodoi-1314,,0,0,False,0.0,2023,India,False
+nodoi-1315,India,1,0,False,0.0,2012,India,False
+nodoi-1316,,0,0,False,0.0,2017,India,False
+nodoi-1317,India,1,0,False,0.0,2009,India,False
+nodoi-1318,India,1,0,False,0.0,2011,India,False
+nodoi-1319,,0,0,False,0.0,2020,India,False
+nodoi-1320,India,1,0,False,0.0,2005,India,False
+nodoi-1321,,0,0,False,0.0,2013,India,False
+nodoi-1322,,0,0,False,0.0,1994,France,False
+nodoi-1323,,0,0,False,0.0,1996,France,False
+nodoi-1324,Guadeloupe,1,0,False,0.0,2001,France,False
+nodoi-1325,India,1,0,False,0.0,2017,India,False
+nodoi-1326,,0,0,False,0.0,2007,France,False
+nodoi-1327,,0,0,False,0.0,1996,India,False
+nodoi-1328,Costa Rica,1,0,False,0.0,2004,United States,False
+nodoi-1329,Cameroon,1,0,False,0.0,1997,France,False
+nodoi-1330,India,1,0,False,0.0,2014,India,False
+nodoi-1331,Japan,1,0,False,0.0,2011,Japan,False
+nodoi-1332,India,1,0,False,0.0,2019,India,False
+nodoi-1333,,0,0,False,0.0,2014,China,False
+nodoi-1334,,0,0,False,0.0,2013,India,False
+nodoi-1335,,0,0,False,0.0,2007,China,False
+nodoi-1336,India; Bangladesh; Myanmar,3,2,True,0.3333,2002,France,True
+nodoi-1337,,0,0,False,0.0,1999,United States,False
+nodoi-1338,,0,0,False,0.0,2022,United States,False
+nodoi-1339,Saudi Arabia,1,0,False,0.0,2003,Saudi Arabia,False
+nodoi-1340,Gabon,1,0,False,0.0,1997,France,False
+nodoi-1341,India,1,0,False,0.0,2013,India,False
+nodoi-1342,,0,0,False,0.0,2003,France,False
+nodoi-1343,,0,0,False,0.0,2015,India,False
+nodoi-1344,,0,0,False,0.0,2005,India,False
+nodoi-1345,India,1,0,False,0.0,2023,India,False
+nodoi-1346,Panama,1,0,False,0.0,2010,United Kingdom,False
+nodoi-1347,India,1,0,False,0.0,2010,India,False
+nodoi-1348,United Arab Emirates,1,0,False,0.0,2003,United States,False
+nodoi-1349,China,1,0,False,0.0,2015,China,False
+nodoi-1350,Benin,1,0,False,0.0,2019,United States,False
+nodoi-1351,,0,0,False,0.0,2007,China,False
+nodoi-1352,Thailand,1,0,False,0.0,2010,Japan,False
+nodoi-1353,,0,0,False,0.0,2013,China,False

@@ -1,0 +1,113 @@
+{
+  "n_bootstrap": 1000,
+  "bootstrap_scheme": "year-stratified (T_y fixed, topic counts resampled); rates re-estimated by hard-EM and path re-decoded on every replicate",
+  "detection_criterion": "terminal burst ends in automaton_end AND begins >= 2021 AND spans >= 2 years (full recency criterion)",
+  "weaker_audit_criterion": "no burst interval active in the final year",
+  "all_CIs_exclude_0": true,
+  "candidates": [
+    {
+      "Topic": 17,
+      "Label": "---",
+      "Burst_Strength": 35.54,
+      "CI_low": 15.07,
+      "CI_high": 87.88,
+      "excludes_0": true,
+      "n_detected": 885,
+      "pct_detected": 88.5,
+      "pct_no_recency_terminal_burst": 11.5,
+      "pct_active_but_recency_failed": 10.4,
+      "pct_no_terminal_burst": 1.1
+    },
+    {
+      "Topic": 16,
+      "Label": "---",
+      "Burst_Strength": 34.85,
+      "CI_low": 21.58,
+      "CI_high": 92.04,
+      "excludes_0": true,
+      "n_detected": 815,
+      "pct_detected": 81.5,
+      "pct_no_recency_terminal_burst": 18.5,
+      "pct_active_but_recency_failed": 18.5,
+      "pct_no_terminal_burst": 0.0
+    },
+    {
+      "Topic": 8,
+      "Label": "---",
+      "Burst_Strength": 34.19,
+      "CI_low": 23.14,
+      "CI_high": 85.69,
+      "excludes_0": true,
+      "n_detected": 960,
+      "pct_detected": 96.0,
+      "pct_no_recency_terminal_burst": 4.0,
+      "pct_active_but_recency_failed": 4.0,
+      "pct_no_terminal_burst": 0.0
+    },
+    {
+      "Topic": 4,
+      "Label": "---",
+      "Burst_Strength": 30.09,
+      "CI_low": 23.7,
+      "CI_high": 91.59,
+      "excludes_0": true,
+      "n_detected": 797,
+      "pct_detected": 79.7,
+      "pct_no_recency_terminal_burst": 20.3,
+      "pct_active_but_recency_failed": 20.3,
+      "pct_no_terminal_burst": 0.0
+    },
+    {
+      "Topic": 5,
+      "Label": "---",
+      "Burst_Strength": 28.03,
+      "CI_low": 10.19,
+      "CI_high": 54.06,
+      "excludes_0": true,
+      "n_detected": 413,
+      "pct_detected": 41.3,
+      "pct_no_recency_terminal_burst": 58.7,
+      "pct_active_but_recency_failed": 57.7,
+      "pct_no_terminal_burst": 1.0
+    },
+    {
+      "Topic": 57,
+      "Label": "---",
+      "Burst_Strength": 23.39,
+      "CI_low": 7.11,
+      "CI_high": 44.74,
+      "excludes_0": true,
+      "n_detected": 747,
+      "pct_detected": 74.7,
+      "pct_no_recency_terminal_burst": 25.3,
+      "pct_active_but_recency_failed": 10.9,
+      "pct_no_terminal_burst": 14.4
+    },
+    {
+      "Topic": 35,
+      "Label": "---",
+      "Burst_Strength": 20.28,
+      "CI_low": 9.81,
+      "CI_high": 68.27,
+      "excludes_0": true,
+      "n_detected": 422,
+      "pct_detected": 42.2,
+      "pct_no_recency_terminal_burst": 57.8,
+      "pct_active_but_recency_failed": 0.6,
+      "pct_no_terminal_burst": 57.2
+    },
+    {
+      "Topic": 68,
+      "Label": "---",
+      "Burst_Strength": 10.99,
+      "CI_low": 5.8,
+      "CI_high": 31.66,
+      "excludes_0": true,
+      "n_detected": 406,
+      "pct_detected": 40.6,
+      "pct_no_recency_terminal_burst": 59.4,
+      "pct_active_but_recency_failed": 0.8,
+      "pct_no_terminal_burst": 58.6
+    }
+  ]
+}

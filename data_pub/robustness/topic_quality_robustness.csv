@@ -1,0 +1,73 @@
+﻿Topic,Count,Name,NPMI,npmi_rank_pct,is_bottom25,is_prototype
+0,59,0_mangrove area_area mangrove_mangrove expansion_china mangroves,-0.3378499665480529,18.055555555555554,True,False
+1,53,1_mangrove canopy height_mangrove height_forest canopy height_mangrove canopy,-0.1737166351933665,94.44444444444444,False,False
+2,52,2_mangrove area_degraded mangrove_coastal water_surface water,-0.3407496791901283,15.277777777777779,True,False
+3,50,3_global mangrove forest_mangrove forest cover_mangrove deforestation_mangrove loss,-0.19572406596320108,91.66666666666666,False,False
+4,50,4_resolution mangrove_mangrove mapping_mangrove extent_wetland mapping,-0.33281348757634704,22.22222222222222,True,True
+5,48,5_mangrove resilience_ecosystem services_coastal resilience_carbon sequestration,-0.2417039818321266,77.77777777777779,False,True
+6,43,6_mangrove damage_recovery mangrove_mangrove recovery_damage mangrove,-0.30535354819588295,36.11111111111111,False,False
+7,42,7_mangrove conservation restoration_mangrove conservation_ecosystem services_shoreline changes,-0.3434747913199991,12.5,True,False
+8,37,8_segmentation mangrove_mangrove remote sensing_remote sensing image_remote sensing images,-0.21164209895939692,86.11111111111111,False,True
+9,36,9_current status mangrove_mangrove loss_mangrove area_status mangrove,-0.332241180143892,23.61111111111111,True,False
+10,33,10_mangrove study_mangrove communities_mangrove vegetation_spectral vegetation,-0.34784696508401314,11.11111111111111,True,False
+11,32,11_area mangroves_monitoring mangroves_ha mangrove area_using remote sensing,-0.38075731112019223,2.7777777777777777,True,False
+12,32,12_object based classification_spectral angle mapper_pixel based classification_based image analysis,-0.25792093102779684,63.888888888888886,False,False
+13,32,13_coastal features_coastal zone_coastal areas_coast study,-0.24248130316612249,75.0,False,False
+14,31,14_land use changes_forest area_forest vegetation_forest cover,-0.3690937760794729,5.555555555555555,True,False
+15,28,15_mangrove colonization_river mouth_lagoon_estuarine,-0.25632574881031317,68.05555555555556,False,False
+16,28,16_net shoreline movement_shoreline erosion_shoreline dynamics_digital shoreline analysis,-0.2067571184489717,87.5,False,True
+17,27,17_resilience mangroves_sustainable development goals_ecological systems_blue carbon ecosystems,-0.24825322892611323,72.22222222222221,False,True
+18,25,18_mangrove forest reserve_matang mangrove forest_mangrove area_satellite imagery mangrove,-0.2378630341911096,80.55555555555556,False,False
+19,25,19_mangrove leaf area_hyperspectral imaging_content mangrove_estimating mangrove,-0.15690659716650956,97.22222222222221,False,False
+20,24,20_mangrove shorelines_elevation model_sea level rise_mangrove establishment,-0.30032781577336104,43.05555555555556,False,False
+21,24,21_mangrove ground biomass_mangrove carbon stocks_mangrove carbon_indices mangrove,-0.3053380337348928,37.5,False,False
+22,23,22_palsar data_band sar data_polarimetric decomposition_sar backscatter,-0.25643255901332757,66.66666666666666,False,False
+23,23,23_mangrove sediments_sediment samples_mangrove wetland_surface sediment,-0.2713486840539053,54.166666666666664,False,False
+24,23,24_estimating mangrove_mangrove aboveground biomass_mangrove agb_mangrove ground biomass,-0.1861777842526567,93.05555555555556,False,True
+25,22,25_services provided mangroves_remote sensing mangrove_sensing mangrove forests_changes mangrove cover,-0.25015021706023643,69.44444444444444,False,False
+26,22,26_shoreline retreat_sea level rise_sedimentary_shoreline,-0.3344370700982843,20.833333333333336,True,False
+27,22,27_marine spatial planning_using aerial photography_surface water_coral reef,-0.33043816072441695,25.0,False,False
+28,21,28_mangrove range_mangrove expansion_expansion mangroves_ecotones,-0.35793472627436274,6.944444444444445,True,False
+29,21,29_area mangrove_mangrove forest cover_changes mangrove forest_land use,-0.285215439729697,50.0,False,False
+30,20,30_mangrove dynamics_mangrove expansion_shoreline retreat_mangrove afforestation,-0.29824876475447937,45.83333333333333,False,False
+31,20,31_aboveground carbon stocks_aboveground carbon_mangroves salt marshes_ecosystem carbon,-0.24960812963461498,70.83333333333334,False,False
+32,20,32_native mangrove species_china mangroves_mangrove biomass_mangrove biomass carbon,-0.3154480031600186,30.555555555555557,False,False
+33,19,33_mangrove biomass carbon_mangrove carbon stocks_mangrove phenology_mangrove aboveground biomass,-0.2987128668449621,44.44444444444444,False,True
+34,19,34_mangrove aboveground biomass_mangrove aboveground_estimation mangrove_mangrove canopy,-0.16668215557484334,95.83333333333334,False,True
+35,19,35_mangrove species classification_classification mangrove species_hyperspectral images_high resolution multispectral,-0.21933637631820568,84.72222222222221,False,False
+36,19,36_multispectral satellite images_mangrove structure_approach mangrove_high spatial resolution,-0.3803093793834239,4.166666666666666,True,False
+37,17,37_mapping land cover_coastal dynamics_mapping land_coastal features,-0.31408884531239073,31.944444444444443,False,False
+38,16,38_digital shoreline analysis_shoreline changes_mangrove shoreline_shoreline analysis dsas,-0.20632201057736144,88.88888888888889,False,False
+39,16,39_marine life_remote sensing techniques_mangrove mapping monitoring_remote sensing tools,-0.27386133700030835,52.77777777777778,False,False
+40,15,40_conditions mangroves_dominated rhizophora_mangrove ecosystem health_vegetation dynamics,-0.31662200918080996,27.77777777777778,False,False
+41,15,41_mangrove recognition index_technology mangrove_mangrove recognition_mangrove remote sensing,-0.25714068411828056,65.27777777777779,False,False
+42,15,42_remote sensing technologies_mangrove species mapping_remote sensing approaches_review mangrove,-0.33501079482895235,19.444444444444446,True,False
+43,15,43_mangrove sediments_mangrove expansion_sea mangroves_estuarine,-0.35738162283811026,8.333333333333332,True,False
+44,15,44_land use classes_land use changes_multispectral instrument_wetland ecosystems,-0.2669519114015431,59.72222222222222,False,False
+45,14,45_mangrove phenology_mangrove health_mangrove phenological_mangrove swamp,-0.316037913654845,29.166666666666668,False,False
+46,14,46_aerial photography_analysis land cover_aerial photographs_ecosystem based management,-0.35054421447395107,9.722222222222223,True,False
+47,14,47_hyperspectral imaging_multiresolution_based image analysis_mangrove detection,-0.23027833766675457,81.94444444444444,False,False
+48,13,48_hyperspectral image data_spectral angle mapper_classification mangroves_mangrove forests using,-0.24110795686467765,79.16666666666666,False,False
+49,13,49_impacts mangrove_mangrove ecosystem services_mangrove national nature_mangrove nature reserve,-0.24224069555404373,76.38888888888889,False,True
+50,13,50_2004 indian ocean_indian ocean tsunami_andaman island_2004 tsunami,-0.24791355304941642,73.61111111111111,False,False
+51,13,51_urban planning_analysis land use_high resolution images_mapping remote sensing,-0.2671601810982963,58.333333333333336,False,False
+52,13,52_black mangrove avicennia_mangrove populations_aerial photography_black mangrove,-0.14506129883345317,98.61111111111111,False,False
+53,12,53_characterization mangrove_mangrove forest area_value mangrove_detection mangrove,-0.26380455850284595,62.5,False,False
+54,12,54_red sea coast_coastal zone_sandy beaches_coastal processes,-0.3051041645460535,38.88888888888889,False,False
+55,12,55_mangrove community_condition mangroves_condition mangrove_estimated mangrove,-0.29692137217274023,47.22222222222222,False,False
+56,12,56_map mangrove species_vegetation mapping_forest classification_optical sar data,-0.2813464050640419,51.388888888888886,False,False
+57,12,57_mangrove restoration efforts_mangrove land use_mangrove restoration_china mangrove,-0.288348226158454,48.61111111111111,False,False
+58,11,58_mangrove cover using_impacts mangroves_mangrove forest cover_mangrove coverage,-0.3114889699501919,33.33333333333333,False,False
+59,11,59_mangrove species mapping_mangrove phenology_mangrove tree species_distribution mangrove species,-0.3434708521766302,13.88888888888889,True,False
+60,11,60_scale mangrove mapping_different mangrove species_mangrove species using_mapping mangrove species,-0.26384900451522325,61.111111111111114,False,False
+61,11,61_combined mangrove recognition_accurate mangrove mapping_mangrove forest mapping_mapping mangrove forests,-0.22345567347018422,83.33333333333334,False,False
+62,11,62_estuarine region_remote sensing mangroves_mangrove forest canopy_estuarine wetland,-0.308642460023243,34.72222222222222,False,False
+63,11,63_maps mangrove_mangrove forests world_area mangrove forest_mangrove cover increased,-0.30081913056142434,41.66666666666667,False,False
+64,10,64_aboveground biomass carbon_biomass carbon stocks_soil organic carbon_estimating biomass,-0.19975022012474944,90.27777777777779,False,False
+65,10,65_mangrove studies_sustainable forest_mangrove restoration_forest management,-0.27110289726354203,55.55555555555556,False,False
+66,10,66_mangrove canopies_mangrove forest located_impacts mangroves_mangrove coast,-0.3049725177289391,40.27777777777778,False,False
+67,10,67_imagery mangrove forests_mangrove agb_detecting mangrove_canopy height model,-0.3891119120284979,1.3888888888888888,True,False
+68,10,68_extracting mangrove_remote sensing image_remote sensing images_method mangrove,-0.3381745455614007,16.666666666666664,True,False
+69,10,69_multispectral imagery_mapping monitoring mangroves_monitoring mangroves_mangrove zones,-0.31849377758678304,26.38888888888889,False,False
+70,10,70_mangrove species avicennia_mangrove leaf_mangrove species_mangroves species level,-0.2679479234141696,56.94444444444444,False,False
+71,10,71_linear spectral unmixing_spectral unmixing_mangrove species discrimination_data mangrove species,-0.13964629291097655,100.0,False,False

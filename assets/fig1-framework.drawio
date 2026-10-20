@@ -1,0 +1,124 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36">
+  <diagram id="y60hrnbi-S3zcFiq0IIE" name="第 1 页">
+    <mxGraphModel dx="1712" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1010" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="data" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fontStyle=1;fillColor=#F5F5F5;strokeColor=#666666;" value="Web of Science Core Collection&lt;br&gt;Mangrove Remote Sensing 2,332 deduplicated articles (1972–2026)" vertex="1">
+          <mxGeometry height="60" width="860" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lgm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fontStyle=1;fillColor=#F5F5F5;strokeColor=#666666;" value="Bibliometric trajectory — Logistic Growth Model (LGM) fit&#xa;y = L/(1+e^(b−kx)): L=13,145 · k=0.14158 yr⁻¹ · b=288.32 · inflection b/k=2036.5&#xa;Growth phases: infancy ≤10% · growth 10–90% · maturity ≥90%" vertex="1">
+          <mxGeometry height="64" width="760" x="110" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="semHead" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fontStyle=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="Semantic dimension (BERTopic + LLM)" vertex="1">
+          <mxGeometry height="36" width="380" x="60" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="sem1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#F0F6FF;strokeColor=#6C8EBF;" value="SciBERT embedding (768-d)" vertex="1">
+          <mxGeometry height="52" width="380" x="60" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="sem2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#F0F6FF;strokeColor=#6C8EBF;" value="UMAP (5-d) + HDBSCAN clustering" vertex="1">
+          <mxGeometry height="52" width="380" x="60" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="sem3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#F0F6FF;strokeColor=#6C8EBF;" value="BERTopic: 72 topics (771 outliers)" vertex="1">
+          <mxGeometry height="52" width="380" x="60" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="sem4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#F0F6FF;strokeColor=#6C8EBF;" value="LLM topic labeling (DeepSeek-V4-Pro)" vertex="1">
+          <mxGeometry height="52" width="380" x="60" y="458" as="geometry" />
+        </mxCell>
+        <mxCell id="sem5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#F0F6FF;strokeColor=#6C8EBF;" value="Two-stage burst detection (annual relative shares)" vertex="1">
+          <mxGeometry height="52" width="380" x="60" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="semOut" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#FFF2CC;strokeColor=#D6B656;" value="6 thematic clusters&#xa;5 evolutionary phases&#xa;8 candidate emerging research fronts" vertex="1">
+          <mxGeometry height="64" width="380" x="60" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="spaHead" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fontStyle=1;fillColor=#D5E8D4;strokeColor=#82B366;" value="Spatial dimension (LQ + RRMI)" vertex="1">
+          <mxGeometry height="36" width="380" x="540" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="spa1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#EFF7EF;strokeColor=#82B366;" value="Author country extraction (C1)" vertex="1">
+          <mxGeometry height="52" width="380" x="540" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="spa2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#EFF7EF;strokeColor=#82B366;" value="Fractional counting (1/m_d)" vertex="1">
+          <mxGeometry height="52" width="380" x="540" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="spa3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#EFF7EF;strokeColor=#82B366;" value="Location Quotient (LQ)&#xa;topic × country" vertex="1">
+          <mxGeometry height="52" width="380" x="540" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="spa4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#EFF7EF;strokeColor=#82B366;" value="Research–resource mismatch index (RRMI)&lt;div&gt;&amp;nbsp;= area_share − pub_share&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="380" x="540" y="491" as="geometry" />
+        </mxCell>
+        <mxCell id="spaOut" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#FFF2CC;strokeColor=#D6B656;" value="National thematic profiles&#xa;Research–resource mismatch" vertex="1">
+          <mxGeometry height="64" width="380" x="540" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="conventions" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=12;fillColor=#FAFAFA;strokeColor=#999999;dashed=1;" value="Counting conventions (applied throughout):&#xa;publication volumes = raw counts · LQ &amp; RRMI = fractional weights (1/m_d) · trends &amp; bursts = relative annual shares" vertex="1">
+          <mxGeometry height="44" width="860" x="60" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="integ" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fillColor=#FFE6CC;strokeColor=#D79B00;" value="Overlay knowledge-production network on mangrove distribution" vertex="1">
+          <mxGeometry height="56" width="460" x="270" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="insight" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fontStyle=1;fillColor=#F8CECC;strokeColor=#B85450;" value="Who is doing what, and where is the next research front?" vertex="1">
+          <mxGeometry height="56" width="460" x="270" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="policy" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=13;fontStyle=1;fillColor=#E1D5E7;strokeColor=#9673A6;" value="Direct capacity building to under-publishing, area-rich countries" vertex="1">
+          <mxGeometry height="60" width="460" x="270" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="e_data_lgm" edge="1" parent="1" source="data" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="lgm">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="lgm" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.24;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="semHead">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="lgm" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.76;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="spaHead">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="semHead" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="sem1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="sem1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="sem2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="sem2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="sem3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="sem3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="sem4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6b" edge="1" parent="1" source="sem4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="sem5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="sem5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="semOut">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="spaHead" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="spa1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="spa1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="spa2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="spa2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="spa3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="spa3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="spa4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="spa4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="spaOut">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="semOut" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.25;entryY=0;fontSize=13;" target="integ">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="spaOut" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.75;entryY=0;fontSize=13;" target="integ">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="integ" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="insight">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="insight" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeColor=#666666;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=13;" target="policy">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="sem3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;endArrow=open;endFill=0;strokeColor=#9673A6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=13;" target="spa3" value="topic labels">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

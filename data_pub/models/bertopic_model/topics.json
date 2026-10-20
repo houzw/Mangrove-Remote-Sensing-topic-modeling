@@ -1,0 +1,9285 @@
+{
+  "topic_representations": {
+    "-1": [
+      [
+        "mangrove species",
+        0.6090364456176758
+      ],
+      [
+        "mangrove ecosystems",
+        0.5898787975311279
+      ],
+      [
+        "spectral reflectance",
+        0.5885102152824402
+      ],
+      [
+        "satellite imagery",
+        0.5787192583084106
+      ],
+      [
+        "hyperspectral",
+        0.5714136362075806
+      ],
+      [
+        "land cover",
+        0.5699065327644348
+      ],
+      [
+        "study area",
+        0.5653733611106873
+      ],
+      [
+        "aboveground biomass",
+        0.5614510178565979
+      ],
+      [
+        "land use",
+        0.5585341453552246
+      ],
+      [
+        "spatial resolution",
+        0.555109977722168
+      ],
+      [
+        "change detection",
+        0.5472966432571411
+      ],
+      [
+        "aboveground",
+        0.5432251691818237
+      ],
+      [
+        "object based",
+        0.5394427180290222
+      ],
+      [
+        "radar",
+        0.5334278345108032
+      ],
+      [
+        "lidar",
+        0.530962347984314
+      ],
+      [
+        "random forest",
+        0.5263481736183167
+      ],
+      [
+        "inundation",
+        0.5242692232131958
+      ],
+      [
+        "long term",
+        0.517938494682312
+      ],
+      [
+        "services",
+        0.5170304775238037
+      ],
+      [
+        "trees",
+        0.5148711800575256
+      ]
+    ],
+    "0": [
+      [
+        "mangrove area",
+        0.6124075651168823
+      ],
+      [
+        "area mangrove",
+        0.6090452075004578
+      ],
+      [
+        "mangrove expansion",
+        0.6045725345611572
+      ],
+      [
+        "china mangroves",
+        0.6013134121894836
+      ],
+      [
+        "mangrove reserve",
+        0.595055341720581
+      ],
+      [
+        "mangrove forest extent",
+        0.5933637022972107
+      ],
+      [
+        "dynamics mangrove forests",
+        0.5818343758583069
+      ],
+      [
+        "area mangrove forests",
+        0.5802868008613586
+      ],
+      [
+        "mangrove resources",
+        0.5788177251815796
+      ],
+      [
+        "mangrove wetland",
+        0.574449896812439
+      ],
+      [
+        "changes mangrove forests",
+        0.5731996893882751
+      ],
+      [
+        "changes mangrove",
+        0.5664982199668884
+      ],
+      [
+        "mangrove national",
+        0.5596357583999634
+      ],
+      [
+        "based remote sensing",
+        0.5562440156936646
+      ],
+      [
+        "landscape pattern",
+        0.5394625067710876
+      ],
+      [
+        "river estuary",
+        0.5329373478889465
+      ],
+      [
+        "changes landscape",
+        0.5312854051589966
+      ],
+      [
+        "forest extent",
+        0.529655396938324
+      ],
+      [
+        "ecological restoration",
+        0.5257827639579773
+      ],
+      [
+        "shenzhen bay",
+        0.5248503684997559
+      ]
+    ],
+    "1": [
+      [
+        "mangrove canopy height",
+        0.5883570909500122
+      ],
+      [
+        "mangrove height",
+        0.5748356580734253
+      ],
+      [
+        "forest canopy height",
+        0.5534331798553467
+      ],
+      [
+        "mangrove canopy",
+        0.549859344959259
+      ],
+      [
+        "canopy height",
+        0.5420348644256592
+      ],
+      [
+        "canopy heights",
+        0.5410488247871399
+      ],
+      [
+        "leaf area index",
+        0.534168004989624
+      ],
+      [
+        "forest inventory",
+        0.5294303894042969
+      ],
+      [
+        "lidar data",
+        0.5273038148880005
+      ],
+      [
+        "area index",
+        0.5271492004394531
+      ],
+      [
+        "uav imagery",
+        0.5249888300895691
+      ],
+      [
+        "srtm data",
+        0.5222305059432983
+      ],
+      [
+        "aboveground biomass",
+        0.5215297937393188
+      ],
+      [
+        "airborne lidar",
+        0.5160908102989197
+      ],
+      [
+        "leaf area",
+        0.5157293081283569
+      ],
+      [
+        "forest structure",
+        0.5147897005081177
+      ],
+      [
+        "reflectance spectra",
+        0.5134392976760864
+      ],
+      [
+        "agb estimation",
+        0.5130237340927124
+      ],
+      [
+        "mission srtm",
+        0.5109432339668274
+      ],
+      [
+        "forest height",
+        0.5096445083618164
+      ]
+    ],
+    "2": [
+      [
+        "mangrove area",
+        0.5982300639152527
+      ],
+      [
+        "degraded mangrove",
+        0.5844080448150635
+      ],
+      [
+        "coastal water",
+        0.5744896531105042
+      ],
+      [
+        "surface water",
+        0.5666693449020386
+      ],
+      [
+        "based land use",
+        0.5505954027175903
+      ],
+      [
+        "use land cover",
+        0.5490316152572632
+      ],
+      [
+        "water quality",
+        0.5488814115524292
+      ],
+      [
+        "sea surface",
+        0.5481880903244019
+      ],
+      [
+        "tropical forests",
+        0.5473957657814026
+      ],
+      [
+        "monsoon",
+        0.5459184050559998
+      ],
+      [
+        "sustainable development goal",
+        0.538763165473938
+      ],
+      [
+        "use land",
+        0.5385963320732117
+      ],
+      [
+        "land use land",
+        0.5341169834136963
+      ],
+      [
+        "phenology",
+        0.5321922302246094
+      ],
+      [
+        "pre monsoon",
+        0.5302178859710693
+      ],
+      [
+        "economic value",
+        0.526923418045044
+      ],
+      [
+        "post monsoon",
+        0.5250763297080994
+      ],
+      [
+        "based land",
+        0.5204021334648132
+      ],
+      [
+        "cover dynamics",
+        0.5185811519622803
+      ],
+      [
+        "1990 2000 2010",
+        0.5155219435691833
+      ]
+    ],
+    "3": [
+      [
+        "global mangrove forest",
+        0.6299576759338379
+      ],
+      [
+        "mangrove forest cover",
+        0.6202877759933472
+      ],
+      [
+        "mangrove deforestation",
+        0.6167992353439331
+      ],
+      [
+        "mangrove loss",
+        0.6059814095497131
+      ],
+      [
+        "mangrove cover",
+        0.5992105603218079
+      ],
+      [
+        "mangrove extent",
+        0.5985091328620911
+      ],
+      [
+        "mangrove area",
+        0.5969704389572144
+      ],
+      [
+        "estimates mangrove",
+        0.5880181789398193
+      ],
+      [
+        "global mangrove",
+        0.5876363515853882
+      ],
+      [
+        "land use cover",
+        0.5795712471008301
+      ],
+      [
+        "land cover change",
+        0.5792410373687744
+      ],
+      [
+        "ecosystem services",
+        0.5779241919517517
+      ],
+      [
+        "forest change",
+        0.5755788087844849
+      ],
+      [
+        "reforestation",
+        0.5752255916595459
+      ],
+      [
+        "forest loss",
+        0.573642373085022
+      ],
+      [
+        "forest cover",
+        0.5734650492668152
+      ],
+      [
+        "forest carbon",
+        0.5703206658363342
+      ],
+      [
+        "deforestation",
+        0.5645302534103394
+      ],
+      [
+        "remote sensing analysis",
+        0.5621364116668701
+      ],
+      [
+        "protected areas",
+        0.5610964298248291
+      ]
+    ],
+    "4": [
+      [
+        "resolution mangrove",
+        0.6014084815979004
+      ],
+      [
+        "mangrove mapping",
+        0.6010635495185852
+      ],
+      [
+        "mangrove extent",
+        0.5902016758918762
+      ],
+      [
+        "wetland mapping",
+        0.5810234546661377
+      ],
+      [
+        "mangrove tidal",
+        0.5659337043762207
+      ],
+      [
+        "tidal wetlands",
+        0.5511393547058105
+      ],
+      [
+        "wetlands",
+        0.5467740893363953
+      ],
+      [
+        "canopy gaps",
+        0.5426201820373535
+      ],
+      [
+        "carbon sequestration",
+        0.5394997596740723
+      ],
+      [
+        "tide level",
+        0.5390627980232239
+      ],
+      [
+        "scale mapping",
+        0.5373439788818359
+      ],
+      [
+        "tidal wetland",
+        0.5367380380630493
+      ],
+      [
+        "large scale",
+        0.5351134538650513
+      ],
+      [
+        "forest classifier",
+        0.5319048762321472
+      ],
+      [
+        "sentinel sentinel",
+        0.5250295996665955
+      ],
+      [
+        "random forest classifier",
+        0.5242149233818054
+      ],
+      [
+        "high resolution",
+        0.5217645168304443
+      ],
+      [
+        "multi sensor",
+        0.5216667056083679
+      ],
+      [
+        "optical sar",
+        0.5205069184303284
+      ],
+      [
+        "fine scale",
+        0.5135093331336975
+      ]
+    ],
+    "5": [
+      [
+        "mangrove resilience",
+        0.6475273370742798
+      ],
+      [
+        "ecosystem services",
+        0.6212379336357117
+      ],
+      [
+        "coastal resilience",
+        0.6200048327445984
+      ],
+      [
+        "carbon sequestration",
+        0.6003915667533875
+      ],
+      [
+        "contiguous mangrove",
+        0.5993460416793823
+      ],
+      [
+        "blue carbon ecosystems",
+        0.5969317555427551
+      ],
+      [
+        "mangrove rehabilitation",
+        0.5935783982276917
+      ],
+      [
+        "blue carbon sequestration",
+        0.5889285802841187
+      ],
+      [
+        "carbon ecosystems",
+        0.579969584941864
+      ],
+      [
+        "long term carbon",
+        0.5794345736503601
+      ],
+      [
+        "climate mitigation",
+        0.5754717588424683
+      ],
+      [
+        "carbon stocks",
+        0.5740878582000732
+      ],
+      [
+        "organic carbon",
+        0.5728886723518372
+      ],
+      [
+        "resilience",
+        0.5698539614677429
+      ],
+      [
+        "biomass carbon",
+        0.564622163772583
+      ],
+      [
+        "carbon storage",
+        0.5555983185768127
+      ],
+      [
+        "soil organic",
+        0.5514543652534485
+      ],
+      [
+        "natural regeneration",
+        0.5410391092300415
+      ],
+      [
+        "term carbon",
+        0.5397422313690186
+      ],
+      [
+        "cropland",
+        0.5365175604820251
+      ]
+    ],
+    "6": [
+      [
+        "mangrove damage",
+        0.5966155529022217
+      ],
+      [
+        "recovery mangrove",
+        0.5942667722702026
+      ],
+      [
+        "mangrove recovery",
+        0.5878840088844299
+      ],
+      [
+        "damage mangrove",
+        0.5828139185905457
+      ],
+      [
+        "everglades national park",
+        0.5768797397613525
+      ],
+      [
+        "coastal mangrove",
+        0.5747623443603516
+      ],
+      [
+        "coastal mangroves",
+        0.572767436504364
+      ],
+      [
+        "hurricanes",
+        0.5645511150360107
+      ],
+      [
+        "storm events",
+        0.5634788274765015
+      ],
+      [
+        "following hurricane",
+        0.5603901743888855
+      ],
+      [
+        "canopy recovery",
+        0.5599364042282104
+      ],
+      [
+        "canopy structure",
+        0.5577021837234497
+      ],
+      [
+        "hurricane",
+        0.5565052032470703
+      ],
+      [
+        "storm surge",
+        0.5439452528953552
+      ],
+      [
+        "canopy height",
+        0.5412731170654297
+      ],
+      [
+        "florida everglades",
+        0.5358142256736755
+      ],
+      [
+        "tropical cyclone",
+        0.5296537280082703
+      ],
+      [
+        "vegetation health",
+        0.5220065712928772
+      ],
+      [
+        "defoliation",
+        0.5213115811347961
+      ],
+      [
+        "marshes",
+        0.520583987236023
+      ]
+    ],
+    "7": [
+      [
+        "mangrove conservation restoration",
+        0.6171632409095764
+      ],
+      [
+        "mangrove conservation",
+        0.6099537014961243
+      ],
+      [
+        "ecosystem services",
+        0.6024889945983887
+      ],
+      [
+        "shoreline changes",
+        0.5904467701911926
+      ],
+      [
+        "land use change",
+        0.585050642490387
+      ],
+      [
+        "coastal communities",
+        0.5838370323181152
+      ],
+      [
+        "coastal region",
+        0.5772030353546143
+      ],
+      [
+        "coastal landscapes",
+        0.5771932005882263
+      ],
+      [
+        "sustainable land",
+        0.5771672129631042
+      ],
+      [
+        "livelihoods",
+        0.5763887166976929
+      ],
+      [
+        "land use",
+        0.5750548243522644
+      ],
+      [
+        "use land cover",
+        0.5747755169868469
+      ],
+      [
+        "land cover change",
+        0.5697630047798157
+      ],
+      [
+        "forest ecosystem",
+        0.569388747215271
+      ],
+      [
+        "land cover changes",
+        0.5681716799736023
+      ],
+      [
+        "changes land use",
+        0.5677920579910278
+      ],
+      [
+        "land cover",
+        0.5645686388015747
+      ],
+      [
+        "coastal aquaculture",
+        0.562341034412384
+      ],
+      [
+        "land use land",
+        0.5606804490089417
+      ],
+      [
+        "use land",
+        0.5600525736808777
+      ]
+    ],
+    "8": [
+      [
+        "segmentation mangrove",
+        0.5654394626617432
+      ],
+      [
+        "mangrove remote sensing",
+        0.5615829825401306
+      ],
+      [
+        "remote sensing image",
+        0.5593718886375427
+      ],
+      [
+        "remote sensing images",
+        0.5518787503242493
+      ],
+      [
+        "hyperspectral image",
+        0.5515440106391907
+      ],
+      [
+        "image segmentation",
+        0.5423983335494995
+      ],
+      [
+        "semantic segmentation",
+        0.5340234637260437
+      ],
+      [
+        "convolutional neural networks",
+        0.5328167080879211
+      ],
+      [
+        "f1 score",
+        0.5324682593345642
+      ],
+      [
+        "mangrove mapping",
+        0.5285061001777649
+      ],
+      [
+        "deep learning",
+        0.5274511575698853
+      ],
+      [
+        "unmixing",
+        0.5268362164497375
+      ],
+      [
+        "feature fusion",
+        0.5230448842048645
+      ],
+      [
+        "feature extraction",
+        0.5224462747573853
+      ],
+      [
+        "experimental results",
+        0.5162680149078369
+      ],
+      [
+        "sensing images",
+        0.5104759931564331
+      ],
+      [
+        "multi scale",
+        0.5076004266738892
+      ],
+      [
+        "mangrove remote",
+        0.5049886703491211
+      ],
+      [
+        "neural networks",
+        0.5033156275749207
+      ],
+      [
+        "sensing image",
+        0.5016462206840515
+      ]
+    ],
+    "9": [
+      [
+        "current status mangrove",
+        0.6310685873031616
+      ],
+      [
+        "mangrove loss",
+        0.630090594291687
+      ],
+      [
+        "mangrove area",
+        0.6264231204986572
+      ],
+      [
+        "status mangrove",
+        0.6193615794181824
+      ],
+      [
+        "restored mangrove",
+        0.5989201068878174
+      ],
+      [
+        "reforestation",
+        0.5968449711799622
+      ],
+      [
+        "based mangrove",
+        0.5944012403488159
+      ],
+      [
+        "human communities",
+        0.5942498445510864
+      ],
+      [
+        "drivers mangrove",
+        0.5856046080589294
+      ],
+      [
+        "coastal communities",
+        0.5850203633308411
+      ],
+      [
+        "degradation deforestation",
+        0.5836312174797058
+      ],
+      [
+        "anthropogenic drivers",
+        0.5735206604003906
+      ],
+      [
+        "deforestation",
+        0.5695246458053589
+      ],
+      [
+        "anthropogenic forces",
+        0.5674262046813965
+      ],
+      [
+        "high tides",
+        0.5636366605758667
+      ],
+      [
+        "livelihoods",
+        0.5625888109207153
+      ],
+      [
+        "multi temporal satellite",
+        0.5515055656433105
+      ],
+      [
+        "mekong delta",
+        0.5510746240615845
+      ],
+      [
+        "botanical",
+        0.5456682443618774
+      ],
+      [
+        "settlements",
+        0.5424261093139648
+      ]
+    ],
+    "10": [
+      [
+        "mangrove study",
+        0.6342642903327942
+      ],
+      [
+        "mangrove communities",
+        0.6251186728477478
+      ],
+      [
+        "mangrove vegetation",
+        0.6197293400764465
+      ],
+      [
+        "spectral vegetation",
+        0.6108253598213196
+      ],
+      [
+        "land cover changes",
+        0.6089957356452942
+      ],
+      [
+        "red sea coast",
+        0.5988901853561401
+      ],
+      [
+        "remote sensing products",
+        0.5966055393218994
+      ],
+      [
+        "dry forest",
+        0.5960204601287842
+      ],
+      [
+        "el nino",
+        0.5935505628585815
+      ],
+      [
+        "forest classes",
+        0.5919376611709595
+      ],
+      [
+        "satellite images",
+        0.5911068320274353
+      ],
+      [
+        "protected area",
+        0.5904417037963867
+      ],
+      [
+        "cover changes",
+        0.5894688963890076
+      ],
+      [
+        "land use",
+        0.5894297361373901
+      ],
+      [
+        "land cover",
+        0.5877465009689331
+      ],
+      [
+        "lagoons",
+        0.5871477723121643
+      ],
+      [
+        "aerial photographs",
+        0.5840902328491211
+      ],
+      [
+        "study area",
+        0.577168881893158
+      ],
+      [
+        "difference vegetation index",
+        0.577098548412323
+      ],
+      [
+        "environmental assessment",
+        0.5760614275932312
+      ]
+    ],
+    "11": [
+      [
+        "area mangroves",
+        0.6348534822463989
+      ],
+      [
+        "monitoring mangroves",
+        0.6318889260292053
+      ],
+      [
+        "ha mangrove area",
+        0.6270933151245117
+      ],
+      [
+        "using remote sensing",
+        0.6245471239089966
+      ],
+      [
+        "mangrove vegetation",
+        0.6218938231468201
+      ],
+      [
+        "open mangrove",
+        0.6199529767036438
+      ],
+      [
+        "mangrove reserves",
+        0.6186448335647583
+      ],
+      [
+        "mangrove density",
+        0.614396333694458
+      ],
+      [
+        "mangrove stands",
+        0.6139823198318481
+      ],
+      [
+        "mangrove wetland",
+        0.6135492920875549
+      ],
+      [
+        "remote sensing data",
+        0.6050907969474792
+      ],
+      [
+        "east coast india",
+        0.602130651473999
+      ],
+      [
+        "temporal changes mangrove",
+        0.6017103791236877
+      ],
+      [
+        "mangroves coral",
+        0.6001986861228943
+      ],
+      [
+        "mangroves coral reefs",
+        0.5994337797164917
+      ],
+      [
+        "distribution mangrove forests",
+        0.5940452218055725
+      ],
+      [
+        "coral reefs",
+        0.5918185710906982
+      ],
+      [
+        "application remote sensing",
+        0.58290696144104
+      ],
+      [
+        "coast india",
+        0.5812825560569763
+      ],
+      [
+        "reefs",
+        0.5717806816101074
+      ]
+    ],
+    "12": [
+      [
+        "object based classification",
+        0.5840857625007629
+      ],
+      [
+        "spectral angle mapper",
+        0.5742270350456238
+      ],
+      [
+        "pixel based classification",
+        0.5692882537841797
+      ],
+      [
+        "based image analysis",
+        0.5652034282684326
+      ],
+      [
+        "mangrove features",
+        0.5649570822715759
+      ],
+      [
+        "mangrove classes",
+        0.564532995223999
+      ],
+      [
+        "angle mapper sam",
+        0.5490270256996155
+      ],
+      [
+        "image classification",
+        0.5402069091796875
+      ],
+      [
+        "black mangrove",
+        0.5391842722892761
+      ],
+      [
+        "classification methods",
+        0.5352472066879272
+      ],
+      [
+        "image analysis",
+        0.530943751335144
+      ],
+      [
+        "hyperspectral",
+        0.5284367799758911
+      ],
+      [
+        "support vector machine",
+        0.5280054807662964
+      ],
+      [
+        "object based image",
+        0.526896595954895
+      ],
+      [
+        "angle mapper",
+        0.5236561298370361
+      ],
+      [
+        "band combinations",
+        0.5236360430717468
+      ],
+      [
+        "image analysis obia",
+        0.5210914015769958
+      ],
+      [
+        "cover types",
+        0.5165375471115112
+      ],
+      [
+        "plant health",
+        0.5152640342712402
+      ],
+      [
+        "classification errors",
+        0.5135863423347473
+      ]
+    ],
+    "13": [
+      [
+        "coastal features",
+        0.6560482382774353
+      ],
+      [
+        "coastal zone",
+        0.6521779298782349
+      ],
+      [
+        "coastal areas",
+        0.6461451053619385
+      ],
+      [
+        "coast study",
+        0.6375023722648621
+      ],
+      [
+        "analysis land use",
+        0.6311694383621216
+      ],
+      [
+        "geomorphology coastal",
+        0.630675196647644
+      ],
+      [
+        "coastal geomorphology",
+        0.629274845123291
+      ],
+      [
+        "impact assessment",
+        0.6284121870994568
+      ],
+      [
+        "coast india",
+        0.6275097131729126
+      ],
+      [
+        "deltaic region",
+        0.6268339157104492
+      ],
+      [
+        "shoreline retreat",
+        0.6237576007843018
+      ],
+      [
+        "changes shoreline",
+        0.6223406195640564
+      ],
+      [
+        "vulnerability assessment",
+        0.6212527751922607
+      ],
+      [
+        "coastal erosion",
+        0.620721161365509
+      ],
+      [
+        "coastal resources",
+        0.6196437478065491
+      ],
+      [
+        "coral reefs",
+        0.6162728071212769
+      ],
+      [
+        "coastal vulnerability",
+        0.6158952116966248
+      ],
+      [
+        "river banks",
+        0.6132287383079529
+      ],
+      [
+        "land surface temperature",
+        0.606446385383606
+      ],
+      [
+        "indian remote sensing",
+        0.6052767038345337
+      ]
+    ],
+    "14": [
+      [
+        "land use changes",
+        0.5688613653182983
+      ],
+      [
+        "forest area",
+        0.5665427446365356
+      ],
+      [
+        "forest vegetation",
+        0.5633992552757263
+      ],
+      [
+        "forest cover",
+        0.563161313533783
+      ],
+      [
+        "deforestation",
+        0.5620425343513489
+      ],
+      [
+        "land cover change",
+        0.5575618147850037
+      ],
+      [
+        "deforestation degradation",
+        0.5555459260940552
+      ],
+      [
+        "land cover changes",
+        0.5548965930938721
+      ],
+      [
+        "coastal area",
+        0.5540173053741455
+      ],
+      [
+        "swamp forests",
+        0.5535669326782227
+      ],
+      [
+        "land use",
+        0.552288293838501
+      ],
+      [
+        "sundarban mangrove",
+        0.5520311594009399
+      ],
+      [
+        "evergreen forests",
+        0.5475053191184998
+      ],
+      [
+        "use land cover",
+        0.5465292930603027
+      ],
+      [
+        "land cover",
+        0.5465059876441956
+      ],
+      [
+        "dynamic mangrove",
+        0.5462663173675537
+      ],
+      [
+        "total forest",
+        0.5410442352294922
+      ],
+      [
+        "vegetation cover",
+        0.5404137969017029
+      ],
+      [
+        "land use land",
+        0.5356985926628113
+      ],
+      [
+        "sagar island",
+        0.5321735739707947
+      ]
+    ],
+    "15": [
+      [
+        "mangrove colonization",
+        0.590513288974762
+      ],
+      [
+        "river mouth",
+        0.5894240140914917
+      ],
+      [
+        "lagoon",
+        0.5859247446060181
+      ],
+      [
+        "estuarine",
+        0.5823014974594116
+      ],
+      [
+        "river discharge",
+        0.5819698572158813
+      ],
+      [
+        "beaches",
+        0.5791534185409546
+      ],
+      [
+        "marine protected areas",
+        0.5753887891769409
+      ],
+      [
+        "fluvial",
+        0.572187602519989
+      ],
+      [
+        "sedimentary",
+        0.5715503096580505
+      ],
+      [
+        "holocene",
+        0.5638505220413208
+      ],
+      [
+        "accretion erosion",
+        0.5604478716850281
+      ],
+      [
+        "alongshore",
+        0.5584848523139954
+      ],
+      [
+        "amazonian",
+        0.5556398630142212
+      ],
+      [
+        "amazon river",
+        0.554920494556427
+      ],
+      [
+        "estuary",
+        0.5517601370811462
+      ],
+      [
+        "dune",
+        0.5472313761711121
+      ],
+      [
+        "macrotidal",
+        0.5468592643737793
+      ],
+      [
+        "coastline",
+        0.5466927886009216
+      ],
+      [
+        "french guiana",
+        0.5360500812530518
+      ],
+      [
+        "northeast brazil",
+        0.5322489738464355
+      ]
+    ],
+    "16": [
+      [
+        "net shoreline movement",
+        0.6287357807159424
+      ],
+      [
+        "shoreline erosion",
+        0.6261332035064697
+      ],
+      [
+        "shoreline dynamics",
+        0.6240326762199402
+      ],
+      [
+        "digital shoreline analysis",
+        0.6215988993644714
+      ],
+      [
+        "shoreline changes",
+        0.6165323257446289
+      ],
+      [
+        "shoreline movement nsm",
+        0.6161604523658752
+      ],
+      [
+        "shoreline movement",
+        0.6147376894950867
+      ],
+      [
+        "shoreline change",
+        0.6133816242218018
+      ],
+      [
+        "coastal management strategies",
+        0.607675313949585
+      ],
+      [
+        "coastline dynamics",
+        0.6024185419082642
+      ],
+      [
+        "coastal dynamics",
+        0.6009707450866699
+      ],
+      [
+        "shoreline analysis dsas",
+        0.5941700339317322
+      ],
+      [
+        "mangrove vulnerability",
+        0.5927562713623047
+      ],
+      [
+        "shoreline analysis",
+        0.5903838872909546
+      ],
+      [
+        "coastal management",
+        0.5819657444953918
+      ],
+      [
+        "coastal regions",
+        0.5766584277153015
+      ],
+      [
+        "digital shoreline",
+        0.576167106628418
+      ],
+      [
+        "coastal erosion",
+        0.5741469264030457
+      ],
+      [
+        "coastal protection",
+        0.5729689598083496
+      ],
+      [
+        "net shoreline",
+        0.5716364979743958
+      ]
+    ],
+    "17": [
+      [
+        "resilience mangroves",
+        0.6072090268135071
+      ],
+      [
+        "sustainable development goals",
+        0.6070887446403503
+      ],
+      [
+        "ecological systems",
+        0.5995411276817322
+      ],
+      [
+        "blue carbon ecosystems",
+        0.584464430809021
+      ],
+      [
+        "sustainable development",
+        0.5840843319892883
+      ],
+      [
+        "carbon ecosystems bces",
+        0.5774536728858948
+      ],
+      [
+        "remote sensing technologies",
+        0.5772311687469482
+      ],
+      [
+        "carbon ecosystems",
+        0.570643424987793
+      ],
+      [
+        "carbon sinks",
+        0.5642956495285034
+      ],
+      [
+        "ecosystems bces",
+        0.5595237016677856
+      ],
+      [
+        "resilience",
+        0.549692690372467
+      ],
+      [
+        "capacity building",
+        0.5458967089653015
+      ],
+      [
+        "sensing technologies",
+        0.5434086322784424
+      ],
+      [
+        "carbon accounting",
+        0.541376531124115
+      ],
+      [
+        "advances remote sensing",
+        0.538432240486145
+      ],
+      [
+        "social ecological",
+        0.5364066362380981
+      ],
+      [
+        "policymakers",
+        0.5363324880599976
+      ],
+      [
+        "carbon research",
+        0.534881055355072
+      ],
+      [
+        "coastal aquaculture",
+        0.534587025642395
+      ],
+      [
+        "inventories",
+        0.5339213609695435
+      ]
+    ],
+    "18": [
+      [
+        "mangrove forest reserve",
+        0.6441654562950134
+      ],
+      [
+        "matang mangrove forest",
+        0.6396639347076416
+      ],
+      [
+        "mangrove area",
+        0.6394449472427368
+      ],
+      [
+        "satellite imagery mangrove",
+        0.633956789970398
+      ],
+      [
+        "mapping mangrove",
+        0.6276405453681946
+      ],
+      [
+        "mangrove ecosystem",
+        0.6243855953216553
+      ],
+      [
+        "detect mangrove",
+        0.6190705299377441
+      ],
+      [
+        "matang mangrove",
+        0.6183580160140991
+      ],
+      [
+        "potential mangrove",
+        0.6152104735374451
+      ],
+      [
+        "habitat mapping",
+        0.5959392189979553
+      ],
+      [
+        "distribution area",
+        0.5893789529800415
+      ],
+      [
+        "forest reserve",
+        0.5893012881278992
+      ],
+      [
+        "marine ecosystem",
+        0.5833905339241028
+      ],
+      [
+        "mangrove replantation",
+        0.5803383588790894
+      ],
+      [
+        "sensing geographical information",
+        0.5782849192619324
+      ],
+      [
+        "gis remote sensing",
+        0.5768615007400513
+      ],
+      [
+        "satellite image",
+        0.5756843090057373
+      ],
+      [
+        "geospatial approach",
+        0.5756001472473145
+      ],
+      [
+        "geographic information gis",
+        0.5745342969894409
+      ],
+      [
+        "increase mangroves",
+        0.5702806115150452
+      ]
+    ],
+    "19": [
+      [
+        "mangrove leaf area",
+        0.5688331723213196
+      ],
+      [
+        "hyperspectral imaging",
+        0.5615516901016235
+      ],
+      [
+        "content mangrove",
+        0.5585062503814697
+      ],
+      [
+        "estimating mangrove",
+        0.5442894101142883
+      ],
+      [
+        "mangrove leaf",
+        0.529913604259491
+      ],
+      [
+        "radiative transfer model",
+        0.5278441309928894
+      ],
+      [
+        "mangrove lai",
+        0.5273007750511169
+      ],
+      [
+        "mangrove communities",
+        0.5260604619979858
+      ],
+      [
+        "leaf area index",
+        0.5254229307174683
+      ],
+      [
+        "lai estimation",
+        0.5253916382789612
+      ],
+      [
+        "individual mangrove",
+        0.5225205421447754
+      ],
+      [
+        "mangrove tree",
+        0.5196700096130371
+      ],
+      [
+        "retrieval mangrove",
+        0.5156563520431519
+      ],
+      [
+        "area index lai",
+        0.5138744115829468
+      ],
+      [
+        "uav hyperspectral",
+        0.5124732255935669
+      ],
+      [
+        "area index",
+        0.5023650527000427
+      ],
+      [
+        "sar images",
+        0.5019820332527161
+      ],
+      [
+        "results showed",
+        0.4980087876319885
+      ],
+      [
+        "leaf chlorophyll content",
+        0.4960872530937195
+      ],
+      [
+        "xgboost model",
+        0.4927365183830261
+      ]
+    ],
+    "20": [
+      [
+        "mangrove shorelines",
+        0.6091803908348083
+      ],
+      [
+        "elevation model",
+        0.5796182751655579
+      ],
+      [
+        "sea level rise",
+        0.577085018157959
+      ],
+      [
+        "mangrove establishment",
+        0.5767282843589783
+      ],
+      [
+        "tidal wetland",
+        0.5739089846611023
+      ],
+      [
+        "digital elevation model",
+        0.5738184452056885
+      ],
+      [
+        "coral reefs",
+        0.5716484189033508
+      ],
+      [
+        "tropical estuary",
+        0.5713324546813965
+      ],
+      [
+        "surface elevation",
+        0.5712491869926453
+      ],
+      [
+        "wetland cover",
+        0.570874810218811
+      ],
+      [
+        "estuarine",
+        0.5671791434288025
+      ],
+      [
+        "mangrove saltmarsh",
+        0.5630474090576172
+      ],
+      [
+        "seascape",
+        0.5563220977783203
+      ],
+      [
+        "elevation change",
+        0.5507456660270691
+      ],
+      [
+        "coral reef",
+        0.5456176996231079
+      ],
+      [
+        "reefs",
+        0.5400187969207764
+      ],
+      [
+        "species richness",
+        0.5339205265045166
+      ],
+      [
+        "wave attenuation",
+        0.5330139994621277
+      ],
+      [
+        "ecology",
+        0.5319947600364685
+      ],
+      [
+        "digital elevation",
+        0.5235159397125244
+      ]
+    ],
+    "21": [
+      [
+        "mangrove ground biomass",
+        0.6014053821563721
+      ],
+      [
+        "mangrove carbon stocks",
+        0.5950824022293091
+      ],
+      [
+        "mangrove carbon",
+        0.5841790437698364
+      ],
+      [
+        "indices mangrove",
+        0.584142804145813
+      ],
+      [
+        "mangrove lai",
+        0.580457866191864
+      ],
+      [
+        "adjusted vegetation index",
+        0.5724335312843323
+      ],
+      [
+        "total carbon stock",
+        0.57185959815979
+      ],
+      [
+        "estimating carbon",
+        0.5690343976020813
+      ],
+      [
+        "leaf area index",
+        0.567872941493988
+      ],
+      [
+        "estimate carbon",
+        0.5648058652877808
+      ],
+      [
+        "mangrove ground",
+        0.5642783641815186
+      ],
+      [
+        "carbon stocks mangroves",
+        0.5603564381599426
+      ],
+      [
+        "sensitive mangrove",
+        0.5599979162216187
+      ],
+      [
+        "adjusted vegetation",
+        0.5544753670692444
+      ],
+      [
+        "area index",
+        0.554231584072113
+      ],
+      [
+        "ndvi savi",
+        0.5527137517929077
+      ],
+      [
+        "vegetation indices",
+        0.5525223016738892
+      ],
+      [
+        "vegetation index",
+        0.551329493522644
+      ],
+      [
+        "soil adjusted vegetation",
+        0.5512837767601013
+      ],
+      [
+        "field data",
+        0.543907105922699
+      ]
+    ],
+    "22": [
+      [
+        "palsar data",
+        0.5955033898353577
+      ],
+      [
+        "band sar data",
+        0.5917768478393555
+      ],
+      [
+        "polarimetric decomposition",
+        0.5868289470672607
+      ],
+      [
+        "sar backscatter",
+        0.5759236216545105
+      ],
+      [
+        "data alos palsar",
+        0.5735713839530945
+      ],
+      [
+        "sar data",
+        0.5705995559692383
+      ],
+      [
+        "mapping coastal",
+        0.566482663154602
+      ],
+      [
+        "synthetic aperture radar",
+        0.5628857612609863
+      ],
+      [
+        "radar sar",
+        0.5607489347457886
+      ],
+      [
+        "aperture radar sar",
+        0.5571332573890686
+      ],
+      [
+        "vegetation types",
+        0.5529237389564514
+      ],
+      [
+        "aperture radar",
+        0.5504041910171509
+      ],
+      [
+        "coastal environments",
+        0.5497292280197144
+      ],
+      [
+        "phased array type",
+        0.5483574867248535
+      ],
+      [
+        "band synthetic aperture",
+        0.5459952354431152
+      ],
+      [
+        "phased array",
+        0.5420684218406677
+      ],
+      [
+        "band data",
+        0.5407730340957642
+      ],
+      [
+        "radarsat",
+        0.5391671061515808
+      ],
+      [
+        "wetland vegetation",
+        0.5387118458747864
+      ],
+      [
+        "alos palsar",
+        0.536841869354248
+      ]
+    ],
+    "23": [
+      [
+        "mangrove sediments",
+        0.6102387309074402
+      ],
+      [
+        "sediment samples",
+        0.6011022329330444
+      ],
+      [
+        "mangrove wetland",
+        0.5847941040992737
+      ],
+      [
+        "surface sediment",
+        0.5749912858009338
+      ],
+      [
+        "coastal systems",
+        0.5739824771881104
+      ],
+      [
+        "sediments",
+        0.5643739700317383
+      ],
+      [
+        "estuary",
+        0.5638888478279114
+      ],
+      [
+        "eutrophication",
+        0.5566838979721069
+      ],
+      [
+        "spatial variations",
+        0.5562478303909302
+      ],
+      [
+        "red sea",
+        0.5562369227409363
+      ],
+      [
+        "fresh water",
+        0.5557677745819092
+      ],
+      [
+        "arabian gulf",
+        0.5530380606651306
+      ],
+      [
+        "biogeochemical",
+        0.544655978679657
+      ],
+      [
+        "phytoplankton",
+        0.5404272675514221
+      ],
+      [
+        "sediment",
+        0.5401857495307922
+      ],
+      [
+        "samples collected",
+        0.5384914875030518
+      ],
+      [
+        "heavy metals",
+        0.536227285861969
+      ],
+      [
+        "pollutants",
+        0.5343946814537048
+      ],
+      [
+        "saplings",
+        0.5322864651679993
+      ],
+      [
+        "caribbean coastal",
+        0.528246283531189
+      ]
+    ],
+    "24": [
+      [
+        "estimating mangrove",
+        0.5516372323036194
+      ],
+      [
+        "mangrove aboveground biomass",
+        0.5413414239883423
+      ],
+      [
+        "mangrove agb",
+        0.5319755673408508
+      ],
+      [
+        "mangrove ground biomass",
+        0.5312411189079285
+      ],
+      [
+        "estimating aboveground biomass",
+        0.5300965905189514
+      ],
+      [
+        "estimate mangrove",
+        0.527288019657135
+      ],
+      [
+        "estimated mangrove",
+        0.5210656523704529
+      ],
+      [
+        "mangrove soil",
+        0.5201994776725769
+      ],
+      [
+        "mangrove lai",
+        0.518315315246582
+      ],
+      [
+        "mangrove aboveground",
+        0.5141441822052002
+      ],
+      [
+        "mangrove ground",
+        0.5032564401626587
+      ],
+      [
+        "neural networks",
+        0.49977031350135803
+      ],
+      [
+        "agb estimation",
+        0.4943889379501343
+      ],
+      [
+        "support vector regression",
+        0.4921455681324005
+      ],
+      [
+        "aboveground biomass agb",
+        0.4898987114429474
+      ],
+      [
+        "vector regression svr",
+        0.48441368341445923
+      ],
+      [
+        "estimating aboveground",
+        0.4809589982032776
+      ],
+      [
+        "aboveground biomass",
+        0.48014289140701294
+      ],
+      [
+        "perceptron",
+        0.4789753556251526
+      ],
+      [
+        "machine learning techniques",
+        0.4753056764602661
+      ]
+    ],
+    "25": [
+      [
+        "services provided mangroves",
+        0.6305919289588928
+      ],
+      [
+        "remote sensing mangrove",
+        0.6178790330886841
+      ],
+      [
+        "sensing mangrove forests",
+        0.6169208288192749
+      ],
+      [
+        "changes mangrove cover",
+        0.6116232872009277
+      ],
+      [
+        "mangrove areas",
+        0.6045740842819214
+      ],
+      [
+        "mangrove deforestation",
+        0.6009510159492493
+      ],
+      [
+        "conversion mangrove",
+        0.5986470580101013
+      ],
+      [
+        "development mangrove",
+        0.5984882712364197
+      ],
+      [
+        "sensing mangrove",
+        0.5942448973655701
+      ],
+      [
+        "mangrove cover",
+        0.590740978717804
+      ],
+      [
+        "changes mangrove",
+        0.5896763801574707
+      ],
+      [
+        "mangrove forests located",
+        0.5861724615097046
+      ],
+      [
+        "protected areas",
+        0.5844401121139526
+      ],
+      [
+        "protect mangrove",
+        0.5827248096466064
+      ],
+      [
+        "provided mangroves",
+        0.5719670653343201
+      ],
+      [
+        "mangroves important",
+        0.5718647241592407
+      ],
+      [
+        "value ecosystem services",
+        0.561284601688385
+      ],
+      [
+        "oil spills",
+        0.5577067136764526
+      ],
+      [
+        "gio mangrove",
+        0.5568092465400696
+      ],
+      [
+        "oil spill",
+        0.5497217178344727
+      ]
+    ],
+    "26": [
+      [
+        "shoreline retreat",
+        0.6202799677848816
+      ],
+      [
+        "sea level rise",
+        0.579777717590332
+      ],
+      [
+        "sedimentary",
+        0.5719735026359558
+      ],
+      [
+        "shoreline",
+        0.570004403591156
+      ],
+      [
+        "arabian sea",
+        0.5675337314605713
+      ],
+      [
+        "relative sea level",
+        0.5649658441543579
+      ],
+      [
+        "open coast",
+        0.5643353462219238
+      ],
+      [
+        "holocene",
+        0.5626546144485474
+      ],
+      [
+        "great barrier reef",
+        0.5597135424613953
+      ],
+      [
+        "seagrass meadows",
+        0.5588720440864563
+      ],
+      [
+        "barrier reef",
+        0.5569595098495483
+      ],
+      [
+        "kakadu national park",
+        0.5564725995063782
+      ],
+      [
+        "sea coast",
+        0.5524906516075134
+      ],
+      [
+        "geomorphic",
+        0.5510261058807373
+      ],
+      [
+        "sediments",
+        0.5354331731796265
+      ],
+      [
+        "northern territory",
+        0.5332860946655273
+      ],
+      [
+        "forest development",
+        0.5303797721862793
+      ],
+      [
+        "sea level",
+        0.5283463001251221
+      ],
+      [
+        "relative sea",
+        0.5150757431983948
+      ],
+      [
+        "sediment",
+        0.5084090232849121
+      ]
+    ],
+    "27": [
+      [
+        "marine spatial planning",
+        0.5657587647438049
+      ],
+      [
+        "using aerial photography",
+        0.5647730231285095
+      ],
+      [
+        "surface water",
+        0.5509401559829712
+      ],
+      [
+        "coral reef",
+        0.5465419292449951
+      ],
+      [
+        "wetland restoration",
+        0.5432507395744324
+      ],
+      [
+        "spatial scales",
+        0.5429007411003113
+      ],
+      [
+        "estuarine",
+        0.5403767824172974
+      ],
+      [
+        "mangrove saltmarsh",
+        0.5390014052391052
+      ],
+      [
+        "coastal wetlands",
+        0.5380339026451111
+      ],
+      [
+        "coastal wetland",
+        0.5334792137145996
+      ],
+      [
+        "spatial planning",
+        0.5328269004821777
+      ],
+      [
+        "ecology",
+        0.5327497124671936
+      ],
+      [
+        "marine spatial",
+        0.5326756834983826
+      ],
+      [
+        "seascape",
+        0.5322234630584717
+      ],
+      [
+        "species richness",
+        0.531317412853241
+      ],
+      [
+        "species area",
+        0.5310677289962769
+      ],
+      [
+        "fisheries",
+        0.5301339626312256
+      ],
+      [
+        "restoration projects",
+        0.5273953676223755
+      ],
+      [
+        "photogrammetry",
+        0.5265028476715088
+      ],
+      [
+        "spatial pattern",
+        0.5246277451515198
+      ]
+    ],
+    "28": [
+      [
+        "mangrove range",
+        0.5953368544578552
+      ],
+      [
+        "mangrove expansion",
+        0.5951108932495117
+      ],
+      [
+        "expansion mangroves",
+        0.5721070170402527
+      ],
+      [
+        "ecotones",
+        0.55439293384552
+      ],
+      [
+        "terrestrial forests",
+        0.5434984564781189
+      ],
+      [
+        "forested wetlands",
+        0.5418553352355957
+      ],
+      [
+        "landscape scale",
+        0.5389617681503296
+      ],
+      [
+        "mangroves avicennia",
+        0.5324459075927734
+      ],
+      [
+        "canopy cover",
+        0.5316329598426819
+      ],
+      [
+        "mangrove saltmarsh",
+        0.5306326150894165
+      ],
+      [
+        "wetland loss",
+        0.5263089537620544
+      ],
+      [
+        "sea level rise",
+        0.5217517018318176
+      ],
+      [
+        "interannual variability",
+        0.5216092467308044
+      ],
+      [
+        "salt marsh",
+        0.5210154056549072
+      ],
+      [
+        "ecotone",
+        0.51606285572052
+      ],
+      [
+        "sensing climate change",
+        0.5054305195808411
+      ],
+      [
+        "remote sensing climate",
+        0.5004307627677917
+      ],
+      [
+        "remote sensing ground",
+        0.4947385787963867
+      ],
+      [
+        "southern florida",
+        0.4944007396697998
+      ],
+      [
+        "baja california",
+        0.4916401505470276
+      ]
+    ],
+    "29": [
+      [
+        "area mangrove",
+        0.5778939127922058
+      ],
+      [
+        "mangrove forest cover",
+        0.5750492215156555
+      ],
+      [
+        "changes mangrove forest",
+        0.5738995671272278
+      ],
+      [
+        "land use",
+        0.5675962567329407
+      ],
+      [
+        "use land cover",
+        0.5662466287612915
+      ],
+      [
+        "land cover land",
+        0.5554670095443726
+      ],
+      [
+        "cover land use",
+        0.551415205001831
+      ],
+      [
+        "mangrove forests important",
+        0.5494118332862854
+      ],
+      [
+        "density mangrove",
+        0.5491552352905273
+      ],
+      [
+        "forest areas",
+        0.5485320687294006
+      ],
+      [
+        "changes mangrove",
+        0.5413691997528076
+      ],
+      [
+        "mangrove planting",
+        0.5401793718338013
+      ],
+      [
+        "coastal environment",
+        0.5381800532341003
+      ],
+      [
+        "lulc maps",
+        0.5348588228225708
+      ],
+      [
+        "water bodies",
+        0.5331889390945435
+      ],
+      [
+        "cover land",
+        0.5291538238525391
+      ],
+      [
+        "environmental changes",
+        0.5251061916351318
+      ],
+      [
+        "effectiveness mangrove",
+        0.5222094655036926
+      ],
+      [
+        "protect coastal",
+        0.5140495300292969
+      ],
+      [
+        "flood inundation",
+        0.5135083198547363
+      ]
+    ],
+    "30": [
+      [
+        "mangrove dynamics",
+        0.6396495699882507
+      ],
+      [
+        "mangrove expansion",
+        0.6391293406486511
+      ],
+      [
+        "shoreline retreat",
+        0.6216692924499512
+      ],
+      [
+        "mangrove afforestation",
+        0.6192216277122498
+      ],
+      [
+        "shoreline erosion",
+        0.6076030731201172
+      ],
+      [
+        "changes mangrove",
+        0.6035528182983398
+      ],
+      [
+        "salt marshes",
+        0.5999511480331421
+      ],
+      [
+        "mekong delta",
+        0.5806287527084351
+      ],
+      [
+        "river delta",
+        0.5730857849121094
+      ],
+      [
+        "wetland maps",
+        0.5690727233886719
+      ],
+      [
+        "mekong delta vietnam",
+        0.560386061668396
+      ],
+      [
+        "shoreline",
+        0.554709792137146
+      ],
+      [
+        "vital ecosystems",
+        0.5541157722473145
+      ],
+      [
+        "fluvial",
+        0.5536673665046692
+      ],
+      [
+        "erosion land",
+        0.5531132221221924
+      ],
+      [
+        "red river",
+        0.552772045135498
+      ],
+      [
+        "ecosystems tropical subtropical",
+        0.5509204864501953
+      ],
+      [
+        "salt marsh",
+        0.5508959293365479
+      ],
+      [
+        "temporal remote sensing",
+        0.5507233142852783
+      ],
+      [
+        "marshes",
+        0.5496107339859009
+      ]
+    ],
+    "31": [
+      [
+        "aboveground carbon stocks",
+        0.5788826942443848
+      ],
+      [
+        "aboveground carbon",
+        0.570229709148407
+      ],
+      [
+        "mangroves salt marshes",
+        0.5679431557655334
+      ],
+      [
+        "ecosystem carbon",
+        0.5670779943466187
+      ],
+      [
+        "soil carbon",
+        0.566213846206665
+      ],
+      [
+        "stocks mangroves",
+        0.5603076219558716
+      ],
+      [
+        "ecosystem types",
+        0.5568431615829468
+      ],
+      [
+        "biomass carbon",
+        0.5547748804092407
+      ],
+      [
+        "aboveground biomass",
+        0.5529351830482483
+      ],
+      [
+        "mangroves salt",
+        0.5517274141311646
+      ],
+      [
+        "delta mangroves",
+        0.5514671802520752
+      ],
+      [
+        "dwarf mangroves",
+        0.5498088598251343
+      ],
+      [
+        "carbon stocks",
+        0.5456824898719788
+      ],
+      [
+        "ground biomass",
+        0.5349786281585693
+      ],
+      [
+        "aboveground",
+        0.5345962047576904
+      ],
+      [
+        "belowground",
+        0.5303802490234375
+      ],
+      [
+        "blue carbon carbon",
+        0.527318000793457
+      ],
+      [
+        "river delta",
+        0.5229789018630981
+      ],
+      [
+        "stock estimates",
+        0.5221900939941406
+      ],
+      [
+        "carbon carbon",
+        0.5207570791244507
+      ]
+    ],
+    "32": [
+      [
+        "native mangrove species",
+        0.581437885761261
+      ],
+      [
+        "china mangroves",
+        0.5754265785217285
+      ],
+      [
+        "mangrove biomass",
+        0.5696814656257629
+      ],
+      [
+        "mangrove biomass carbon",
+        0.5666345953941345
+      ],
+      [
+        "native mangrove",
+        0.5655230283737183
+      ],
+      [
+        "coverage mangrove",
+        0.5631940960884094
+      ],
+      [
+        "local mangrove",
+        0.557550847530365
+      ],
+      [
+        "mangrove biodiversity",
+        0.5518920421600342
+      ],
+      [
+        "native species",
+        0.5400316715240479
+      ],
+      [
+        "series remote sensing",
+        0.5386554598808289
+      ],
+      [
+        "bay area",
+        0.5357818603515625
+      ],
+      [
+        "ecosystem types",
+        0.5301997661590576
+      ],
+      [
+        "guangxi beibu gulf",
+        0.529022753238678
+      ],
+      [
+        "tidal inundation",
+        0.5255124568939209
+      ],
+      [
+        "wetland types",
+        0.524998128414154
+      ],
+      [
+        "exotic species",
+        0.5242336988449097
+      ],
+      [
+        "landscape scales",
+        0.5239655375480652
+      ],
+      [
+        "invasive species",
+        0.5197012424468994
+      ],
+      [
+        "guangxi beibu",
+        0.507313072681427
+      ],
+      [
+        "invasive plant",
+        0.5048739910125732
+      ]
+    ],
+    "33": [
+      [
+        "mangrove biomass carbon",
+        0.5990914106369019
+      ],
+      [
+        "mangrove carbon stocks",
+        0.5977617502212524
+      ],
+      [
+        "mangrove phenology",
+        0.5927586555480957
+      ],
+      [
+        "mangrove aboveground biomass",
+        0.590222179889679
+      ],
+      [
+        "mangrove carbon stock",
+        0.5872949957847595
+      ],
+      [
+        "mangrove biomass",
+        0.583410918712616
+      ],
+      [
+        "carbon stocks mangrove",
+        0.5778064131736755
+      ],
+      [
+        "mangrove carbon",
+        0.568893313407898
+      ],
+      [
+        "global mangrove",
+        0.5678980350494385
+      ],
+      [
+        "estimation mangrove",
+        0.5666475296020508
+      ],
+      [
+        "carbon stock assessment",
+        0.5661637783050537
+      ],
+      [
+        "scale mangrove",
+        0.5653412342071533
+      ],
+      [
+        "mangrove forests china",
+        0.5620130300521851
+      ],
+      [
+        "mangrove aboveground",
+        0.5619112253189087
+      ],
+      [
+        "mangrove agb",
+        0.556740403175354
+      ],
+      [
+        "stocks mangrove forests",
+        0.5553715229034424
+      ],
+      [
+        "carbon stock estimation",
+        0.5505425333976746
+      ],
+      [
+        "stocks mangrove",
+        0.5469658374786377
+      ],
+      [
+        "island mangroves",
+        0.5464332103729248
+      ],
+      [
+        "aboveground biomass using",
+        0.5393788814544678
+      ]
+    ],
+    "34": [
+      [
+        "mangrove aboveground biomass",
+        0.5764793157577515
+      ],
+      [
+        "mangrove aboveground",
+        0.5581160187721252
+      ],
+      [
+        "estimation mangrove",
+        0.5548707842826843
+      ],
+      [
+        "mangrove canopy",
+        0.5474044680595398
+      ],
+      [
+        "carbon stock estimation",
+        0.5404228568077087
+      ],
+      [
+        "aboveground biomass density",
+        0.5307375192642212
+      ],
+      [
+        "accurate estimation",
+        0.5169185996055603
+      ],
+      [
+        "aboveground biomass",
+        0.5112848281860352
+      ],
+      [
+        "aboveground",
+        0.5085403323173523
+      ],
+      [
+        "carbon sinks",
+        0.5082563757896423
+      ],
+      [
+        "uav lidar data",
+        0.5044401288032532
+      ],
+      [
+        "carbon uptake",
+        0.5034156441688538
+      ],
+      [
+        "species diversity",
+        0.5015182495117188
+      ],
+      [
+        "superior performance",
+        0.4979066550731659
+      ],
+      [
+        "spatial heterogeneity",
+        0.49759185314178467
+      ],
+      [
+        "alpha diversity",
+        0.49075403809547424
+      ],
+      [
+        "vegetation species",
+        0.48970675468444824
+      ],
+      [
+        "data fusion",
+        0.4893379211425781
+      ],
+      [
+        "accuracy r2",
+        0.4887746572494507
+      ],
+      [
+        "radiative transfer",
+        0.4883494973182678
+      ]
+    ],
+    "35": [
+      [
+        "mangrove species classification",
+        0.5863279700279236
+      ],
+      [
+        "classification mangrove species",
+        0.5827886462211609
+      ],
+      [
+        "hyperspectral images",
+        0.5631266832351685
+      ],
+      [
+        "high resolution multispectral",
+        0.5595691204071045
+      ],
+      [
+        "fine scale mangrove",
+        0.5525363087654114
+      ],
+      [
+        "multispectral hyperspectral",
+        0.5454727411270142
+      ],
+      [
+        "hyperspectral imagery",
+        0.5428508520126343
+      ],
+      [
+        "mangrove species",
+        0.5422207713127136
+      ],
+      [
+        "classifying mangrove",
+        0.5414037108421326
+      ],
+      [
+        "wetland classification",
+        0.5357004404067993
+      ],
+      [
+        "species classification",
+        0.5306690335273743
+      ],
+      [
+        "uav hyperspectral",
+        0.5277433395385742
+      ],
+      [
+        "vegetation mapping",
+        0.5267724394798279
+      ],
+      [
+        "source remote sensing",
+        0.5155613422393799
+      ],
+      [
+        "multispectral",
+        0.5147846341133118
+      ],
+      [
+        "hyperspectral",
+        0.514232873916626
+      ],
+      [
+        "species mapping",
+        0.5130938291549683
+      ],
+      [
+        "spectral information",
+        0.5111503601074219
+      ],
+      [
+        "unmanned aerial vehicle",
+        0.5109575986862183
+      ],
+      [
+        "learning mangrove",
+        0.5043951272964478
+      ]
+    ],
+    "36": [
+      [
+        "multispectral satellite images",
+        0.6437407732009888
+      ],
+      [
+        "mangrove structure",
+        0.6351096034049988
+      ],
+      [
+        "approach mangrove",
+        0.6247168779373169
+      ],
+      [
+        "high spatial resolution",
+        0.6161506772041321
+      ],
+      [
+        "high resolution images",
+        0.6119866967201233
+      ],
+      [
+        "biomass mangroves",
+        0.5956313610076904
+      ],
+      [
+        "canopy structure",
+        0.5938003659248352
+      ],
+      [
+        "uav hyperspectral",
+        0.5927355289459229
+      ],
+      [
+        "mangrove stands",
+        0.5866714119911194
+      ],
+      [
+        "stability mangrove",
+        0.5839208364486694
+      ],
+      [
+        "radiative transfer",
+        0.5790084600448608
+      ],
+      [
+        "sar data",
+        0.5784857869148254
+      ],
+      [
+        "hyperspectral",
+        0.5744460225105286
+      ],
+      [
+        "geomorphological",
+        0.5713808536529541
+      ],
+      [
+        "backscattering",
+        0.569939374923706
+      ],
+      [
+        "radarsat",
+        0.5659613609313965
+      ],
+      [
+        "high biomass",
+        0.5645207762718201
+      ],
+      [
+        "resolution images",
+        0.5632571578025818
+      ],
+      [
+        "spatial structure",
+        0.5562067627906799
+      ],
+      [
+        "tropical forest",
+        0.5561405420303345
+      ]
+    ],
+    "37": [
+      [
+        "mapping land cover",
+        0.7070944905281067
+      ],
+      [
+        "coastal dynamics",
+        0.6872490644454956
+      ],
+      [
+        "mapping land",
+        0.684230387210846
+      ],
+      [
+        "coastal features",
+        0.6821523904800415
+      ],
+      [
+        "coastal changes",
+        0.6723557114601135
+      ],
+      [
+        "radar images",
+        0.669890820980072
+      ],
+      [
+        "images remote sensing",
+        0.6695624589920044
+      ],
+      [
+        "coastal zone",
+        0.6671707034111023
+      ],
+      [
+        "sar images",
+        0.6649243831634521
+      ],
+      [
+        "coastal zone management",
+        0.6644906997680664
+      ],
+      [
+        "landsat tm5",
+        0.6537042260169983
+      ],
+      [
+        "coastal habitats",
+        0.6491872072219849
+      ],
+      [
+        "sar data",
+        0.6470130681991577
+      ],
+      [
+        "different vegetation",
+        0.6461691856384277
+      ],
+      [
+        "landsat thematic mapper",
+        0.6424862742424011
+      ],
+      [
+        "sensing coastal",
+        0.6398628950119019
+      ],
+      [
+        "geomorphological",
+        0.6396518349647522
+      ],
+      [
+        "dunes",
+        0.6379660367965698
+      ],
+      [
+        "remote sensing satellite",
+        0.6379000544548035
+      ],
+      [
+        "severe coastal",
+        0.6372671127319336
+      ]
+    ],
+    "38": [
+      [
+        "digital shoreline analysis",
+        0.6091958284378052
+      ],
+      [
+        "shoreline changes",
+        0.6031063795089722
+      ],
+      [
+        "mangrove shoreline",
+        0.6009132862091064
+      ],
+      [
+        "shoreline analysis dsas",
+        0.5742659568786621
+      ],
+      [
+        "shoreline analysis",
+        0.5716795325279236
+      ],
+      [
+        "mangroves cover",
+        0.5610799193382263
+      ],
+      [
+        "sagar island",
+        0.5606709718704224
+      ],
+      [
+        "digital shoreline",
+        0.5575352311134338
+      ],
+      [
+        "suspended sediment concentration",
+        0.5507180094718933
+      ],
+      [
+        "shoreline",
+        0.54668128490448
+      ],
+      [
+        "suspended sediment",
+        0.5403287410736084
+      ],
+      [
+        "shorelines",
+        0.5391260981559753
+      ],
+      [
+        "post monsoon seasons",
+        0.5326730608940125
+      ],
+      [
+        "island india",
+        0.5322228670120239
+      ],
+      [
+        "morphological changes",
+        0.5316580533981323
+      ],
+      [
+        "east coast",
+        0.5311110615730286
+      ],
+      [
+        "monsoon",
+        0.5308209657669067
+      ],
+      [
+        "gulf thailand",
+        0.5285592079162598
+      ],
+      [
+        "sediment concentration",
+        0.5266676545143127
+      ],
+      [
+        "accretion erosion",
+        0.52164626121521
+      ]
+    ],
+    "39": [
+      [
+        "marine life",
+        0.6375724673271179
+      ],
+      [
+        "remote sensing techniques",
+        0.6228192448616028
+      ],
+      [
+        "mangrove mapping monitoring",
+        0.6204006671905518
+      ],
+      [
+        "remote sensing tools",
+        0.619747519493103
+      ],
+      [
+        "coral reefs",
+        0.6128491759300232
+      ],
+      [
+        "coastal habitats",
+        0.6120597124099731
+      ],
+      [
+        "sustainable management",
+        0.6109402775764465
+      ],
+      [
+        "remote sensing applications",
+        0.6105992197990417
+      ],
+      [
+        "coastal resources",
+        0.6055170893669128
+      ],
+      [
+        "coastal hazards",
+        0.6033288240432739
+      ],
+      [
+        "satellite remote sensing",
+        0.598141610622406
+      ],
+      [
+        "reefs",
+        0.5948779582977295
+      ],
+      [
+        "coastal marine",
+        0.5895046591758728
+      ],
+      [
+        "human impacts",
+        0.5882821679115295
+      ],
+      [
+        "coral reef",
+        0.5876553058624268
+      ],
+      [
+        "water quality",
+        0.5819911956787109
+      ],
+      [
+        "large scale monitoring",
+        0.5796444416046143
+      ],
+      [
+        "natural resources",
+        0.5779423713684082
+      ],
+      [
+        "understanding spatial",
+        0.5739416480064392
+      ],
+      [
+        "resilience coastal",
+        0.5718485713005066
+      ]
+    ],
+    "40": [
+      [
+        "conditions mangroves",
+        0.6269521117210388
+      ],
+      [
+        "dominated rhizophora",
+        0.6095025539398193
+      ],
+      [
+        "mangrove ecosystem health",
+        0.6034632921218872
+      ],
+      [
+        "vegetation dynamics",
+        0.5914146304130554
+      ],
+      [
+        "community composition",
+        0.590120792388916
+      ],
+      [
+        "natural forest",
+        0.5783983469009399
+      ],
+      [
+        "fishery",
+        0.5779979825019836
+      ],
+      [
+        "forest products",
+        0.5771400928497314
+      ],
+      [
+        "environmental factors",
+        0.5769809484481812
+      ],
+      [
+        "environmental variables",
+        0.57375168800354
+      ],
+      [
+        "anthropogenic disturbance",
+        0.569970428943634
+      ],
+      [
+        "vegetation data",
+        0.5684948563575745
+      ],
+      [
+        "sea surface temperature",
+        0.5681922435760498
+      ],
+      [
+        "forested wetland",
+        0.5668869614601135
+      ],
+      [
+        "colombian",
+        0.5561354756355286
+      ],
+      [
+        "plantation",
+        0.5524144768714905
+      ],
+      [
+        "sea surface",
+        0.5497365593910217
+      ],
+      [
+        "local people",
+        0.5468533635139465
+      ],
+      [
+        "water salinity",
+        0.5461488962173462
+      ],
+      [
+        "spatial pattern",
+        0.5416586995124817
+      ]
+    ],
+    "41": [
+      [
+        "mangrove recognition index",
+        0.6564109325408936
+      ],
+      [
+        "technology mangrove",
+        0.6436639428138733
+      ],
+      [
+        "mangrove recognition",
+        0.641657829284668
+      ],
+      [
+        "mangrove remote sensing",
+        0.6393325328826904
+      ],
+      [
+        "research mangrove",
+        0.6388479471206665
+      ],
+      [
+        "mangrove information",
+        0.6381176710128784
+      ],
+      [
+        "remote sensing image",
+        0.634513795375824
+      ],
+      [
+        "multispectral remote sensing",
+        0.629339873790741
+      ],
+      [
+        "based hyperspectral",
+        0.6127280592918396
+      ],
+      [
+        "extraction mangrove",
+        0.6005802750587463
+      ],
+      [
+        "mangrove extraction",
+        0.5953956246376038
+      ],
+      [
+        "remote sensing classification",
+        0.5942771434783936
+      ],
+      [
+        "mangrove communities",
+        0.5873856544494629
+      ],
+      [
+        "mangrove remote",
+        0.5845748782157898
+      ],
+      [
+        "classification method",
+        0.5836755037307739
+      ],
+      [
+        "multispectral remote",
+        0.5803887844085693
+      ],
+      [
+        "sensing image",
+        0.5777009129524231
+      ],
+      [
+        "extract mangrove",
+        0.5771848559379578
+      ],
+      [
+        "using quickbird",
+        0.5672749280929565
+      ],
+      [
+        "sentinel image",
+        0.5633406639099121
+      ]
+    ],
+    "42": [
+      [
+        "remote sensing technologies",
+        0.6053733229637146
+      ],
+      [
+        "mangrove species mapping",
+        0.6044571399688721
+      ],
+      [
+        "remote sensing approaches",
+        0.5972883701324463
+      ],
+      [
+        "review mangrove",
+        0.5969851613044739
+      ],
+      [
+        "monitoring mangroves",
+        0.5961456894874573
+      ],
+      [
+        "data remote sensing",
+        0.5864086151123047
+      ],
+      [
+        "monitoring mangrove",
+        0.5848280787467957
+      ],
+      [
+        "studies mangroves",
+        0.5845168828964233
+      ],
+      [
+        "ecosystems remote sensing",
+        0.5830485224723816
+      ],
+      [
+        "mangrove studies",
+        0.5827353000640869
+      ],
+      [
+        "mangrove research",
+        0.5820021629333496
+      ],
+      [
+        "applications remote sensing",
+        0.5771445631980896
+      ],
+      [
+        "use remote sensing",
+        0.5752662420272827
+      ],
+      [
+        "remote sensing technology",
+        0.575016975402832
+      ],
+      [
+        "mangrove degradation",
+        0.573174238204956
+      ],
+      [
+        "technology mangrove",
+        0.5664362907409668
+      ],
+      [
+        "carbon ecosystems mangroves",
+        0.5636601448059082
+      ],
+      [
+        "index mangrove",
+        0.5605254173278809
+      ],
+      [
+        "mangroves seagrasses",
+        0.5562983155250549
+      ],
+      [
+        "multispectral hyperspectral",
+        0.5530375242233276
+      ]
+    ],
+    "43": [
+      [
+        "mangrove sediments",
+        0.5929418206214905
+      ],
+      [
+        "mangrove expansion",
+        0.5689983367919922
+      ],
+      [
+        "sea mangroves",
+        0.5689738392829895
+      ],
+      [
+        "estuarine",
+        0.5661793947219849
+      ],
+      [
+        "collected mangrove",
+        0.5567959547042847
+      ],
+      [
+        "arabian gulf",
+        0.5512376427650452
+      ],
+      [
+        "sea level rise",
+        0.5483270883560181
+      ],
+      [
+        "holocene",
+        0.5458313226699829
+      ],
+      [
+        "organic carbon",
+        0.5455544590950012
+      ],
+      [
+        "sediment accumulation",
+        0.54316645860672
+      ],
+      [
+        "sedimentary",
+        0.540931224822998
+      ],
+      [
+        "red sea",
+        0.5368232727050781
+      ],
+      [
+        "sediment cores",
+        0.5325595736503601
+      ],
+      [
+        "sediment accretion",
+        0.5307424664497375
+      ],
+      [
+        "natural environmental",
+        0.5270724892616272
+      ],
+      [
+        "sediments",
+        0.5230287313461304
+      ],
+      [
+        "sediment core",
+        0.5227953195571899
+      ],
+      [
+        "organic matter",
+        0.5225018858909607
+      ],
+      [
+        "estuary",
+        0.5210359692573547
+      ],
+      [
+        "geochemical",
+        0.5189046859741211
+      ]
+    ],
+    "44": [
+      [
+        "land use classes",
+        0.5944465398788452
+      ],
+      [
+        "land use changes",
+        0.5664697289466858
+      ],
+      [
+        "multispectral instrument",
+        0.5659976601600647
+      ],
+      [
+        "wetland ecosystems",
+        0.5649173259735107
+      ],
+      [
+        "vegetation type",
+        0.5635273456573486
+      ],
+      [
+        "evergreen forests",
+        0.5617327690124512
+      ],
+      [
+        "vegetation communities",
+        0.5588415265083313
+      ],
+      [
+        "multispectral instrument msi",
+        0.554762601852417
+      ],
+      [
+        "invasive species",
+        0.5545790195465088
+      ],
+      [
+        "land use",
+        0.553295373916626
+      ],
+      [
+        "marismas nacionales",
+        0.5497598648071289
+      ],
+      [
+        "grasslands",
+        0.5469667911529541
+      ],
+      [
+        "vegetation damage",
+        0.5461010336875916
+      ],
+      [
+        "sentinel data",
+        0.5392770767211914
+      ],
+      [
+        "coastal tropical",
+        0.538480818271637
+      ],
+      [
+        "phragmites australis",
+        0.5374734401702881
+      ],
+      [
+        "forests coastal",
+        0.5341794490814209
+      ],
+      [
+        "tropical dry",
+        0.5312240719795227
+      ],
+      [
+        "oil spill",
+        0.5311193466186523
+      ],
+      [
+        "use changes",
+        0.5302021503448486
+      ]
+    ],
+    "45": [
+      [
+        "mangrove phenology",
+        0.6173529028892517
+      ],
+      [
+        "mangrove health",
+        0.6059530973434448
+      ],
+      [
+        "mangrove phenological",
+        0.6020013689994812
+      ],
+      [
+        "mangrove swamp",
+        0.6010360717773438
+      ],
+      [
+        "bhitarkanika wildlife sanctuary",
+        0.5946552157402039
+      ],
+      [
+        "planted mangroves",
+        0.5698622465133667
+      ],
+      [
+        "high tides",
+        0.5679370164871216
+      ],
+      [
+        "mangroves observed",
+        0.5656715631484985
+      ],
+      [
+        "using multi sensor",
+        0.5584176182746887
+      ],
+      [
+        "soil samples",
+        0.5544544458389282
+      ],
+      [
+        "series sentinel data",
+        0.5481979846954346
+      ],
+      [
+        "phenology",
+        0.5449264049530029
+      ],
+      [
+        "water quality",
+        0.5395102500915527
+      ],
+      [
+        "radar data",
+        0.5390599966049194
+      ],
+      [
+        "indus delta",
+        0.5388687252998352
+      ],
+      [
+        "sentinel radar",
+        0.5362233519554138
+      ],
+      [
+        "phenological",
+        0.5357497334480286
+      ],
+      [
+        "wildlife",
+        0.5311040282249451
+      ],
+      [
+        "estuary",
+        0.5287684202194214
+      ],
+      [
+        "sensor data",
+        0.5285177826881409
+      ]
+    ],
+    "46": [
+      [
+        "aerial photography",
+        0.6593097448348999
+      ],
+      [
+        "analysis land cover",
+        0.6524294018745422
+      ],
+      [
+        "aerial photographs",
+        0.6378200650215149
+      ],
+      [
+        "ecosystem based management",
+        0.6274518370628357
+      ],
+      [
+        "management coastal",
+        0.626717746257782
+      ],
+      [
+        "digital elevation models",
+        0.6219242811203003
+      ],
+      [
+        "hyperspectral imagery",
+        0.6200883984565735
+      ],
+      [
+        "extent mangroves",
+        0.619979739189148
+      ],
+      [
+        "landsat thematic mapper",
+        0.6136382818222046
+      ],
+      [
+        "coastal zone",
+        0.6136184930801392
+      ],
+      [
+        "bathymetry",
+        0.6134624481201172
+      ],
+      [
+        "sar imagery",
+        0.6120366454124451
+      ],
+      [
+        "thematic mapper",
+        0.6109926104545593
+      ],
+      [
+        "elevation models",
+        0.6088898181915283
+      ],
+      [
+        "land cover change",
+        0.6086066365242004
+      ],
+      [
+        "landsat thematic",
+        0.6083369851112366
+      ],
+      [
+        "photography",
+        0.6082359552383423
+      ],
+      [
+        "topographic data",
+        0.6055285930633545
+      ],
+      [
+        "coastal marine",
+        0.6030691862106323
+      ],
+      [
+        "kakadu national park",
+        0.6029415130615234
+      ]
+    ],
+    "47": [
+      [
+        "hyperspectral imaging",
+        0.6312882304191589
+      ],
+      [
+        "multiresolution",
+        0.6241756081581116
+      ],
+      [
+        "based image analysis",
+        0.6241741180419922
+      ],
+      [
+        "mangrove detection",
+        0.609828770160675
+      ],
+      [
+        "images mangrove",
+        0.6018063426017761
+      ],
+      [
+        "neural network",
+        0.5969773530960083
+      ],
+      [
+        "image classification",
+        0.5949682593345642
+      ],
+      [
+        "support vector machine",
+        0.5895915031433105
+      ],
+      [
+        "object based image",
+        0.5846421718597412
+      ],
+      [
+        "used mangrove",
+        0.583145260810852
+      ],
+      [
+        "image analysis",
+        0.5808174014091492
+      ],
+      [
+        "svm classification",
+        0.5775089859962463
+      ],
+      [
+        "mangrove class",
+        0.5762614607810974
+      ],
+      [
+        "mangrove stand",
+        0.5749701857566833
+      ],
+      [
+        "based image",
+        0.5722315311431885
+      ],
+      [
+        "based approach",
+        0.570728600025177
+      ],
+      [
+        "rule based",
+        0.5688635110855103
+      ],
+      [
+        "vector machine",
+        0.5634405612945557
+      ],
+      [
+        "different classes",
+        0.559173047542572
+      ],
+      [
+        "sustainable management coastal",
+        0.5584170818328857
+      ]
+    ],
+    "48": [
+      [
+        "hyperspectral image data",
+        0.6351736783981323
+      ],
+      [
+        "spectral angle mapper",
+        0.6321605443954468
+      ],
+      [
+        "classification mangroves",
+        0.6273854374885559
+      ],
+      [
+        "mangrove forests using",
+        0.6235271692276001
+      ],
+      [
+        "using hyperspectral",
+        0.6196234226226807
+      ],
+      [
+        "hyperspectral remote sensing",
+        0.6143039464950562
+      ],
+      [
+        "hyperspectral data",
+        0.613254964351654
+      ],
+      [
+        "mangroves species",
+        0.6046933531761169
+      ],
+      [
+        "india mangrove",
+        0.6037516593933105
+      ],
+      [
+        "discriminate mangrove",
+        0.6037007570266724
+      ],
+      [
+        "hyperspectral image",
+        0.6007434725761414
+      ],
+      [
+        "sundarban mangroves",
+        0.5976181626319885
+      ],
+      [
+        "spectral signatures",
+        0.5905691981315613
+      ],
+      [
+        "hyperspectral",
+        0.5880241394042969
+      ],
+      [
+        "hyperspectral remote",
+        0.5872138142585754
+      ],
+      [
+        "angle mapper",
+        0.5838373899459839
+      ],
+      [
+        "mangroves health",
+        0.5811710357666016
+      ],
+      [
+        "forests using",
+        0.5804144740104675
+      ],
+      [
+        "vegetation indices",
+        0.5766337513923645
+      ],
+      [
+        "spectral indices",
+        0.5746344327926636
+      ]
+    ],
+    "49": [
+      [
+        "impacts mangrove",
+        0.5991113781929016
+      ],
+      [
+        "mangrove ecosystem services",
+        0.5989331007003784
+      ],
+      [
+        "mangrove national nature",
+        0.5951149463653564
+      ],
+      [
+        "mangrove nature reserve",
+        0.5912315845489502
+      ],
+      [
+        "mangrove ecosystem",
+        0.5909059643745422
+      ],
+      [
+        "mangrove growth",
+        0.5904497504234314
+      ],
+      [
+        "mangrove protection",
+        0.5882501006126404
+      ],
+      [
+        "health mangrove",
+        0.5870125889778137
+      ],
+      [
+        "indonesia mangrove",
+        0.5794639587402344
+      ],
+      [
+        "mangrove conservation",
+        0.5789379477500916
+      ],
+      [
+        "benefits mangrove",
+        0.5782263875007629
+      ],
+      [
+        "quality mangrove",
+        0.5780028104782104
+      ],
+      [
+        "mangrove reserves",
+        0.5770227313041687
+      ],
+      [
+        "suitable mangrove",
+        0.5761757493019104
+      ],
+      [
+        "mangroves future",
+        0.570461630821228
+      ],
+      [
+        "mangrove national",
+        0.5594489574432373
+      ],
+      [
+        "land use change",
+        0.5508735179901123
+      ],
+      [
+        "aquaculture development",
+        0.5416369438171387
+      ],
+      [
+        "coastal blue carbon",
+        0.5347534418106079
+      ],
+      [
+        "soil carbon stocks",
+        0.5329886674880981
+      ]
+    ],
+    "50": [
+      [
+        "2004 indian ocean",
+        0.644821047782898
+      ],
+      [
+        "indian ocean tsunami",
+        0.6407492160797119
+      ],
+      [
+        "andaman island",
+        0.625688910484314
+      ],
+      [
+        "2004 tsunami",
+        0.6221383810043335
+      ],
+      [
+        "ocean tsunami",
+        0.6193036437034607
+      ],
+      [
+        "impact assessment",
+        0.6156259775161743
+      ],
+      [
+        "coastal features",
+        0.6150000691413879
+      ],
+      [
+        "nicobar islands",
+        0.6136481165885925
+      ],
+      [
+        "affected areas",
+        0.6116094589233398
+      ],
+      [
+        "mangroves coral reefs",
+        0.6105875968933105
+      ],
+      [
+        "mangroves coral",
+        0.6080427765846252
+      ],
+      [
+        "vulnerability map",
+        0.6015836000442505
+      ],
+      [
+        "tsunami",
+        0.5998345613479614
+      ],
+      [
+        "indian ocean",
+        0.598786473274231
+      ],
+      [
+        "forest areas",
+        0.594287633895874
+      ],
+      [
+        "andaman nicobar islands",
+        0.593174397945404
+      ],
+      [
+        "coastal vegetation",
+        0.5846714377403259
+      ],
+      [
+        "south andaman",
+        0.5806264281272888
+      ],
+      [
+        "natural ecosystems",
+        0.5713955760002136
+      ],
+      [
+        "satellite imageries",
+        0.5651984214782715
+      ]
+    ],
+    "51": [
+      [
+        "urban planning",
+        0.5961119532585144
+      ],
+      [
+        "analysis land use",
+        0.5921081304550171
+      ],
+      [
+        "high resolution images",
+        0.5890716910362244
+      ],
+      [
+        "mapping remote sensing",
+        0.5829393267631531
+      ],
+      [
+        "environmental impacts",
+        0.5800064206123352
+      ],
+      [
+        "coastal management",
+        0.579073429107666
+      ],
+      [
+        "impacts coastal",
+        0.5781692266464233
+      ],
+      [
+        "multispectral bands",
+        0.5775344967842102
+      ],
+      [
+        "analysis land",
+        0.5699227452278137
+      ],
+      [
+        "coastal zone",
+        0.5641124844551086
+      ],
+      [
+        "vulnerability assessment",
+        0.5621633529663086
+      ],
+      [
+        "terrestrial laser scanning",
+        0.5619393587112427
+      ],
+      [
+        "geographical information",
+        0.5569288730621338
+      ],
+      [
+        "aquaculture activities",
+        0.5546159744262695
+      ],
+      [
+        "deforestation mangroves",
+        0.5538967251777649
+      ],
+      [
+        "using spot",
+        0.5528443455696106
+      ],
+      [
+        "spot images",
+        0.5508548021316528
+      ],
+      [
+        "laser scanning",
+        0.5495736598968506
+      ],
+      [
+        "soil erosion",
+        0.5493133068084717
+      ],
+      [
+        "cartographic",
+        0.5481932163238525
+      ]
+    ],
+    "52": [
+      [
+        "black mangrove avicennia",
+        0.5867741107940674
+      ],
+      [
+        "mangrove populations",
+        0.583529531955719
+      ],
+      [
+        "aerial photography",
+        0.580765962600708
+      ],
+      [
+        "black mangrove",
+        0.5800420045852661
+      ],
+      [
+        "mangrove distributions",
+        0.5758774876594543
+      ],
+      [
+        "mangrove rhizophora mangle",
+        0.5664438009262085
+      ],
+      [
+        "mangrove avicennia",
+        0.5584176778793335
+      ],
+      [
+        "mangrove avicennia germinans",
+        0.5516330599784851
+      ],
+      [
+        "vegetation mapping",
+        0.5469470024108887
+      ],
+      [
+        "study site",
+        0.5439990758895874
+      ],
+      [
+        "hyperspectral image data",
+        0.5408758521080017
+      ],
+      [
+        "mangrove rhizophora",
+        0.5407123565673828
+      ],
+      [
+        "photography",
+        0.5369111895561218
+      ],
+      [
+        "dominant species",
+        0.5301234126091003
+      ],
+      [
+        "geographic information",
+        0.5289891362190247
+      ],
+      [
+        "study areas",
+        0.5277786254882812
+      ],
+      [
+        "gulf coast",
+        0.527616024017334
+      ],
+      [
+        "hyperspectral sensor",
+        0.5239402651786804
+      ],
+      [
+        "wetland vegetation",
+        0.5228517651557922
+      ],
+      [
+        "exotic species",
+        0.5214376449584961
+      ]
+    ],
+    "53": [
+      [
+        "characterization mangrove",
+        0.6275621056556702
+      ],
+      [
+        "mangrove forest area",
+        0.6153621077537537
+      ],
+      [
+        "value mangrove",
+        0.6151607036590576
+      ],
+      [
+        "detection mangrove",
+        0.6127665042877197
+      ],
+      [
+        "area mangrove forest",
+        0.607971727848053
+      ],
+      [
+        "changes mangrove area",
+        0.6049525141716003
+      ],
+      [
+        "mangrove forest based",
+        0.5951490998268127
+      ],
+      [
+        "mangrove forest world",
+        0.5946022868156433
+      ],
+      [
+        "level mangrove",
+        0.5945238471031189
+      ],
+      [
+        "spatial distribution mangrove",
+        0.5931006669998169
+      ],
+      [
+        "mangrove zones",
+        0.5906795263290405
+      ],
+      [
+        "land cover classification",
+        0.5903564691543579
+      ],
+      [
+        "distribution mangrove forest",
+        0.5895177125930786
+      ],
+      [
+        "distribution mangrove",
+        0.5889368057250977
+      ],
+      [
+        "survey mangrove",
+        0.5872060656547546
+      ],
+      [
+        "mangrove density",
+        0.58614581823349
+      ],
+      [
+        "biomass mangrove",
+        0.5841331481933594
+      ],
+      [
+        "satellite image",
+        0.5745036005973816
+      ],
+      [
+        "landsat imageries",
+        0.5720299482345581
+      ],
+      [
+        "forest indonesia",
+        0.5690068602561951
+      ]
+    ],
+    "54": [
+      [
+        "red sea coast",
+        0.6581358909606934
+      ],
+      [
+        "coastal zone",
+        0.6546422839164734
+      ],
+      [
+        "sandy beaches",
+        0.6430899500846863
+      ],
+      [
+        "coastal processes",
+        0.6418200135231018
+      ],
+      [
+        "oil spills",
+        0.6329057812690735
+      ],
+      [
+        "oil spill",
+        0.6274843811988831
+      ],
+      [
+        "sea coast",
+        0.626122772693634
+      ],
+      [
+        "sea level rise",
+        0.6252015233039856
+      ],
+      [
+        "beaches",
+        0.623396098613739
+      ],
+      [
+        "coastal plain",
+        0.6210566759109497
+      ],
+      [
+        "red sea",
+        0.6200248599052429
+      ],
+      [
+        "reefs",
+        0.6167556047439575
+      ],
+      [
+        "mangrove density",
+        0.6138320565223694
+      ],
+      [
+        "shoreline",
+        0.6133110523223877
+      ],
+      [
+        "vulnerability index",
+        0.6111637353897095
+      ],
+      [
+        "natural coastal",
+        0.6017811298370361
+      ],
+      [
+        "shores",
+        0.5993946194648743
+      ],
+      [
+        "global warming",
+        0.5893641114234924
+      ],
+      [
+        "benthic habitat",
+        0.5873777270317078
+      ],
+      [
+        "socio economic",
+        0.5859162211418152
+      ]
+    ],
+    "55": [
+      [
+        "mangrove community",
+        0.6053390502929688
+      ],
+      [
+        "condition mangroves",
+        0.5917580127716064
+      ],
+      [
+        "condition mangrove",
+        0.5907983779907227
+      ],
+      [
+        "estimated mangrove",
+        0.5879130959510803
+      ],
+      [
+        "resource managers",
+        0.5444855093955994
+      ],
+      [
+        "phragmites australis",
+        0.5388644337654114
+      ],
+      [
+        "plant community",
+        0.5368419289588928
+      ],
+      [
+        "diversity index",
+        0.5343194007873535
+      ],
+      [
+        "forest development",
+        0.5327328443527222
+      ],
+      [
+        "phragmites",
+        0.5295478701591492
+      ],
+      [
+        "discriminant analysis",
+        0.5291167497634888
+      ],
+      [
+        "species including",
+        0.5270642042160034
+      ],
+      [
+        "sample plots",
+        0.5265817046165466
+      ],
+      [
+        "mexican pacific",
+        0.5226712226867676
+      ],
+      [
+        "marina rhizophora",
+        0.5222736597061157
+      ],
+      [
+        "remote sensing ground",
+        0.5203108787536621
+      ],
+      [
+        "basal area",
+        0.5167938470840454
+      ],
+      [
+        "excoecaria agallocha",
+        0.5157178640365601
+      ],
+      [
+        "classification scheme",
+        0.5128936171531677
+      ],
+      [
+        "sexangula",
+        0.5102179646492004
+      ]
+    ],
+    "56": [
+      [
+        "map mangrove species",
+        0.6048005819320679
+      ],
+      [
+        "vegetation mapping",
+        0.5925038456916809
+      ],
+      [
+        "forest classification",
+        0.5852376818656921
+      ],
+      [
+        "optical sar data",
+        0.5738968849182129
+      ],
+      [
+        "multi source data",
+        0.5690649747848511
+      ],
+      [
+        "sar optical data",
+        0.5640705227851868
+      ],
+      [
+        "random forest support",
+        0.5625918507575989
+      ],
+      [
+        "boosting xgboost",
+        0.5617531538009644
+      ],
+      [
+        "data fusion",
+        0.5603064894676208
+      ],
+      [
+        "radar sar",
+        0.5598983764648438
+      ],
+      [
+        "support vector machine",
+        0.558144748210907
+      ],
+      [
+        "gradient boosting xgboost",
+        0.5540831089019775
+      ],
+      [
+        "sentinel data",
+        0.5525854825973511
+      ],
+      [
+        "machine learning techniques",
+        0.5501213073730469
+      ],
+      [
+        "sar optical",
+        0.5478762984275818
+      ],
+      [
+        "coastal landscape",
+        0.5429355502128601
+      ],
+      [
+        "feature selection",
+        0.5426466464996338
+      ],
+      [
+        "synthetic aperture radar",
+        0.5415458679199219
+      ],
+      [
+        "source data",
+        0.5407472848892212
+      ],
+      [
+        "radar",
+        0.5362690091133118
+      ]
+    ],
+    "57": [
+      [
+        "mangrove restoration efforts",
+        0.6065263748168945
+      ],
+      [
+        "mangrove land use",
+        0.5949947834014893
+      ],
+      [
+        "mangrove restoration",
+        0.589457631111145
+      ],
+      [
+        "china mangrove",
+        0.585646390914917
+      ],
+      [
+        "sustainable development goals",
+        0.5846512913703918
+      ],
+      [
+        "coastal resilience",
+        0.5803728103637695
+      ],
+      [
+        "indicated mangrove",
+        0.5775931477546692
+      ],
+      [
+        "mangrove aquaculture",
+        0.5767870545387268
+      ],
+      [
+        "tropical mangrove forests",
+        0.5762925744056702
+      ],
+      [
+        "tropical mangrove",
+        0.5721438527107239
+      ],
+      [
+        "impact sea",
+        0.5705031156539917
+      ],
+      [
+        "mangrove land",
+        0.5685846209526062
+      ],
+      [
+        "long term sustainability",
+        0.5678468942642212
+      ],
+      [
+        "land use change",
+        0.5646947026252747
+      ],
+      [
+        "ecological restoration",
+        0.563316822052002
+      ],
+      [
+        "restoration remote sensing",
+        0.5611258745193481
+      ],
+      [
+        "restoration efforts",
+        0.5582830905914307
+      ],
+      [
+        "cover area",
+        0.5554680228233337
+      ],
+      [
+        "natural disasters",
+        0.5548614859580994
+      ],
+      [
+        "regional carbon",
+        0.5473850965499878
+      ]
+    ],
+    "58": [
+      [
+        "mangrove cover using",
+        0.6232268810272217
+      ],
+      [
+        "impacts mangroves",
+        0.6165448427200317
+      ],
+      [
+        "mangrove forest cover",
+        0.6054731607437134
+      ],
+      [
+        "mangrove coverage",
+        0.6027756333351135
+      ],
+      [
+        "mangrove areas",
+        0.5983957648277283
+      ],
+      [
+        "mangrove cover",
+        0.5960253477096558
+      ],
+      [
+        "trends mangrove",
+        0.5880633592605591
+      ],
+      [
+        "relationships mangrove",
+        0.5877948999404907
+      ],
+      [
+        "variables mangrove",
+        0.5816514492034912
+      ],
+      [
+        "subtropical regions",
+        0.5772262215614319
+      ],
+      [
+        "temperate mangrove",
+        0.5743395090103149
+      ],
+      [
+        "hydrological conditions",
+        0.5678876042366028
+      ],
+      [
+        "dwarf mangroves",
+        0.5654026865959167
+      ],
+      [
+        "tropical subtropical regions",
+        0.5631841421127319
+      ],
+      [
+        "drivers mangrove",
+        0.5582189559936523
+      ],
+      [
+        "remote sensing vegetation",
+        0.5517423748970032
+      ],
+      [
+        "forest cover",
+        0.55029296875
+      ],
+      [
+        "tall mangroves",
+        0.5489848852157593
+      ],
+      [
+        "deforestation",
+        0.5467426776885986
+      ],
+      [
+        "yucatan peninsula",
+        0.5450883507728577
+      ]
+    ],
+    "59": [
+      [
+        "mangrove species mapping",
+        0.6291539669036865
+      ],
+      [
+        "mangrove phenology",
+        0.6140886545181274
+      ],
+      [
+        "mangrove tree species",
+        0.6086959838867188
+      ],
+      [
+        "distribution mangrove species",
+        0.607316792011261
+      ],
+      [
+        "mangrove maps",
+        0.603768527507782
+      ],
+      [
+        "mangrove map",
+        0.6000381708145142
+      ],
+      [
+        "mangrove forests using",
+        0.5974124670028687
+      ],
+      [
+        "mangrove species",
+        0.5968685150146484
+      ],
+      [
+        "map mangrove forests",
+        0.5796131491661072
+      ],
+      [
+        "distribution mangrove",
+        0.5790115594863892
+      ],
+      [
+        "resolution mangrove",
+        0.5782952904701233
+      ],
+      [
+        "fragmented mangrove",
+        0.5655027627944946
+      ],
+      [
+        "ndvi time series",
+        0.5589755773544312
+      ],
+      [
+        "mangrove patches",
+        0.5570794343948364
+      ],
+      [
+        "remote sensing indices",
+        0.5513046979904175
+      ],
+      [
+        "species mapping",
+        0.5507305860519409
+      ],
+      [
+        "imagery google earth",
+        0.5323426723480225
+      ],
+      [
+        "ecological value",
+        0.531558632850647
+      ],
+      [
+        "phenology",
+        0.5272842645645142
+      ],
+      [
+        "ndvi time",
+        0.5242927074432373
+      ]
+    ],
+    "60": [
+      [
+        "scale mangrove mapping",
+        0.6055666208267212
+      ],
+      [
+        "different mangrove species",
+        0.5894966721534729
+      ],
+      [
+        "mangrove species using",
+        0.5874447822570801
+      ],
+      [
+        "mapping mangrove species",
+        0.5870674252510071
+      ],
+      [
+        "mangrove species classification",
+        0.5854969620704651
+      ],
+      [
+        "mapping mangrove forests",
+        0.574193000793457
+      ],
+      [
+        "improve classification accuracy",
+        0.5735974311828613
+      ],
+      [
+        "mangrove mapping",
+        0.5670120120048523
+      ],
+      [
+        "large scale mangrove",
+        0.5663729906082153
+      ],
+      [
+        "mapping mangrove",
+        0.5643377900123596
+      ],
+      [
+        "multispectral images",
+        0.5639537572860718
+      ],
+      [
+        "features mangrove",
+        0.5563822388648987
+      ],
+      [
+        "classifying mangrove",
+        0.5466492772102356
+      ],
+      [
+        "mangrove species",
+        0.5446885228157043
+      ],
+      [
+        "mangrove communities",
+        0.5441896915435791
+      ],
+      [
+        "ability mangrove",
+        0.5396309494972229
+      ],
+      [
+        "overall classification accuracy",
+        0.5289568305015564
+      ],
+      [
+        "uav multispectral",
+        0.5274238586425781
+      ],
+      [
+        "species classification",
+        0.5272892117500305
+      ],
+      [
+        "classification performance",
+        0.5266125798225403
+      ]
+    ],
+    "61": [
+      [
+        "combined mangrove recognition",
+        0.6092509627342224
+      ],
+      [
+        "accurate mangrove mapping",
+        0.5995298624038696
+      ],
+      [
+        "mangrove forest mapping",
+        0.5992037653923035
+      ],
+      [
+        "mapping mangrove forests",
+        0.5954248309135437
+      ],
+      [
+        "mangrove recognition index",
+        0.5877572894096375
+      ],
+      [
+        "mangrove vegetation index",
+        0.5838744044303894
+      ],
+      [
+        "mangrove recognition",
+        0.5826213955879211
+      ],
+      [
+        "content mangrove",
+        0.575490415096283
+      ],
+      [
+        "mapping mangrove",
+        0.5740705728530884
+      ],
+      [
+        "remote sensing image",
+        0.5649693608283997
+      ],
+      [
+        "images mangrove",
+        0.5642803907394409
+      ],
+      [
+        "mangrove growth",
+        0.5623000264167786
+      ],
+      [
+        "sentinel imagery mangrove",
+        0.5611721277236938
+      ],
+      [
+        "hyperspectral remote sensing",
+        0.5566637516021729
+      ],
+      [
+        "applied mangrove",
+        0.5553004145622253
+      ],
+      [
+        "images mangrove forests",
+        0.5536459684371948
+      ],
+      [
+        "imagery mangrove",
+        0.5528494119644165
+      ],
+      [
+        "enhanced mangrove",
+        0.5488731861114502
+      ],
+      [
+        "imagery mangrove forests",
+        0.5483062267303467
+      ],
+      [
+        "zones mangrove",
+        0.5479002594947815
+      ]
+    ],
+    "62": [
+      [
+        "estuarine region",
+        0.6179493069648743
+      ],
+      [
+        "remote sensing mangroves",
+        0.6175063252449036
+      ],
+      [
+        "mangrove forest canopy",
+        0.6137475967407227
+      ],
+      [
+        "estuarine wetland",
+        0.5959011912345886
+      ],
+      [
+        "relationship mangrove",
+        0.5874032974243164
+      ],
+      [
+        "area estimates",
+        0.5822384357452393
+      ],
+      [
+        "tropical marine",
+        0.5780806541442871
+      ],
+      [
+        "study region",
+        0.5775029063224792
+      ],
+      [
+        "sensing mangroves",
+        0.5743192434310913
+      ],
+      [
+        "estuarine",
+        0.5740218162536621
+      ],
+      [
+        "kakadu national park",
+        0.5701066851615906
+      ],
+      [
+        "salt marsh",
+        0.5679320693016052
+      ],
+      [
+        "world heritage",
+        0.5633509755134583
+      ],
+      [
+        "world heritage site",
+        0.5632944703102112
+      ],
+      [
+        "mangroves decreased",
+        0.5626299977302551
+      ],
+      [
+        "study areas",
+        0.561415433883667
+      ],
+      [
+        "canopy gaps",
+        0.5605965256690979
+      ],
+      [
+        "barren land",
+        0.5584621429443359
+      ],
+      [
+        "community composition",
+        0.5579142570495605
+      ],
+      [
+        "heritage site",
+        0.5545945167541504
+      ]
+    ],
+    "63": [
+      [
+        "maps mangrove",
+        0.6402909755706787
+      ],
+      [
+        "mangrove forests world",
+        0.60586017370224
+      ],
+      [
+        "area mangrove forest",
+        0.6036003828048706
+      ],
+      [
+        "mangrove cover increased",
+        0.6003086566925049
+      ],
+      [
+        "mangrove extent",
+        0.5983204245567322
+      ],
+      [
+        "global mangrove watch",
+        0.593987762928009
+      ],
+      [
+        "mangrove cover",
+        0.5939785242080688
+      ],
+      [
+        "global mangrove",
+        0.5933693647384644
+      ],
+      [
+        "recovery mangrove",
+        0.5929043889045715
+      ],
+      [
+        "using alos palsar",
+        0.5906727910041809
+      ],
+      [
+        "distribution mangrove forests",
+        0.5883112549781799
+      ],
+      [
+        "landsat sensor data",
+        0.5839088559150696
+      ],
+      [
+        "annual mangrove",
+        0.5752232074737549
+      ],
+      [
+        "earth observation data",
+        0.5650088787078857
+      ],
+      [
+        "mangrove watch",
+        0.5609837770462036
+      ],
+      [
+        "canopy cover",
+        0.5605112314224243
+      ],
+      [
+        "year 2020",
+        0.5586410164833069
+      ],
+      [
+        "landsat sensor",
+        0.554571807384491
+      ],
+      [
+        "ecosystem processes",
+        0.5542652606964111
+      ],
+      [
+        "tidal marshes",
+        0.5485769510269165
+      ]
+    ],
+    "64": [
+      [
+        "aboveground biomass carbon",
+        0.5858025550842285
+      ],
+      [
+        "biomass carbon stocks",
+        0.5844488143920898
+      ],
+      [
+        "soil organic carbon",
+        0.5795164108276367
+      ],
+      [
+        "estimating biomass",
+        0.5773254632949829
+      ],
+      [
+        "estimate carbon",
+        0.5748874545097351
+      ],
+      [
+        "estimate biomass",
+        0.574652373790741
+      ],
+      [
+        "aboveground biomass",
+        0.5710524320602417
+      ],
+      [
+        "biomass carbon",
+        0.5702406167984009
+      ],
+      [
+        "biomass carbon stock",
+        0.5670457482337952
+      ],
+      [
+        "vegetation study",
+        0.5626580715179443
+      ],
+      [
+        "carbon mangrove",
+        0.5626410841941833
+      ],
+      [
+        "carbon content",
+        0.5554631948471069
+      ],
+      [
+        "carbon stocks",
+        0.5539653897285461
+      ],
+      [
+        "storage mangrove",
+        0.5510867238044739
+      ],
+      [
+        "ground biomass",
+        0.5466935038566589
+      ],
+      [
+        "carbon budget",
+        0.5462083220481873
+      ],
+      [
+        "soil organic",
+        0.5445759296417236
+      ],
+      [
+        "carbon storage",
+        0.5419185757637024
+      ],
+      [
+        "charcoal production",
+        0.5410528779029846
+      ],
+      [
+        "vegetation biomass",
+        0.5389284491539001
+      ]
+    ],
+    "65": [
+      [
+        "mangrove studies",
+        0.6000652313232422
+      ],
+      [
+        "sustainable forest",
+        0.5965179800987244
+      ],
+      [
+        "mangrove restoration",
+        0.590802788734436
+      ],
+      [
+        "forest management",
+        0.5896817445755005
+      ],
+      [
+        "mangrove monitoring",
+        0.5858657360076904
+      ],
+      [
+        "restoration initiatives",
+        0.5839645266532898
+      ],
+      [
+        "uav unmanned aerial",
+        0.5804817080497742
+      ],
+      [
+        "mangrove based",
+        0.5778533816337585
+      ],
+      [
+        "change mitigation",
+        0.5725886225700378
+      ],
+      [
+        "blue carbon ecosystems",
+        0.569952130317688
+      ],
+      [
+        "carbon ecosystems",
+        0.5553349852561951
+      ],
+      [
+        "reforestation",
+        0.5536218285560608
+      ],
+      [
+        "aerial vehicles",
+        0.5516843199729919
+      ],
+      [
+        "climate change mitigation",
+        0.5494626760482788
+      ],
+      [
+        "remote sensing machine",
+        0.5457430481910706
+      ],
+      [
+        "seagrasses",
+        0.5435078144073486
+      ],
+      [
+        "high resolution data",
+        0.5411867499351501
+      ],
+      [
+        "uavs",
+        0.5411623120307922
+      ],
+      [
+        "interdisciplinary",
+        0.5369735956192017
+      ],
+      [
+        "current status",
+        0.5346108078956604
+      ]
+    ],
+    "66": [
+      [
+        "mangrove canopies",
+        0.624401867389679
+      ],
+      [
+        "mangrove forest located",
+        0.6220266819000244
+      ],
+      [
+        "impacts mangroves",
+        0.6128972172737122
+      ],
+      [
+        "mangrove coast",
+        0.6087595224380493
+      ],
+      [
+        "mangrove colonization",
+        0.608686625957489
+      ],
+      [
+        "fringe mangroves",
+        0.5998637080192566
+      ],
+      [
+        "km mangrove",
+        0.5958887338638306
+      ],
+      [
+        "vietnam mangrove",
+        0.589070737361908
+      ],
+      [
+        "fringe mangrove",
+        0.5818209052085876
+      ],
+      [
+        "revealed mangrove",
+        0.5808260440826416
+      ],
+      [
+        "river delta",
+        0.5605828166007996
+      ],
+      [
+        "coastal geomorphology",
+        0.5569908022880554
+      ],
+      [
+        "mekong delta",
+        0.5550925135612488
+      ],
+      [
+        "river delta vietnam",
+        0.5520007610321045
+      ],
+      [
+        "el nino",
+        0.5503440499305725
+      ],
+      [
+        "tidal range",
+        0.5486249327659607
+      ],
+      [
+        "forest located",
+        0.5455333590507507
+      ],
+      [
+        "ndvi values",
+        0.5394353866577148
+      ],
+      [
+        "sediment deposition",
+        0.5375509262084961
+      ],
+      [
+        "delta vietnam",
+        0.5360087156295776
+      ]
+    ],
+    "67": [
+      [
+        "imagery mangrove forests",
+        0.5966777801513672
+      ],
+      [
+        "mangrove agb",
+        0.5689384937286377
+      ],
+      [
+        "detecting mangrove",
+        0.5667367577552795
+      ],
+      [
+        "canopy height model",
+        0.5658745169639587
+      ],
+      [
+        "forest mangrove",
+        0.5641257762908936
+      ],
+      [
+        "soil organic carbon",
+        0.5574284791946411
+      ],
+      [
+        "canopy cover",
+        0.5467400550842285
+      ],
+      [
+        "estuaries",
+        0.5443276762962341
+      ],
+      [
+        "organic carbon",
+        0.544086217880249
+      ],
+      [
+        "natural forest",
+        0.5399836897850037
+      ],
+      [
+        "mean ndvi",
+        0.5373889803886414
+      ],
+      [
+        "high resolution imagery",
+        0.534364640712738
+      ],
+      [
+        "ground biomass carbon",
+        0.5340179204940796
+      ],
+      [
+        "forest types",
+        0.5332415699958801
+      ],
+      [
+        "canopy height",
+        0.5323840975761414
+      ],
+      [
+        "tidal wetlands",
+        0.5274196863174438
+      ],
+      [
+        "coastal blue carbon",
+        0.5273411870002747
+      ],
+      [
+        "remote sensing machine",
+        0.5268315076828003
+      ],
+      [
+        "wetlands",
+        0.5256862044334412
+      ],
+      [
+        "organic carbon soc",
+        0.5242845416069031
+      ]
+    ],
+    "68": [
+      [
+        "extracting mangrove",
+        0.5844647884368896
+      ],
+      [
+        "remote sensing image",
+        0.5793289542198181
+      ],
+      [
+        "remote sensing images",
+        0.5614234805107117
+      ],
+      [
+        "method mangrove",
+        0.5607579946517944
+      ],
+      [
+        "network mangrove",
+        0.5605643391609192
+      ],
+      [
+        "convolutional neural network",
+        0.5583738088607788
+      ],
+      [
+        "learning mangrove",
+        0.5416291952133179
+      ],
+      [
+        "pixel classification",
+        0.5387688279151917
+      ],
+      [
+        "model mangroves",
+        0.5341639518737793
+      ],
+      [
+        "image segmentation",
+        0.533942699432373
+      ],
+      [
+        "mangroves mapping",
+        0.5312423706054688
+      ],
+      [
+        "segmentation results",
+        0.5310514569282532
+      ],
+      [
+        "mangrove extraction",
+        0.5280916094779968
+      ],
+      [
+        "sensing image",
+        0.5243896245956421
+      ],
+      [
+        "image fusion",
+        0.523639976978302
+      ],
+      [
+        "mangrove biomass",
+        0.5225613713264465
+      ],
+      [
+        "mangrove loss",
+        0.5219742059707642
+      ],
+      [
+        "sensing images",
+        0.5199450850486755
+      ],
+      [
+        "experimental results",
+        0.5148221850395203
+      ],
+      [
+        "semantic segmentation",
+        0.5130999088287354
+      ]
+    ],
+    "69": [
+      [
+        "multispectral imagery",
+        0.6425766944885254
+      ],
+      [
+        "mapping monitoring mangroves",
+        0.62554532289505
+      ],
+      [
+        "monitoring mangroves",
+        0.6223065853118896
+      ],
+      [
+        "mangrove zones",
+        0.6172267198562622
+      ],
+      [
+        "tropical mangrove",
+        0.6151202917098999
+      ],
+      [
+        "applications mangrove",
+        0.6140810251235962
+      ],
+      [
+        "mangrove cover",
+        0.609325647354126
+      ],
+      [
+        "landscapes study",
+        0.6091715693473816
+      ],
+      [
+        "various mangrove",
+        0.6086909770965576
+      ],
+      [
+        "red mangrove",
+        0.6064568161964417
+      ],
+      [
+        "radar topography",
+        0.6041969656944275
+      ],
+      [
+        "correlated mangrove",
+        0.6004835963249207
+      ],
+      [
+        "shuttle radar topography",
+        0.597909152507782
+      ],
+      [
+        "radar topography mission",
+        0.595120906829834
+      ],
+      [
+        "high resolution image",
+        0.5929960608482361
+      ],
+      [
+        "sar data",
+        0.5883541107177734
+      ],
+      [
+        "sar optical",
+        0.5876449942588806
+      ],
+      [
+        "field data",
+        0.5860241055488586
+      ],
+      [
+        "mangrove tropical",
+        0.5832948088645935
+      ],
+      [
+        "mangroves tropical",
+        0.5809388756752014
+      ]
+    ],
+    "70": [
+      [
+        "mangrove species avicennia",
+        0.5940320491790771
+      ],
+      [
+        "mangrove leaf",
+        0.5875450968742371
+      ],
+      [
+        "mangrove species",
+        0.5793324112892151
+      ],
+      [
+        "mangroves species level",
+        0.5738112926483154
+      ],
+      [
+        "using hyperspectral data",
+        0.5733809471130371
+      ],
+      [
+        "mangrove leaves",
+        0.5666630268096924
+      ],
+      [
+        "mangrove canopies",
+        0.5656895637512207
+      ],
+      [
+        "conditions mangrove",
+        0.5614486932754517
+      ],
+      [
+        "results indicate",
+        0.5593391060829163
+      ],
+      [
+        "tropical mangrove",
+        0.5563265085220337
+      ],
+      [
+        "hyperspectral remote sensing",
+        0.5507630109786987
+      ],
+      [
+        "degraded mangrove",
+        0.5479286909103394
+      ],
+      [
+        "degraded mangrove forest",
+        0.5438094735145569
+      ],
+      [
+        "species mangrove",
+        0.5437802672386169
+      ],
+      [
+        "red rhizophora",
+        0.538604736328125
+      ],
+      [
+        "mangle avicennia",
+        0.5342590808868408
+      ],
+      [
+        "hyperspectral data",
+        0.5320419669151306
+      ],
+      [
+        "species avicennia",
+        0.5286698937416077
+      ],
+      [
+        "organic carbon",
+        0.5275700688362122
+      ],
+      [
+        "discriminant analysis",
+        0.5227414965629578
+      ]
+    ],
+    "71": [
+      [
+        "linear spectral unmixing",
+        0.6351985931396484
+      ],
+      [
+        "spectral unmixing",
+        0.6210074424743652
+      ],
+      [
+        "mangrove species discrimination",
+        0.6164972186088562
+      ],
+      [
+        "data mangrove species",
+        0.6160944700241089
+      ],
+      [
+        "hyperspectral image data",
+        0.5895448923110962
+      ],
+      [
+        "data mangrove",
+        0.5886927843093872
+      ],
+      [
+        "mangrove species",
+        0.5866262912750244
+      ],
+      [
+        "species level classification",
+        0.5809882283210754
+      ],
+      [
+        "hyperspectral data mangrove",
+        0.5755746960639954
+      ],
+      [
+        "mixed mangrove",
+        0.5753512978553772
+      ],
+      [
+        "hyperspectral imagery",
+        0.5709816217422485
+      ],
+      [
+        "unmixing",
+        0.562451958656311
+      ],
+      [
+        "hyperspectral data",
+        0.5619745254516602
+      ],
+      [
+        "hyperspectral",
+        0.5536762475967407
+      ],
+      [
+        "species avicennia marina",
+        0.5502530336380005
+      ],
+      [
+        "spectral resolution",
+        0.5498137474060059
+      ],
+      [
+        "similar mangrove",
+        0.5419518947601318
+      ],
+      [
+        "image data",
+        0.5360315442085266
+      ],
+      [
+        "linear spectral",
+        0.5314725637435913
+      ],
+      [
+        "linear models",
+        0.5282830595970154
+      ]
+    ]
+  },
+  "topics": [
+    63,
+    3,
+    3,
+    -1,
+    42,
+    63,
+    3,
+    28,
+    -1,
+    3,
+    -1,
+    -1,
+    7,
+    23,
+    -1,
+    9,
+    12,
+    -1,
+    12,
+    42,
+    42,
+    -1,
+    32,
+    -1,
+    -1,
+    0,
+    13,
+    -1,
+    0,
+    1,
+    12,
+    19,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    15,
+    -1,
+    24,
+    2,
+    30,
+    -1,
+    1,
+    44,
+    -1,
+    -1,
+    -1,
+    12,
+    -1,
+    61,
+    -1,
+    -1,
+    9,
+    -1,
+    12,
+    -1,
+    6,
+    12,
+    -1,
+    42,
+    -1,
+    52,
+    38,
+    70,
+    -1,
+    24,
+    -1,
+    43,
+    69,
+    1,
+    4,
+    28,
+    -1,
+    60,
+    -1,
+    0,
+    -1,
+    -1,
+    63,
+    3,
+    -1,
+    -1,
+    3,
+    24,
+    42,
+    -1,
+    -1,
+    -1,
+    -1,
+    16,
+    24,
+    1,
+    -1,
+    3,
+    29,
+    1,
+    12,
+    3,
+    39,
+    26,
+    56,
+    11,
+    31,
+    -1,
+    -1,
+    13,
+    27,
+    9,
+    -1,
+    1,
+    3,
+    -1,
+    -1,
+    65,
+    9,
+    -1,
+    -1,
+    61,
+    1,
+    5,
+    55,
+    -1,
+    -1,
+    -1,
+    63,
+    35,
+    -1,
+    39,
+    -1,
+    27,
+    23,
+    -1,
+    35,
+    46,
+    -1,
+    20,
+    -1,
+    -1,
+    10,
+    70,
+    1,
+    -1,
+    23,
+    -1,
+    60,
+    28,
+    26,
+    59,
+    -1,
+    63,
+    -1,
+    43,
+    26,
+    3,
+    63,
+    15,
+    23,
+    5,
+    29,
+    -1,
+    15,
+    20,
+    -1,
+    3,
+    31,
+    59,
+    40,
+    38,
+    -1,
+    -1,
+    -1,
+    12,
+    -1,
+    59,
+    24,
+    -1,
+    -1,
+    6,
+    36,
+    25,
+    24,
+    -1,
+    -1,
+    55,
+    28,
+    35,
+    23,
+    -1,
+    42,
+    7,
+    32,
+    -1,
+    28,
+    1,
+    33,
+    -1,
+    7,
+    -1,
+    -1,
+    10,
+    6,
+    47,
+    -1,
+    -1,
+    1,
+    36,
+    54,
+    20,
+    53,
+    -1,
+    60,
+    32,
+    20,
+    6,
+    -1,
+    -1,
+    60,
+    22,
+    26,
+    42,
+    58,
+    33,
+    29,
+    6,
+    55,
+    -1,
+    31,
+    1,
+    -1,
+    24,
+    1,
+    65,
+    14,
+    15,
+    19,
+    -1,
+    -1,
+    19,
+    28,
+    -1,
+    -1,
+    -1,
+    1,
+    4,
+    32,
+    4,
+    21,
+    -1,
+    32,
+    -1,
+    6,
+    15,
+    -1,
+    61,
+    -1,
+    6,
+    -1,
+    -1,
+    5,
+    31,
+    -1,
+    7,
+    15,
+    45,
+    43,
+    1,
+    69,
+    8,
+    10,
+    65,
+    27,
+    10,
+    0,
+    -1,
+    0,
+    0,
+    44,
+    3,
+    9,
+    -1,
+    29,
+    68,
+    36,
+    -1,
+    -1,
+    9,
+    17,
+    4,
+    -1,
+    33,
+    -1,
+    -1,
+    0,
+    7,
+    39,
+    12,
+    6,
+    1,
+    -1,
+    -1,
+    -1,
+    -1,
+    26,
+    63,
+    20,
+    19,
+    43,
+    9,
+    11,
+    -1,
+    -1,
+    47,
+    -1,
+    -1,
+    2,
+    9,
+    23,
+    17,
+    22,
+    -1,
+    -1,
+    44,
+    7,
+    22,
+    6,
+    14,
+    -1,
+    25,
+    21,
+    -1,
+    28,
+    -1,
+    7,
+    -1,
+    59,
+    13,
+    1,
+    10,
+    42,
+    6,
+    19,
+    -1,
+    2,
+    -1,
+    3,
+    23,
+    12,
+    59,
+    37,
+    -1,
+    19,
+    -1,
+    1,
+    -1,
+    70,
+    0,
+    24,
+    25,
+    48,
+    12,
+    -1,
+    -1,
+    4,
+    28,
+    52,
+    -1,
+    24,
+    2,
+    28,
+    2,
+    -1,
+    67,
+    -1,
+    30,
+    -1,
+    -1,
+    40,
+    1,
+    0,
+    19,
+    7,
+    21,
+    -1,
+    -1,
+    -1,
+    57,
+    9,
+    54,
+    59,
+    0,
+    2,
+    -1,
+    70,
+    66,
+    -1,
+    2,
+    23,
+    62,
+    -1,
+    -1,
+    -1,
+    -1,
+    14,
+    -1,
+    2,
+    12,
+    43,
+    14,
+    0,
+    15,
+    3,
+    1,
+    25,
+    37,
+    50,
+    21,
+    -1,
+    70,
+    -1,
+    38,
+    7,
+    0,
+    46,
+    51,
+    -1,
+    9,
+    25,
+    -1,
+    -1,
+    -1,
+    -1,
+    31,
+    58,
+    25,
+    6,
+    33,
+    -1,
+    15,
+    -1,
+    -1,
+    39,
+    -1,
+    -1,
+    -1,
+    -1,
+    31,
+    19,
+    9,
+    15,
+    -1,
+    5,
+    -1,
+    3,
+    -1,
+    -1,
+    -1,
+    22,
+    34,
+    23,
+    6,
+    6,
+    -1,
+    -1,
+    -1,
+    -1,
+    3,
+    -1,
+    70,
+    35,
+    17,
+    -1,
+    -1,
+    -1,
+    10,
+    -1,
+    45,
+    20,
+    -1,
+    2,
+    5,
+    51,
+    2,
+    -1,
+    -1,
+    55,
+    60,
+    -1,
+    6,
+    -1,
+    48,
+    63,
+    -1,
+    -1,
+    14,
+    45,
+    1,
+    31,
+    -1,
+    -1,
+    66,
+    3,
+    36,
+    -1,
+    10,
+    66,
+    -1,
+    5,
+    9,
+    -1,
+    10,
+    -1,
+    -1,
+    23,
+    63,
+    0,
+    12,
+    30,
+    -1,
+    56,
+    44,
+    29,
+    3,
+    -1,
+    -1,
+    69,
+    -1,
+    20,
+    14,
+    35,
+    -1,
+    0,
+    9,
+    29,
+    -1,
+    3,
+    -1,
+    7,
+    2,
+    -1,
+    14,
+    14,
+    2,
+    61,
+    30,
+    -1,
+    12,
+    50,
+    -1,
+    2,
+    3,
+    2,
+    43,
+    -1,
+    35,
+    22,
+    17,
+    24,
+    -1,
+    13,
+    -1,
+    27,
+    25,
+    14,
+    -1,
+    4,
+    -1,
+    -1,
+    55,
+    6,
+    2,
+    38,
+    11,
+    7,
+    32,
+    -1,
+    -1,
+    38,
+    62,
+    36,
+    23,
+    3,
+    2,
+    2,
+    -1,
+    15,
+    -1,
+    -1,
+    27,
+    -1,
+    -1,
+    -1,
+    32,
+    -1,
+    32,
+    -1,
+    26,
+    0,
+    -1,
+    12,
+    2,
+    -1,
+    44,
+    28,
+    -1,
+    11,
+    9,
+    -1,
+    -1,
+    1,
+    5,
+    55,
+    6,
+    21,
+    1,
+    42,
+    40,
+    48,
+    67,
+    22,
+    48,
+    -1,
+    40,
+    -1,
+    58,
+    -1,
+    -1,
+    11,
+    -1,
+    66,
+    -1,
+    -1,
+    38,
+    -1,
+    -1,
+    35,
+    -1,
+    28,
+    -1,
+    68,
+    31,
+    -1,
+    -1,
+    -1,
+    10,
+    46,
+    56,
+    2,
+    17,
+    40,
+    -1,
+    -1,
+    67,
+    65,
+    64,
+    3,
+    5,
+    -1,
+    69,
+    13,
+    -1,
+    35,
+    40,
+    36,
+    17,
+    35,
+    9,
+    6,
+    27,
+    43,
+    -1,
+    -1,
+    25,
+    1,
+    26,
+    43,
+    10,
+    -1,
+    61,
+    19,
+    -1,
+    2,
+    6,
+    14,
+    2,
+    2,
+    70,
+    25,
+    15,
+    59,
+    -1,
+    -1,
+    3,
+    50,
+    31,
+    3,
+    20,
+    3,
+    6,
+    4,
+    26,
+    1,
+    35,
+    48,
+    12,
+    -1,
+    -1,
+    62,
+    -1,
+    26,
+    52,
+    -1,
+    54,
+    -1,
+    29,
+    33,
+    22,
+    13,
+    -1,
+    -1,
+    4,
+    0,
+    3,
+    21,
+    4,
+    58,
+    -1,
+    -1,
+    30,
+    38,
+    -1,
+    -1,
+    -1,
+    -1,
+    19,
+    0,
+    2,
+    -1,
+    15,
+    -1,
+    35,
+    62,
+    16,
+    -1,
+    -1,
+    19,
+    2,
+    -1,
+    -1,
+    -1,
+    24,
+    40,
+    45,
+    2,
+    12,
+    30,
+    10,
+    28,
+    32,
+    -1,
+    -1,
+    3,
+    -1,
+    4,
+    0,
+    3,
+    55,
+    -1,
+    14,
+    1,
+    35,
+    1,
+    54,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    60,
+    -1,
+    6,
+    54,
+    -1,
+    30,
+    69,
+    -1,
+    -1,
+    -1,
+    5,
+    27,
+    -1,
+    -1,
+    21,
+    2,
+    -1,
+    19,
+    52,
+    31,
+    23,
+    59,
+    -1,
+    22,
+    2,
+    -1,
+    6,
+    12,
+    -1,
+    -1,
+    0,
+    7,
+    -1,
+    42,
+    -1,
+    -1,
+    14,
+    33,
+    28,
+    -1,
+    7,
+    27,
+    46,
+    52,
+    -1,
+    26,
+    47,
+    60,
+    -1,
+    25,
+    24,
+    2,
+    6,
+    40,
+    9,
+    3,
+    -1,
+    -1,
+    -1,
+    7,
+    25,
+    26,
+    32,
+    19,
+    49,
+    33,
+    -1,
+    23,
+    6,
+    3,
+    0,
+    25,
+    43,
+    41,
+    19,
+    27,
+    6,
+    6,
+    60,
+    36,
+    14,
+    12,
+    8,
+    -1,
+    19,
+    24,
+    14,
+    22,
+    -1,
+    -1,
+    15,
+    -1,
+    -1,
+    -1,
+    -1,
+    30,
+    5,
+    66,
+    3,
+    -1,
+    3,
+    -1,
+    3,
+    -1,
+    1,
+    7,
+    6,
+    13,
+    49,
+    -1,
+    14,
+    -1,
+    -1,
+    66,
+    46,
+    39,
+    58,
+    9,
+    -1,
+    -1,
+    -1,
+    -1,
+    54,
+    -1,
+    -1,
+    -1,
+    31,
+    10,
+    -1,
+    -1,
+    -1,
+    4,
+    11,
+    1,
+    19,
+    20,
+    7,
+    60,
+    7,
+    22,
+    26,
+    -1,
+    16,
+    8,
+    19,
+    44,
+    13,
+    10,
+    -1,
+    -1,
+    0,
+    54,
+    -1,
+    -1,
+    -1,
+    17,
+    16,
+    -1,
+    19,
+    23,
+    -1,
+    -1,
+    26,
+    29,
+    -1,
+    33,
+    -1,
+    -1,
+    56,
+    -1,
+    -1,
+    -1,
+    0,
+    -1,
+    40,
+    17,
+    7,
+    57,
+    28,
+    31,
+    12,
+    53,
+    16,
+    7,
+    8,
+    -1,
+    29,
+    -1,
+    12,
+    20,
+    35,
+    -1,
+    2,
+    -1,
+    0,
+    4,
+    -1,
+    -1,
+    0,
+    62,
+    12,
+    18,
+    -1,
+    -1,
+    -1,
+    -1,
+    6,
+    1,
+    -1,
+    56,
+    -1,
+    36,
+    -1,
+    25,
+    38,
+    64,
+    23,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    42,
+    49,
+    41,
+    45,
+    65,
+    2,
+    35,
+    -1,
+    12,
+    -1,
+    65,
+    61,
+    67,
+    -1,
+    2,
+    12,
+    -1,
+    24,
+    -1,
+    58,
+    -1,
+    57,
+    0,
+    -1,
+    10,
+    5,
+    -1,
+    1,
+    3,
+    23,
+    -1,
+    40,
+    -1,
+    66,
+    1,
+    21,
+    14,
+    62,
+    8,
+    -1,
+    4,
+    -1,
+    28,
+    9,
+    0,
+    23,
+    4,
+    -1,
+    -1,
+    68,
+    15,
+    61,
+    27,
+    11,
+    20,
+    15,
+    29,
+    67,
+    -1,
+    -1,
+    -1,
+    -1,
+    11,
+    71,
+    57,
+    -1,
+    7,
+    19,
+    -1,
+    -1,
+    -1,
+    7,
+    21,
+    -1,
+    -1,
+    19,
+    -1,
+    7,
+    24,
+    -1,
+    6,
+    48,
+    -1,
+    18,
+    54,
+    64,
+    57,
+    -1,
+    -1,
+    -1,
+    -1,
+    68,
+    -1,
+    50,
+    64,
+    13,
+    52,
+    10,
+    14,
+    3,
+    -1,
+    -1,
+    18,
+    1,
+    -1,
+    -1,
+    -1,
+    48,
+    2,
+    27,
+    10,
+    2,
+    -1,
+    20,
+    4,
+    40,
+    0,
+    -1,
+    53,
+    7,
+    -1,
+    67,
+    30,
+    15,
+    7,
+    43,
+    15,
+    7,
+    -1,
+    -1,
+    33,
+    62,
+    21,
+    66,
+    23,
+    64,
+    -1,
+    7,
+    0,
+    35,
+    56,
+    30,
+    43,
+    33,
+    38,
+    -1,
+    60,
+    35,
+    4,
+    41,
+    -1,
+    11,
+    -1,
+    11,
+    11,
+    -1,
+    0,
+    31,
+    5,
+    6,
+    -1,
+    10,
+    58,
+    -1,
+    -1,
+    -1,
+    13,
+    34,
+    45,
+    47,
+    -1,
+    -1,
+    44,
+    -1,
+    22,
+    14,
+    37,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    52,
+    27,
+    49,
+    0,
+    53,
+    1,
+    -1,
+    3,
+    24,
+    -1,
+    -1,
+    21,
+    16,
+    9,
+    6,
+    7,
+    -1,
+    50,
+    19,
+    -1,
+    19,
+    37,
+    0,
+    -1,
+    -1,
+    3,
+    31,
+    56,
+    20,
+    67,
+    9,
+    -1,
+    -1,
+    -1,
+    38,
+    40,
+    -1,
+    21,
+    68,
+    -1,
+    25,
+    0,
+    29,
+    -1,
+    7,
+    31,
+    -1,
+    -1,
+    12,
+    6,
+    -1,
+    6,
+    26,
+    0,
+    28,
+    -1,
+    -1,
+    32,
+    1,
+    7,
+    16,
+    42,
+    3,
+    28,
+    62,
+    -1,
+    1,
+    4,
+    -1,
+    -1,
+    -1,
+    49,
+    32,
+    24,
+    -1,
+    9,
+    -1,
+    -1,
+    0,
+    -1,
+    -1,
+    -1,
+    6,
+    -1,
+    -1,
+    64,
+    47,
+    24,
+    21,
+    15,
+    -1,
+    33,
+    16,
+    0,
+    6,
+    -1,
+    -1,
+    -1,
+    30,
+    4,
+    10,
+    20,
+    2,
+    58,
+    1,
+    40,
+    4,
+    -1,
+    -1,
+    -1,
+    44,
+    16,
+    30,
+    -1,
+    -1,
+    12,
+    0,
+    17,
+    -1,
+    -1,
+    -1,
+    17,
+    17,
+    -1,
+    -1,
+    -1,
+    3,
+    0,
+    53,
+    35,
+    45,
+    13,
+    30,
+    8,
+    -1,
+    51,
+    -1,
+    -1,
+    0,
+    10,
+    0,
+    0,
+    16,
+    18,
+    -1,
+    28,
+    -1,
+    57,
+    39,
+    3,
+    8,
+    57,
+    -1,
+    -1,
+    -1,
+    -1,
+    34,
+    49,
+    -1,
+    -1,
+    21,
+    -1,
+    26,
+    1,
+    3,
+    -1,
+    14,
+    13,
+    -1,
+    44,
+    61,
+    38,
+    1,
+    37,
+    -1,
+    20,
+    -1,
+    20,
+    0,
+    3,
+    0,
+    21,
+    -1,
+    -1,
+    -1,
+    39,
+    11,
+    -1,
+    1,
+    -1,
+    2,
+    49,
+    16,
+    -1,
+    4,
+    52,
+    -1,
+    -1,
+    20,
+    29,
+    56,
+    13,
+    4,
+    -1,
+    38,
+    -1,
+    71,
+    -1,
+    59,
+    57,
+    -1,
+    9,
+    -1,
+    -1,
+    -1,
+    42,
+    -1,
+    -1,
+    44,
+    1,
+    -1,
+    -1,
+    47,
+    8,
+    15,
+    -1,
+    -1,
+    29,
+    21,
+    13,
+    51,
+    19,
+    -1,
+    43,
+    31,
+    -1,
+    68,
+    38,
+    9,
+    13,
+    19,
+    70,
+    29,
+    30,
+    16,
+    1,
+    -1,
+    7,
+    15,
+    7,
+    -1,
+    -1,
+    5,
+    -1,
+    34,
+    41,
+    -1,
+    32,
+    15,
+    34,
+    59,
+    16,
+    9,
+    6,
+    -1,
+    63,
+    -1,
+    -1,
+    13,
+    20,
+    -1,
+    59,
+    -1,
+    -1,
+    1,
+    20,
+    2,
+    34,
+    -1,
+    22,
+    29,
+    -1,
+    -1,
+    17,
+    42,
+    -1,
+    49,
+    4,
+    17,
+    6,
+    70,
+    51,
+    33,
+    48,
+    32,
+    15,
+    8,
+    4,
+    36,
+    21,
+    2,
+    -1,
+    -1,
+    40,
+    -1,
+    -1,
+    18,
+    -1,
+    -1,
+    39,
+    -1,
+    -1,
+    1,
+    32,
+    65,
+    15,
+    28,
+    64,
+    -1,
+    -1,
+    45,
+    14,
+    30,
+    51,
+    47,
+    55,
+    22,
+    6,
+    -1,
+    0,
+    -1,
+    18,
+    5,
+    -1,
+    50,
+    -1,
+    -1,
+    18,
+    -1,
+    9,
+    34,
+    46,
+    32,
+    69,
+    30,
+    -1,
+    -1,
+    3,
+    27,
+    -1,
+    54,
+    -1,
+    22,
+    38,
+    5,
+    -1,
+    8,
+    17,
+    -1,
+    20,
+    15,
+    48,
+    36,
+    -1,
+    17,
+    26,
+    -1,
+    44,
+    -1,
+    44,
+    -1,
+    0,
+    2,
+    68,
+    21,
+    -1,
+    26,
+    9,
+    -1,
+    44,
+    -1,
+    31,
+    58,
+    -1,
+    17,
+    13,
+    -1,
+    23,
+    34,
+    -1,
+    -1,
+    -1,
+    3,
+    68,
+    -1,
+    25,
+    14,
+    -1,
+    2,
+    -1,
+    7,
+    9,
+    29,
+    2,
+    49,
+    5,
+    -1,
+    51,
+    -1,
+    4,
+    -1,
+    7,
+    29,
+    -1,
+    -1,
+    9,
+    -1,
+    29,
+    10,
+    -1,
+    2,
+    6,
+    -1,
+    8,
+    57,
+    -1,
+    -1,
+    -1,
+    -1,
+    49,
+    0,
+    -1,
+    -1,
+    10,
+    13,
+    4,
+    27,
+    2,
+    4,
+    44,
+    60,
+    48,
+    -1,
+    7,
+    61,
+    -1,
+    6,
+    0,
+    18,
+    -1,
+    17,
+    -1,
+    65,
+    8,
+    71,
+    -1,
+    39,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    2,
+    16,
+    43,
+    7,
+    71,
+    71,
+    23,
+    -1,
+    -1,
+    43,
+    50,
+    50,
+    9,
+    -1,
+    -1,
+    0,
+    -1,
+    66,
+    5,
+    25,
+    -1,
+    -1,
+    40,
+    8,
+    5,
+    5,
+    21,
+    16,
+    47,
+    62,
+    17,
+    17,
+    -1,
+    9,
+    -1,
+    8,
+    -1,
+    39,
+    62,
+    22,
+    45,
+    53,
+    7,
+    -1,
+    -1,
+    8,
+    -1,
+    -1,
+    -1,
+    13,
+    -1,
+    21,
+    63,
+    -1,
+    68,
+    65,
+    8,
+    25,
+    -1,
+    14,
+    57,
+    56,
+    9,
+    1,
+    50,
+    4,
+    -1,
+    17,
+    51,
+    16,
+    -1,
+    27,
+    61,
+    -1,
+    48,
+    53,
+    5,
+    33,
+    11,
+    -1,
+    18,
+    1,
+    1,
+    1,
+    -1,
+    -1,
+    -1,
+    -1,
+    4,
+    44,
+    8,
+    49,
+    54,
+    -1,
+    -1,
+    29,
+    2,
+    27,
+    -1,
+    16,
+    19,
+    -1,
+    -1,
+    13,
+    -1,
+    8,
+    67,
+    11,
+    41,
+    32,
+    14,
+    18,
+    23,
+    15,
+    24,
+    16,
+    5,
+    -1,
+    58,
+    41,
+    16,
+    -1,
+    46,
+    7,
+    5,
+    -1,
+    26,
+    -1,
+    39,
+    -1,
+    2,
+    6,
+    -1,
+    22,
+    10,
+    3,
+    4,
+    32,
+    7,
+    5,
+    -1,
+    -1,
+    -1,
+    10,
+    14,
+    45,
+    4,
+    22,
+    0,
+    -1,
+    4,
+    47,
+    -1,
+    5,
+    32,
+    -1,
+    1,
+    -1,
+    -1,
+    5,
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    11,
+    -1,
+    47,
+    -1,
+    -1,
+    -1,
+    53,
+    0,
+    -1,
+    20,
+    -1,
+    -1,
+    -1,
+    33,
+    27,
+    24,
+    2,
+    4,
+    5,
+    2,
+    3,
+    16,
+    2,
+    18,
+    17,
+    -1,
+    16,
+    30,
+    -1,
+    57,
+    8,
+    -1,
+    45,
+    6,
+    36,
+    25,
+    -1,
+    8,
+    5,
+    8,
+    17,
+    15,
+    30,
+    38,
+    -1,
+    51,
+    -1,
+    50,
+    9,
+    7,
+    -1,
+    16,
+    -1,
+    4,
+    42,
+    18,
+    33,
+    -1,
+    34,
+    35,
+    33,
+    4,
+    31,
+    3,
+    -1,
+    4,
+    -1,
+    13,
+    41,
+    21,
+    64,
+    29,
+    16,
+    9,
+    18,
+    33,
+    -1,
+    14,
+    5,
+    1,
+    6,
+    -1,
+    11,
+    18,
+    26,
+    -1,
+    -1,
+    -1,
+    65,
+    29,
+    34,
+    -1,
+    -1,
+    38,
+    2,
+    55,
+    -1,
+    34,
+    39,
+    36,
+    0,
+    -1,
+    -1,
+    -1,
+    46,
+    -1,
+    27,
+    -1,
+    17,
+    37,
+    5,
+    4,
+    5,
+    20,
+    5,
+    -1,
+    31,
+    4,
+    -1,
+    13,
+    5,
+    24,
+    -1,
+    8,
+    33,
+    5,
+    -1,
+    26,
+    -1,
+    17,
+    28,
+    12,
+    24,
+    -1,
+    58,
+    -1,
+    18,
+    2,
+    10,
+    -1,
+    8,
+    -1,
+    -1,
+    22,
+    22,
+    41,
+    0,
+    -1,
+    34,
+    8,
+    13,
+    8,
+    -1,
+    34,
+    4,
+    18,
+    -1,
+    1,
+    -1,
+    18,
+    -1,
+    43,
+    8,
+    8,
+    16,
+    4,
+    5,
+    18,
+    8,
+    -1,
+    47,
+    5,
+    37,
+    62,
+    5,
+    34,
+    3,
+    -1,
+    17,
+    34,
+    -1,
+    -1,
+    32,
+    -1,
+    4,
+    -1,
+    -1,
+    0,
+    5,
+    -1,
+    -1,
+    -1,
+    4,
+    41,
+    7,
+    -1,
+    -1,
+    -1,
+    -1,
+    31,
+    57,
+    20,
+    -1,
+    -1,
+    5,
+    6,
+    -1,
+    34,
+    -1,
+    8,
+    4,
+    34,
+    16,
+    4,
+    33,
+    49,
+    8,
+    -1,
+    25,
+    11,
+    30,
+    -1,
+    36,
+    55,
+    -1,
+    5,
+    8,
+    46,
+    4,
+    26,
+    -1,
+    16,
+    49,
+    39,
+    25,
+    20,
+    22,
+    34,
+    -1,
+    -1,
+    -1,
+    67,
+    45,
+    5,
+    8,
+    4,
+    -1,
+    -1,
+    28,
+    56,
+    51,
+    14,
+    -1,
+    2,
+    -1,
+    21,
+    16,
+    69,
+    -1,
+    4,
+    -1,
+    27,
+    -1,
+    -1,
+    7,
+    12,
+    18,
+    68,
+    71,
+    -1,
+    35,
+    55,
+    9,
+    -1,
+    13,
+    5,
+    3,
+    -1,
+    -1,
+    -1,
+    -1,
+    66,
+    15,
+    -1,
+    -1,
+    -1,
+    48,
+    5,
+    41,
+    47,
+    8,
+    18,
+    16,
+    4,
+    5,
+    -1,
+    53,
+    53,
+    36,
+    -1,
+    27,
+    5,
+    27,
+    64,
+    -1,
+    8,
+    -1,
+    8,
+    5,
+    -1,
+    26,
+    -1,
+    21,
+    45,
+    -1,
+    41,
+    39,
+    24,
+    -1,
+    -1,
+    5,
+    -1,
+    8,
+    4,
+    -1,
+    14,
+    -1,
+    64,
+    1,
+    -1,
+    70,
+    8,
+    -1,
+    -1,
+    4,
+    67,
+    56,
+    -1,
+    -1,
+    -1,
+    5,
+    2,
+    -1,
+    -1,
+    17,
+    18,
+    -1,
+    5,
+    4,
+    -1,
+    34,
+    -1,
+    -1,
+    -1,
+    -1,
+    36,
+    27,
+    -1,
+    22,
+    -1,
+    12,
+    69,
+    22,
+    -1,
+    -1,
+    46,
+    18,
+    -1,
+    -1,
+    18,
+    1,
+    10,
+    -1,
+    50,
+    12,
+    11,
+    14,
+    52,
+    37,
+    36,
+    56,
+    10,
+    52,
+    37,
+    52,
+    11,
+    53,
+    -1,
+    69,
+    41,
+    -1,
+    61,
+    39,
+    11,
+    13,
+    37,
+    37,
+    30,
+    9,
+    13,
+    69,
+    13,
+    47,
+    -1,
+    10,
+    11,
+    12,
+    -1,
+    11,
+    11,
+    -1,
+    13,
+    13,
+    0,
+    18,
+    18,
+    11,
+    11,
+    39,
+    10,
+    41,
+    11,
+    10,
+    -1,
+    11,
+    52,
+    25,
+    13,
+    11,
+    -1,
+    50,
+    -1,
+    46,
+    -1,
+    36,
+    14,
+    -1,
+    -1,
+    -1,
+    0,
+    0,
+    -1,
+    46,
+    14,
+    47,
+    13,
+    0,
+    1,
+    -1,
+    41,
+    54,
+    71,
+    53,
+    22,
+    37,
+    15,
+    11,
+    -1,
+    48,
+    14,
+    -1,
+    46,
+    10,
+    10,
+    -1,
+    -1,
+    71,
+    37,
+    -1,
+    37,
+    10,
+    21,
+    -1,
+    36,
+    37,
+    23,
+    37,
+    71,
+    -1,
+    -1,
+    12,
+    11,
+    41,
+    71,
+    46,
+    0,
+    -1,
+    52,
+    -1,
+    11,
+    37,
+    45,
+    10,
+    3,
+    11,
+    36,
+    25,
+    50,
+    -1,
+    13,
+    -1,
+    54,
+    51,
+    -1,
+    -1,
+    -1,
+    51,
+    -1,
+    51,
+    7,
+    -1,
+    -1,
+    -1,
+    55,
+    9,
+    17,
+    -1,
+    0,
+    -1,
+    23
+  ],
+  "topic_sizes": {
+    "63": 11,
+    "3": 50,
+    "-1": 771,
+    "42": 15,
+    "28": 21,
+    "7": 42,
+    "23": 23,
+    "9": 36,
+    "12": 32,
+    "32": 20,
+    "0": 59,
+    "13": 32,
+    "1": 53,
+    "19": 25,
+    "15": 28,
+    "24": 23,
+    "2": 52,
+    "30": 20,
+    "44": 15,
+    "61": 11,
+    "6": 43,
+    "52": 13,
+    "38": 16,
+    "70": 10,
+    "43": 15,
+    "69": 10,
+    "4": 50,
+    "60": 11,
+    "16": 28,
+    "29": 21,
+    "39": 16,
+    "26": 22,
+    "56": 12,
+    "11": 32,
+    "31": 20,
+    "27": 22,
+    "65": 10,
+    "5": 48,
+    "55": 12,
+    "35": 19,
+    "46": 14,
+    "20": 24,
+    "10": 33,
+    "59": 11,
+    "40": 15,
+    "36": 19,
+    "25": 22,
+    "33": 19,
+    "47": 14,
+    "54": 12,
+    "53": 12,
+    "22": 23,
+    "58": 11,
+    "14": 31,
+    "21": 24,
+    "45": 14,
+    "8": 37,
+    "68": 10,
+    "17": 27,
+    "37": 17,
+    "48": 13,
+    "67": 10,
+    "57": 12,
+    "66": 10,
+    "62": 11,
+    "50": 13,
+    "51": 13,
+    "34": 19,
+    "64": 10,
+    "49": 13,
+    "41": 15,
+    "18": 25,
+    "71": 10
+  },
+  "topic_mapper": [
+    [
+      -1,
+      -1,
+      -1
+    ],
+    [
+      0,
+      0,
+      57
+    ],
+    [
+      1,
+      1,
+      45
+    ],
+    [
+      2,
+      2,
+      55
+    ],
+    [
+      3,
+      3,
+      23
+    ],
+    [
+      4,
+      4,
+      44
+    ],
+    [
+      5,
+      5,
+      2
+    ],
+    [
+      6,
+      6,
+      58
+    ],
+    [
+      7,
+      7,
+      52
+    ],
+    [
+      8,
+      8,
+      54
+    ],
+    [
+      9,
+      9,
+      31
+    ],
+    [
+      10,
+      10,
+      64
+    ],
+    [
+      11,
+      11,
+      67
+    ],
+    [
+      12,
+      12,
+      46
+    ],
+    [
+      13,
+      13,
+      16
+    ],
+    [
+      14,
+      14,
+      30
+    ],
+    [
+      15,
+      15,
+      37
+    ],
+    [
+      16,
+      16,
+      51
+    ],
+    [
+      17,
+      17,
+      69
+    ],
+    [
+      18,
+      18,
+      36
+    ],
+    [
+      19,
+      19,
+      22
+    ],
+    [
+      20,
+      20,
+      39
+    ],
+    [
+      21,
+      21,
+      4
+    ],
+    [
+      22,
+      22,
+      38
+    ],
+    [
+      23,
+      23,
+      7
+    ],
+    [
+      24,
+      24,
+      5
+    ],
+    [
+      25,
+      25,
+      9
+    ],
+    [
+      26,
+      26,
+      17
+    ],
+    [
+      27,
+      27,
+      63
+    ],
+    [
+      28,
+      28,
+      3
+    ],
+    [
+      29,
+      29,
+      42
+    ],
+    [
+      30,
+      30,
+      65
+    ],
+    [
+      31,
+      31,
+      40
+    ],
+    [
+      32,
+      32,
+      10
+    ],
+    [
+      33,
+      33,
+      25
+    ],
+    [
+      34,
+      34,
+      66
+    ],
+    [
+      35,
+      35,
+      27
+    ],
+    [
+      36,
+      36,
+      32
+    ],
+    [
+      37,
+      37,
+      34
+    ],
+    [
+      38,
+      38,
+      15
+    ],
+    [
+      39,
+      39,
+      14
+    ],
+    [
+      40,
+      40,
+      62
+    ],
+    [
+      41,
+      41,
+      29
+    ],
+    [
+      42,
+      42,
+      28
+    ],
+    [
+      43,
+      43,
+      26
+    ],
+    [
+      44,
+      44,
+      43
+    ],
+    [
+      45,
+      45,
+      6
+    ],
+    [
+      46,
+      46,
+      20
+    ],
+    [
+      47,
+      47,
+      33
+    ],
+    [
+      48,
+      48,
+      49
+    ],
+    [
+      49,
+      49,
+      0
+    ],
+    [
+      50,
+      50,
+      53
+    ],
+    [
+      51,
+      51,
+      11
+    ],
+    [
+      52,
+      52,
+      18
+    ],
+    [
+      53,
+      53,
+      50
+    ],
+    [
+      54,
+      54,
+      13
+    ],
+    [
+      55,
+      55,
+      70
+    ],
+    [
+      56,
+      56,
+      1
+    ],
+    [
+      57,
+      57,
+      59
+    ],
+    [
+      58,
+      58,
+      21
+    ],
+    [
+      59,
+      59,
+      12
+    ],
+    [
+      60,
+      60,
+      56
+    ],
+    [
+      61,
+      61,
+      61
+    ],
+    [
+      62,
+      62,
+      41
+    ],
+    [
+      63,
+      63,
+      68
+    ],
+    [
+      64,
+      64,
+      8
+    ],
+    [
+      65,
+      65,
+      35
+    ],
+    [
+      66,
+      66,
+      47
+    ],
+    [
+      67,
+      67,
+      60
+    ],
+    [
+      68,
+      68,
+      48
+    ],
+    [
+      69,
+      69,
+      71
+    ],
+    [
+      70,
+      70,
+      19
+    ],
+    [
+      71,
+      71,
+      24
+    ]
+  ],
+  "topic_labels": {
+    "-1": "-1_mangrove species_mangrove ecosystems_spectral reflectance_satellite imagery",
+    "0": "0_mangrove area_area mangrove_mangrove expansion_china mangroves",
+    "1": "1_mangrove canopy height_mangrove height_forest canopy height_mangrove canopy",
+    "2": "2_mangrove area_degraded mangrove_coastal water_surface water",
+    "3": "3_global mangrove forest_mangrove forest cover_mangrove deforestation_mangrove loss",
+    "4": "4_resolution mangrove_mangrove mapping_mangrove extent_wetland mapping",
+    "5": "5_mangrove resilience_ecosystem services_coastal resilience_carbon sequestration",
+    "6": "6_mangrove damage_recovery mangrove_mangrove recovery_damage mangrove",
+    "7": "7_mangrove conservation restoration_mangrove conservation_ecosystem services_shoreline changes",
+    "8": "8_segmentation mangrove_mangrove remote sensing_remote sensing image_remote sensing images",
+    "9": "9_current status mangrove_mangrove loss_mangrove area_status mangrove",
+    "10": "10_mangrove study_mangrove communities_mangrove vegetation_spectral vegetation",
+    "11": "11_area mangroves_monitoring mangroves_ha mangrove area_using remote sensing",
+    "12": "12_object based classification_spectral angle mapper_pixel based classification_based image analysis",
+    "13": "13_coastal features_coastal zone_coastal areas_coast study",
+    "14": "14_land use changes_forest area_forest vegetation_forest cover",
+    "15": "15_mangrove colonization_river mouth_lagoon_estuarine",
+    "16": "16_net shoreline movement_shoreline erosion_shoreline dynamics_digital shoreline analysis",
+    "17": "17_resilience mangroves_sustainable development goals_ecological systems_blue carbon ecosystems",
+    "18": "18_mangrove forest reserve_matang mangrove forest_mangrove area_satellite imagery mangrove",
+    "19": "19_mangrove leaf area_hyperspectral imaging_content mangrove_estimating mangrove",
+    "20": "20_mangrove shorelines_elevation model_sea level rise_mangrove establishment",
+    "21": "21_mangrove ground biomass_mangrove carbon stocks_mangrove carbon_indices mangrove",
+    "22": "22_palsar data_band sar data_polarimetric decomposition_sar backscatter",
+    "23": "23_mangrove sediments_sediment samples_mangrove wetland_surface sediment",
+    "24": "24_estimating mangrove_mangrove aboveground biomass_mangrove agb_mangrove ground biomass",
+    "25": "25_services provided mangroves_remote sensing mangrove_sensing mangrove forests_changes mangrove cover",
+    "26": "26_shoreline retreat_sea level rise_sedimentary_shoreline",
+    "27": "27_marine spatial planning_using aerial photography_surface water_coral reef",
+    "28": "28_mangrove range_mangrove expansion_expansion mangroves_ecotones",
+    "29": "29_area mangrove_mangrove forest cover_changes mangrove forest_land use",
+    "30": "30_mangrove dynamics_mangrove expansion_shoreline retreat_mangrove afforestation",
+    "31": "31_aboveground carbon stocks_aboveground carbon_mangroves salt marshes_ecosystem carbon",
+    "32": "32_native mangrove species_china mangroves_mangrove biomass_mangrove biomass carbon",
+    "33": "33_mangrove biomass carbon_mangrove carbon stocks_mangrove phenology_mangrove aboveground biomass",
+    "34": "34_mangrove aboveground biomass_mangrove aboveground_estimation mangrove_mangrove canopy",
+    "35": "35_mangrove species classification_classification mangrove species_hyperspectral images_high resolution multispectral",
+    "36": "36_multispectral satellite images_mangrove structure_approach mangrove_high spatial resolution",
+    "37": "37_mapping land cover_coastal dynamics_mapping land_coastal features",
+    "38": "38_digital shoreline analysis_shoreline changes_mangrove shoreline_shoreline analysis dsas",
+    "39": "39_marine life_remote sensing techniques_mangrove mapping monitoring_remote sensing tools",
+    "40": "40_conditions mangroves_dominated rhizophora_mangrove ecosystem health_vegetation dynamics",
+    "41": "41_mangrove recognition index_technology mangrove_mangrove recognition_mangrove remote sensing",
+    "42": "42_remote sensing technologies_mangrove species mapping_remote sensing approaches_review mangrove",
+    "43": "43_mangrove sediments_mangrove expansion_sea mangroves_estuarine",
+    "44": "44_land use classes_land use changes_multispectral instrument_wetland ecosystems",
+    "45": "45_mangrove phenology_mangrove health_mangrove phenological_mangrove swamp",
+    "46": "46_aerial photography_analysis land cover_aerial photographs_ecosystem based management",
+    "47": "47_hyperspectral imaging_multiresolution_based image analysis_mangrove detection",
+    "48": "48_hyperspectral image data_spectral angle mapper_classification mangroves_mangrove forests using",
+    "49": "49_impacts mangrove_mangrove ecosystem services_mangrove national nature_mangrove nature reserve",
+    "50": "50_2004 indian ocean_indian ocean tsunami_andaman island_2004 tsunami",
+    "51": "51_urban planning_analysis land use_high resolution images_mapping remote sensing",
+    "52": "52_black mangrove avicennia_mangrove populations_aerial photography_black mangrove",
+    "53": "53_characterization mangrove_mangrove forest area_value mangrove_detection mangrove",
+    "54": "54_red sea coast_coastal zone_sandy beaches_coastal processes",
+    "55": "55_mangrove community_condition mangroves_condition mangrove_estimated mangrove",
+    "56": "56_map mangrove species_vegetation mapping_forest classification_optical sar data",
+    "57": "57_mangrove restoration efforts_mangrove land use_mangrove restoration_china mangrove",
+    "58": "58_mangrove cover using_impacts mangroves_mangrove forest cover_mangrove coverage",
+    "59": "59_mangrove species mapping_mangrove phenology_mangrove tree species_distribution mangrove species",
+    "60": "60_scale mangrove mapping_different mangrove species_mangrove species using_mapping mangrove species",
+    "61": "61_combined mangrove recognition_accurate mangrove mapping_mangrove forest mapping_mapping mangrove forests",
+    "62": "62_estuarine region_remote sensing mangroves_mangrove forest canopy_estuarine wetland",
+    "63": "63_maps mangrove_mangrove forests world_area mangrove forest_mangrove cover increased",
+    "64": "64_aboveground biomass carbon_biomass carbon stocks_soil organic carbon_estimating biomass",
+    "65": "65_mangrove studies_sustainable forest_mangrove restoration_forest management",
+    "66": "66_mangrove canopies_mangrove forest located_impacts mangroves_mangrove coast",
+    "67": "67_imagery mangrove forests_mangrove agb_detecting mangrove_canopy height model",
+    "68": "68_extracting mangrove_remote sensing image_remote sensing images_method mangrove",
+    "69": "69_multispectral imagery_mapping monitoring mangroves_monitoring mangroves_mangrove zones",
+    "70": "70_mangrove species avicennia_mangrove leaf_mangrove species_mangroves species level",
+    "71": "71_linear spectral unmixing_spectral unmixing_mangrove species discrimination_data mangrove species"
+  },
+  "custom_labels": null,
+  "_outliers": 1,
+  "topic_aspects": {
+    "LLM": {
+      "-1": [
+        [
+          "Mangrove Forest Remote Sensing",
+          1
+        ]
+      ],
+      "0": [
+        [
+          "Mangrove Change Detection",
+          1
+        ]
+      ],
+      "1": [
+        [
+          "Mangrove Canopy Height and Biomass",
+          1
+        ]
+      ],
+      "2": [
+        [
+          "Mangrove and coastal remote sensing",
+          1
+        ]
+      ],
+      "3": [
+        [
+          "Mangrove Deforestation in Southeast Asia",
+          1
+        ]
+      ],
+      "4": [
+        [
+          "Mangrove Remote Sensing Mapping",
+          1
+        ]
+      ],
+      "5": [
+        [
+          "Mangrove blue carbon remote sensing",
+          1
+        ]
+      ],
+      "6": [
+        [
+          "Mangrove hurricane damage recovery",
+          1
+        ]
+      ],
+      "7": [
+        [
+          "Mangrove land use and ecosystem services",
+          1
+        ]
+      ],
+      "8": [
+        [
+          "Deep learning mangrove segmentation",
+          1
+        ]
+      ],
+      "9": [
+        [
+          "Drivers of mangrove loss",
+          1
+        ]
+      ],
+      "10": [
+        [
+          "Remote sensing of mangrove ecosystems",
+          1
+        ]
+      ],
+      "11": [
+        [
+          "Mangrove remote sensing in India",
+          1
+        ]
+      ],
+      "12": [
+        [
+          "Mangrove Image Classification Methods",
+          1
+        ]
+      ],
+      "13": [
+        [
+          "Coastal Shoreline Change Analysis",
+          1
+        ]
+      ],
+      "14": [
+        [
+          "Deforestation and forest cover change",
+          1
+        ]
+      ],
+      "15": [
+        [
+          "Amazon mud bank mangrove coasts",
+          1
+        ]
+      ],
+      "16": [
+        [
+          "Shoreline Change and Coastal Erosion",
+          1
+        ]
+      ],
+      "17": [
+        [
+          "Remote sensing of blue carbon ecosystems",
+          1
+        ]
+      ],
+      "18": [
+        [
+          "Mangrove Remote Sensing Applications",
+          1
+        ]
+      ],
+      "19": [
+        [
+          "Mangrove leaf area index estimation",
+          1
+        ]
+      ],
+      "20": [
+        [
+          "Tidal wetland elevation modeling",
+          1
+        ]
+      ],
+      "21": [
+        [
+          "Mangrove biomass and carbon estimation",
+          1
+        ]
+      ],
+      "22": [
+        [
+          "Polarimetric SAR mangrove analysis",
+          1
+        ]
+      ],
+      "23": [
+        [
+          "Mangrove Ecosystem Biogeochemistry",
+          1
+        ]
+      ],
+      "24": [
+        [
+          "Mangrove aboveground biomass estimation",
+          1
+        ]
+      ],
+      "25": [
+        [
+          "Remote sensing of mangrove degradation",
+          1
+        ]
+      ],
+      "26": [
+        [
+          "Coastal Response to Sea-Level Rise",
+          1
+        ]
+      ],
+      "27": [
+        [
+          "Coastal ecosystem remote sensing",
+          1
+        ]
+      ],
+      "28": [
+        [
+          "Mangrove range limit dynamics",
+          1
+        ]
+      ],
+      "29": [
+        [
+          "Land cover change detection",
+          1
+        ]
+      ],
+      "30": [
+        [
+          "Mangrove Forest Spatiotemporal Dynamics",
+          1
+        ]
+      ],
+      "31": [
+        [
+          "Mangrove Carbon Stock Assessment",
+          1
+        ]
+      ],
+      "32": [
+        [
+          "Spartina alterniflora invasion monitoring",
+          1
+        ]
+      ],
+      "33": [
+        [
+          "Mangrove Carbon Stock Estimation",
+          1
+        ]
+      ],
+      "34": [
+        [
+          "Mangrove Carbon Flux and Biomass Estimation",
+          1
+        ]
+      ],
+      "35": [
+        [
+          "UAV-Based Mangrove Species Classification",
+          1
+        ]
+      ],
+      "36": [
+        [
+          "Mangrove Canopy Structure Remote Sensing",
+          1
+        ]
+      ],
+      "37": [
+        [
+          "Coastal mangrove remote sensing",
+          1
+        ]
+      ],
+      "38": [
+        [
+          "Remote Sensing of Shoreline Change",
+          1
+        ]
+      ],
+      "39": [
+        [
+          "Remote Sensing of Coastal Ecosystems",
+          1
+        ]
+      ],
+      "40": [
+        [
+          "Mangrove Remote Sensing Monitoring",
+          1
+        ]
+      ],
+      "41": [
+        [
+          "Mangrove remote sensing classification",
+          1
+        ]
+      ],
+      "42": [
+        [
+          "Mangrove remote sensing applications",
+          1
+        ]
+      ],
+      "43": [
+        [
+          "Mangrove sediment accumulation and geochemistry",
+          1
+        ]
+      ],
+      "44": [
+        [
+          "Coastal wetland remote sensing",
+          1
+        ]
+      ],
+      "45": [
+        [
+          "Mangrove Biophysical Remote Sensing",
+          1
+        ]
+      ],
+      "46": [
+        [
+          "Mangrove remote sensing",
+          1
+        ]
+      ],
+      "47": [
+        [
+          "Machine Learning for Mangrove Mapping",
+          1
+        ]
+      ],
+      "48": [
+        [
+          "Hyperspectral mangrove classification",
+          1
+        ]
+      ],
+      "49": [
+        [
+          "Mangrove conservation and ecosystem services",
+          1
+        ]
+      ],
+      "50": [
+        [
+          "Tsunami impacts on coastal ecosystems",
+          1
+        ]
+      ],
+      "51": [
+        [
+          "Remote sensing of coastal mangroves",
+          1
+        ]
+      ],
+      "52": [
+        [
+          "Remote sensing of black mangrove",
+          1
+        ]
+      ],
+      "53": [
+        [
+          "Mangrove SAR biomass estimation",
+          1
+        ]
+      ],
+      "54": [
+        [
+          "Coastal vulnerability and hazard assessment",
+          1
+        ]
+      ],
+      "55": [
+        [
+          "Mangrove forest remote sensing",
+          1
+        ]
+      ],
+      "56": [
+        [
+          "Multisource mangrove remote sensing classification",
+          1
+        ]
+      ],
+      "57": [
+        [
+          "Mangrove Restoration and Carbon Storage",
+          1
+        ]
+      ],
+      "58": [
+        [
+          "Mangrove Remote Sensing and Change Detection",
+          1
+        ]
+      ],
+      "59": [
+        [
+          "Mangrove species mapping",
+          1
+        ]
+      ],
+      "60": [
+        [
+          "Mangrove species classification",
+          1
+        ]
+      ],
+      "61": [
+        [
+          "Mangrove Vegetation Index Mapping",
+          1
+        ]
+      ],
+      "62": [
+        [
+          "Mangrove Remote Sensing Change Detection",
+          1
+        ]
+      ],
+      "63": [
+        [
+          "Global mangrove extent mapping",
+          1
+        ]
+      ],
+      "64": [
+        [
+          "Mangrove biomass carbon estimation",
+          1
+        ]
+      ],
+      "65": [
+        [
+          "UAV-based forest biomass estimation",
+          1
+        ]
+      ],
+      "66": [
+        [
+          "Mangrove colonization dynamics",
+          1
+        ]
+      ],
+      "67": [
+        [
+          "Mangrove blue carbon remote sensing",
+          1
+        ]
+      ],
+      "68": [
+        [
+          "Deep learning for mangrove remote sensing",
+          1
+        ]
+      ],
+      "69": [
+        [
+          "Remote sensing of mangrove ecosystems",
+          1
+        ]
+      ],
+      "70": [
+        [
+          "Mangrove leaf pigment spectroscopy",
+          1
+        ]
+      ],
+      "71": [
+        [
+          "Hyperspectral Spectral Unmixing for Mangrove Species",
+          1
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "design_invariant": "novelty_window_end = onset - 1 for every onset variant, so the non-overlapping-window design is preserved throughout",
+  "production": {
+    "min_burst_onset": 2021,
+    "min_burst_length": 2,
+    "historical_start": 1972,
+    "historical_end": 2020
+  },
+  "families": {
+    "onset": {
+      "configs": {
+        "onset_2020": {
+          "passed": [
+            4,
+            5,
+            8,
+            16,
+            17,
+            35,
+            57,
+            68
+          ]
+        },
+        "onset_2021": {
+          "passed": [
+            4,
+            5,
+            8,
+            16,
+            17,
+            35,
+            57,
+            68
+          ]
+        },
+        "onset_2022": {
+          "passed": [
+            4,
+            5,
+            8,
+            16,
+            17,
+            57
+          ]
+        }
+      },
+      "n_passed_per_config": {
+        "onset_2020": 8,
+        "onset_2021": 8,
+        "onset_2022": 6
+      },
+      "stable_core": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        57
+      ],
+      "passed_in_any_config": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        68
+      ],
+      "pairwise_jaccard": {
+        "onset_2020_vs_onset_2021": 1.0,
+        "onset_2020_vs_onset_2022": 0.75,
+        "onset_2021_vs_onset_2022": 0.75
+      },
+      "novelty_window_end_per_variant": {
+        "2020": 2019,
+        "2021": 2020,
+        "2022": 2021
+      }
+    },
+    "min_span": {
+      "configs": {
+        "min_span_2": {
+          "passed": [
+            4,
+            5,
+            8,
+            16,
+            17,
+            35,
+            57,
+            68
+          ]
+        },
+        "min_span_3": {
+          "passed": [
+            17,
+            35,
+            57,
+            68
+          ]
+        }
+      },
+      "n_passed_per_config": {
+        "min_span_2": 8,
+        "min_span_3": 4
+      },
+      "stable_core": [
+        17,
+        35,
+        57,
+        68
+      ],
+      "passed_in_any_config": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        68
+      ],
+      "pairwise_jaccard": {
+        "min_span_2_vs_min_span_3": 0.5
+      }
+    }
+  },
+  "passed_under_all_variants": [
+    17,
+    57
+  ],
+  "passed_under_any_variant": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    35,
+    57,
+    68
+  ]
+}

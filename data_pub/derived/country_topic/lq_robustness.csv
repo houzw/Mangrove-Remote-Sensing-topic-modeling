@@ -1,0 +1,8 @@
+﻿Country,Topic,Topic_Label,N_c,N_ck,observed_LQ,perm_p_value,shrunk_LQ,survives_permutation,survives_shrinkage
+Colombia,40,Mangrove Remote Sensing Monitoring,11.97,2.0,17.219,0.005,8.949,True,True
+Indonesia,53,Mangrove characterization and mapping,67.7,8.25,15.7,0.001,13.817,True,True
+Malaysia,18,Mangrove Remote Sensing Applications,32.49,7.0,13.322,0.001,10.903,True,True
+Bangladesh,38,Remote Sensing of Shoreline Change,20.93,2.5,11.54,0.003,5.078,True,True
+Mexico,70,Mangrove leaf pigment spectroscopy,47.43,3.5,11.409,0.001,8.986,True,True
+Nigeria,50,Tsunami impacts on coastal ecosystems,10.5,1.0,11.326,0.0629,4.23,False,True
+Brazil,15,Amazon mud bank mangrove coasts,68.85,12.08,9.69,0.001,8.961,True,True

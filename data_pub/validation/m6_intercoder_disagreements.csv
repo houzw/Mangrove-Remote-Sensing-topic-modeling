@@ -1,0 +1,8 @@
+DI,PY,first_author_country,flag_title,regions_all,yes1,yes2,study_countries_c1,study_countries_c2
+10.3390/rs10091466,2018,United States,False,french guiana;indonesia,False,True,[],"['French Guiana', 'Indonesia']"
+10.3390/rs12040691,2020,United States,True,bangladesh,True,False,['Bangladesh'],[]
+10.1007/s10021-023-00871-z,2024,United States,False,mexico,False,True,['USA'],['Mexico']
+10.1111/geb.12140,2014,Singapore,False,brazil;cuba;indonesia;nigeria;philippines,True,False,"['Indonesia', 'Nigeria', 'Cuba', 'Brazil', 'Philippines']",[]
+10.1007/s10750-018-3673-1,2018,Vietnam,True,myanmar,True,False,['Myanmar'],[]
+10.1016/j.rsma.2025.104422,2025,China,False,mozambique,True,False,['Mozambique'],[]
+10.1088/1755-1315/37/1/012035,2016,Japan,False,cambodia;indonesia;thailand;vietnam,False,True,[],"['Cambodia', 'Indonesia', 'Thailand', 'Vietnam']"

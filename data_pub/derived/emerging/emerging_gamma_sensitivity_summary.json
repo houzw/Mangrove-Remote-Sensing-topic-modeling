@@ -1,0 +1,80 @@
+{
+  "configs": {
+    "gamma_0.5": {
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        64,
+        65
+      ]
+    },
+    "gamma_1.0": {
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        68
+      ]
+    },
+    "gamma_2.0": {
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        27,
+        35,
+        57,
+        68
+      ]
+    }
+  },
+  "n_passed_per_config": {
+    "gamma_0.5": 9,
+    "gamma_1.0": 8,
+    "gamma_2.0": 9
+  },
+  "stable_core": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    35,
+    57
+  ],
+  "passed_in_any_config": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    27,
+    35,
+    57,
+    64,
+    65,
+    68
+  ],
+  "passed_only_in_subset": [
+    27,
+    64,
+    65,
+    68
+  ],
+  "pairwise_jaccard": {
+    "gamma_0.5_vs_gamma_1.0": 0.7,
+    "gamma_0.5_vs_gamma_2.0": 0.636,
+    "gamma_1.0_vs_gamma_2.0": 0.889
+  }
+}

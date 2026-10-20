@@ -1,0 +1,261 @@
+# =============================================================================
+# Mangrove RS Bibliometric Analysis — Central Configuration
+# =============================================================================
+# All paths are relative to this config file's location (project root).
+# Edit this file to adjust parameters before running the pipeline.
+
+# ---------------------------------------------------------------------------
+# Paths (relative to project root)
+# ---------------------------------------------------------------------------
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  external_dir: "data/external"
+  figures_dir: "outputs/figures"
+  models_dir: "outputs/models"
+
+# ---------------------------------------------------------------------------
+# Data preprocessing
+# ---------------------------------------------------------------------------
+preprocessing:
+  raw_file_pattern: "*.txt"           # Glob pattern for WoS files in raw_dir
+  output_file: "cleaned_data.csv"
+  dedup_column: "DI"                  # DOI column in WoS export
+  core_fields: ["PY", "CU", "SO", "TC", "TI", "AB", "DE"]
+  text_fields: ["TI", "AB", "DE"]     # Merged into 'text' column
+  fillna_values:
+    AB: ""
+    DE: ""
+    CU: "Unknown"
+  encodings: ["utf-8-sig", "utf-8", "latin-1", "cp1252"]  # Try in order
+
+# ---------------------------------------------------------------------------
+# Logistic growth fitting
+# ---------------------------------------------------------------------------
+logistic_fit:
+  # Logistic form: L / (1 + exp(-k * (t - t0))),  t = PY - PY_min
+  # p0 = [L, k, t0] — initial guesses (t0 in normalised years)
+  p0: [5000, 0.15, 55]
+  # Parameter bounds for curve_fit
+  bounds:
+    L: [2332, 20000]
+    k: [0.05, 0.50]
+    t0: [20, 80]
+  maxfev: 10000                       # Max iterations for curve_fit
+  phase_thresholds:
+    embryonic: [0.0, 0.1]
+    growth: [0.1, 0.9]
+    mature: [0.9, 1.0]
+  phase_colors:
+    embryonic: "#e8f5e9"
+    growth: "#fff3e0"
+    mature: "#e3f2fd"
+  phase_labels:
+    embryonic: "Embryonic (0-10%)"
+    growth: "Growth (10-90%)"
+    mature: "Mature (90-100%)"
+
+# ---------------------------------------------------------------------------
+# Country analysis
+# ---------------------------------------------------------------------------
+country_analysis:
+  mangrove_area_file: "HGMF_country_area.csv"     # File in data/external/
+  area_column: "sum"                              # Column containing total mangrove area
+  area_unit: "km2"                                # Unit of the area column (km2)
+  world_map_source: "data/external/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp"
+  # Country name normalization (WoS name -> HGMF country name)
+  country_name_mapping:
+    "USA": "United States"
+    "England": "United Kingdom"
+    "Scotland": "United Kingdom"
+    "Wales": "United Kingdom"
+    "Peoples R China": "China"
+    "Russia": "Russian Federation"
+    "South Korea": "Republic of Korea"
+    "North Korea": "Dem. Rep. Korea"
+    "Vietnam": "Vietnam"
+    "Viet Nam": "Vietnam"
+    "Iran": "Iran"
+    "Iran (Islamic Republic of)": "Iran"
+    "Tanzania": "Tanzania"
+    "United Republic of Tanzania": "Tanzania"
+    "Brunei": "Brunei"
+    "Brunei Darussalam": "Brunei"
+    "Ivory Coast": "Cote d'Ivory"
+    "Côte d'Ivoire": "Cote d'Ivory"
+    "Congo": "Congo.DRC"
+    "Dem Rep Congo": "Congo.DRC"
+    "Democratic Republic of the Congo": "Congo.DRC"
+    "Venezuela": "Venzuela"
+    "Cameroon": "Camerocn"
+    "Myanmar": "Myanmar"
+    "Burma": "Myanmar"
+    "Solomon Islands": "Solomon Is."
+    "Papua New Guinea": "Papua New Guinea"
+    "Trinidad and Tobago": "Trinidad & Tobago"
+    "Gambia": "The Gambia"
+    "Bahamas": "The Bahamas"
+
+# ---------------------------------------------------------------------------
+# Author collaboration network overlaid on mangrove distribution map
+# ---------------------------------------------------------------------------
+collaboration_network:
+  # HGMF 2020 global mangrove distribution shapefile (10 m, Jia et al. 2023).
+  # Internal-drive copy — the external drive that previously held it (E:,
+  # later F:) is not always mounted; identical copy also at
+  # F:/data/mangrove data/全球10 m高分辨率红树林分布图：HGMF_2020/...
+  mangrove_shapefile: "D:/HGMF_2020/GlobalMangrove2020/GlobalMangrove2020.shp"
+  world_map_source: "data/external/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp"
+  raster_res_deg: 0.5                # Mangrove rasterization cell size (degrees)
+  top_n_edges: 40                    # Strongest collaboration links to draw
+  min_pubs_for_label: 15             # Label countries with >= this many papers
+  output_file: "collaboration_network_map.png"
+
+# ---------------------------------------------------------------------------
+# Topic modeling (BERTopic)
+# ---------------------------------------------------------------------------
+topic_modeling:
+  embedding_model: "allenai/scibert_scivocab_uncased"
+  spacy_model: "en_core_sci_sm"
+  umap:
+    n_neighbors: 15
+    n_components: 5
+    min_dist: 0.1
+    metric: "cosine"
+    random_state: 42
+  hdbscan:
+    min_cluster_size: 10
+    min_samples: 1
+    metric: "euclidean"
+  vectorizer:
+    backend: "count"                  # "count" = pinned CountVectorizer (reproducible); "spacy" = KeyphraseCountVectorizer
+    pos_pattern: "<J.*>*<N.*>+"
+  representation:
+    top_n_words: 20
+    nr_repr_docs: 5
+  min_topic_size: 10
+  compute_coherence: true
+  output:
+    model_name: "bertopic_model"
+    topics_info: "topics_info.csv"
+    doc_topic_dist: "doc_topic_dist.csv"
+    visualize_html: "visualize_topics.html"
+    topic_word_scores: "topic_word_scores.csv"
+    topic_word_scores_plot: "topic_word_scores.png"
+
+  # LLM-based topic labeling (BERTopic 0.16+ OpenAI representation model).
+  # Uses any OpenAI-compatible API: DeepSeek, OpenAI, Ollama, vLLM, etc.
+  # Set enabled: true and configure provider/model/api_key_env below.
+  llm_labeling:
+    enabled: true
+    provider: "deepseek"                # deepseek | openai | ollama | custom
+    model: "deepseek-v4-pro"           # Model name for the API
+    api_key_env: "DEEPSEEK_API_KEY"     # Environment variable holding the API key
+    base_url: "https://api.deepseek.com"  # null = use provider default
+    delay_in_seconds: 2                 # Rate-limit guard between API calls
+    nr_docs: 4                          # Number of representative docs per topic
+
+# ---------------------------------------------------------------------------
+# Topic dynamics (BERTopic topics_over_time)
+# ---------------------------------------------------------------------------
+topic_dynamics:
+  n_bins: 8                        # Number of temporal bins (or null for auto)
+  evolution_mode: "relative"       # "relative" (proportions) or "absolute" (counts)
+  top_n_words: 10                  # Top words shown per topic per period
+  min_docs_per_bin: 5              # Skip bins with fewer docs
+  output:
+    dynamics_html: "topic_dynamics.html"
+    dynamics_csv: "topic_dynamics.csv"
+    keywords_evolution_html: "topic_keywords_evolution.html"
+
+# ---------------------------------------------------------------------------
+# Topic similarity network
+# ---------------------------------------------------------------------------
+topic_network:
+  similarity_metric: "cosine"
+  edge_threshold: 0.15             # Min similarity for drawing an edge
+  top_n_topics: 20                 # Number of topics to include
+  output:
+    network_html: "topic_network.html"
+    network_csv: "topic_network_edges.csv"
+
+# ---------------------------------------------------------------------------
+# Topic evolution
+# ---------------------------------------------------------------------------
+topic_evolution:
+  # Explicit windows aligned to the manuscript's five phases (Table 6). They are made
+  # NON-overlapping because a Sankey cannot draw the (iv)/(v) overlap, and they stop at the
+  # last complete year (2026 is partially indexed). Phase (i) 1972-1984 is omitted: the
+  # corpus holds 3 records there and only ONE is topic-assigned, which a proportional flow
+  # diagram cannot represent.
+  time_periods:
+    - [1985, 1998]
+    - [1999, 2012]
+    - [2013, 2022]
+    - [2023, 2025]
+  period_labels:
+    - "1985–1998"
+    - "1999–2012"
+    - "2013–2022"
+    - "2023–2025"
+  # Example of explicit periods:
+  # time_periods:
+  #   - [null, 2009]
+  #   - [2010, 2015]
+  #   - [2016, 2020]
+  #   - [2021, null]
+  # period_labels:
+  #   - "Before 2010"
+  #   - "2010-2015"
+  #   - "2016-2020"
+  #   - "2021-Present"
+  min_topic_share: 0.01             # Filter topics below this proportion
+  output_file: "topic_evolution.html"
+
+# ---------------------------------------------------------------------------
+# Topic Sankey diagram (evolution flow)
+# ---------------------------------------------------------------------------
+topic_sankey:
+  temperature: 0.3               # Softmax sharpness (0.2=sharp, 0.5=diffuse)
+  min_flow: 0.002                # Minimum flow value for a visible link
+  top_n_topics: 12               # Number of topics to include
+  output_file: "topic_sankey.html"
+
+# ---------------------------------------------------------------------------
+# Spatial topic analysis (country-level topic specialization)
+# ---------------------------------------------------------------------------
+spatial_topic_analysis:
+  min_docs_per_country: 5            # Filter countries with fewer fractional docs
+  top_n_countries: 25                # Countries shown in heatmap
+  top_n_topics: 12                   # Topics shown in choropleth dropdown
+  min_si_threshold: 1.0              # SI > 1 = specialization (for reporting)
+  world_map_source: "data/external/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp"
+  output:
+    si_matrix: "spatial_topic_si.csv"
+    heatmap: "spatial_topic_heatmap.png"
+    choropleth_html: "spatial_topic_choropleth.html"
+    small_multiples: "spatial_topic_small_multiples.png"
+    dominant_topic_map: "spatial_dominant_topic_map.png"
+    country_portfolio: "spatial_country_portfolio.png"
+    top_topics_per_country: "top_topics_per_country.png"
+    popular_topics_heatmap: "popular_topics_heatmap.png"   # superseded 2026-09-26
+    country_topic_heatmap: "country_topic_heatmap.png"     # manuscript Fig. 7
+
+# ---------------------------------------------------------------------------
+# Visualization
+# ---------------------------------------------------------------------------
+visualization:
+  dpi: 300
+  figure_format: "png"
+  default_figsize: [12, 8]
+  color_palette: "viridis"
+  font_family: "DejaVu Sans"
+
+# ---------------------------------------------------------------------------
+# System
+# ---------------------------------------------------------------------------
+system:
+  log_level: "INFO"
+  log_file: "outputs/pipeline.log"
+  prefer_gpu: true                   # Use GPU if available (PyTorch/SentenceTransformer)
+  random_seed: 42

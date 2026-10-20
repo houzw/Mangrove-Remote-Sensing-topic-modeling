@@ -1,0 +1,149 @@
+DI,PY,first_author_country,regions_title,regions_abstract,in_title,provisional_label,provisional_reason,coder_label,coder_notes,human_used
+10.1016/j.rsma.2025.104361,2025,United States,papua new guinea,fiji;papua new guinea;solomon islands;vanuatu,True,yes,country named in the title,,,False
+10.5194/isprsarchives-XLI-B8-705-2016,2016,Japan,indonesia,indonesia,True,yes,country named in the title,,,False
+10.1080/15481603.2026.2629148,2026,United States,,japan;myanmar,False,yes,"HUMAN: rice-mapping study located in Bago District, Myanmar (off-topic for mangroves but a genuine country study)",,,True
+10.1007/s11852-023-00994-4,2023,India,,bangladesh,False,yes,abstract places the study in the country,,,False
+10.1117/1.3571040,2011,United States,mexico,mexico,True,no,off-topic: no mangrove term in title+abstract,,,False
+10.1016/j.jag.2020.102158,2020,Netherlands,indonesia,indonesia;japan,True,yes,country named in the title,,,False
+10.3390/rs13061084,2021,Netherlands,indonesia,indonesia,True,yes,country named in the title,,,False
+10.1080/01431161.2012.712224,2013,United States,,nigeria,False,yes,"HUMAN: pan-African biomass study; Nigeria is the largest reported stand, not a mere mention",,,True
+10.3390/rs11070831,2019,United States,myanmar,,True,yes,country named in the title,,,False
+10.1002/rse2.257,2022,United States,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.scitotenv.2024.173270,2024,United States,,bangladesh;myanmar;papua new guinea,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.ecolind.2017.12.008,2018,United States,,bangladesh;indonesia,False,yes,"HUMAN: three study sites, two of them in Indonesia and one in Bangladesh",,,True
+10.3390/rs12233986,2020,United States,,mexico,False,yes,abstract places the study in the country,,,False
+10.1023/A:1003894927650,1999,France,,brazil;gabon;madagascar;mayotte,False,no,"HUMAN: synthesis of the author's own earlier field sites (Gabon, Madagascar, Brazil, Mayotte)",,,True
+10.1088/1748-9326/aa9f03,2018,United States,,mozambique,False,yes,"HUMAN: Zambezi Delta, Mozambique is the case study",,,True
+10.1109/JSTARS.2016.2553170,2016,France,indonesia,indonesia,True,yes,country named in the title,,,False
+10.1109/IGARSS.2006.443,2006,United States,,colombia,False,yes,"HUMAN: two study regions, one of them Cienaga Grande de Santa Marta, Colombia",,,True
+10.1186/s13717-023-00419-y,2023,China,bangladesh,bangladesh,True,yes,country named in the title,,,False
+10.1109/JSTARS.2015.2431646,2015,United States,,mexico;mozambique,False,yes,"HUMAN: validation sites are Campeche, Mexico and the Zambezi Delta, Mozambique",,,True
+10.1002/rse2.353,2024,United States,,nigeria,False,yes,abstract places the study in the country,,,False
+10.3390/rs5010224,2013,United Kingdom,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.3390/rs6065559,2014,United States,mexico,mexico,True,yes,country named in the title,,,False
+10.2166/hydro.2025.203,2025,India,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1186/s13021-019-0117-9,2019,United States,colombia,colombia,True,yes,country named in the title,,,False
+10.3390/rs12203454,2020,United States,,bangladesh,False,yes,HUMAN: 16 coastal districts of Bangladesh are the study area,,,True
+10.1016/j.scitotenv.2022.155679,2022,United Kingdom,,brazil,False,yes,HUMAN: northern Brazil coast (Amapa) is the study area,,,True
+10.1016/j.aeolia.2009.11.001,2010,United States,brazil,brazil,True,yes,country named in the title,,,False
+10.1088/1755-1315/20/1/012051,2014,Japan,,indonesia,False,yes,abstract places the study in the country,,,False
+10.1023/A:1003807330375,1999,France,madagascar,madagascar,True,yes,country named in the title,,,False
+10.1016/j.pce.2026.104349,2026,China,mozambique,mozambique,True,yes,country named in the title,,,False
+10.2112/JCOASTRES-D-11-00028.1,2011,United States,mexico,mexico,True,yes,country named in the title,,,False
+10.3390/rs17091482,2025,United States,madagascar,madagascar,True,yes,country named in the title,,,False
+10.3390/rs10091466,2018,United States,,french guiana;indonesia,False,no,HUMAN: global product; the named countries are where the largest gains/losses occurred,,,True
+10.1088/1748-9326/ab82cf,2020,United States,,mexico,False,no,comparative / review-counting / background mention,,,False
+10.3390/rs12040691,2020,United States,bangladesh,bangladesh,True,no,off-topic: no mangrove term in title+abstract,,,False
+10.1016/j.rse.2007.10.012,2008,United States,colombia,colombia,True,yes,country named in the title,,,False
+10.1080/01490419.2020.1751753,2020,United States,mexico,mexico,True,yes,country named in the title,,,False
+10.1111/btp.70124,2025,United States,madagascar,madagascar,True,no,off-topic: no mangrove term in title+abstract,,,False
+10.1080/01431161.2012.725958,2013,Netherlands,,indonesia,False,yes,"HUMAN: Berau Delta, Indonesia is the study area",,,True
+10.1016/S0034-4257(01)00301-7,2002,France,french guiana,brazil;french guiana,False,no,HUMAN: Brazil named only as a geographic boundary of the shelf transect,,,True
+10.1016/j.gloenvcha.2019.01.003,2019,United States,gambia;senegal,gambia;guinea;senegal,False,no,HUMAN: Guinea matched via the 'Guinea-Bissauan border' phrase; the study is Senegal/Gambia,,,True
+10.3390/su12083242,2020,China,indonesia,indonesia,True,yes,country named in the title,,,False
+10.1016/j.scib.2023.05.004,2023,China,,australia;brazil;china;indonesia,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.rse.2011.06.019,2011,United States,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.3390/jmse4020033,2016,United States,mexico,mexico,True,yes,country named in the title,,,False
+10.1080/014311698215036,1998,France,madagascar,madagascar,True,yes,country named in the title,,,False
+10.3390/rs13244957,2021,India,,bangladesh,False,no,"HUMAN: Bangladesh named as the other half of the Sundarbans, not studied",,,True
+10.1016/j.rsma.2025.104023,2025,Japan,indonesia;philippines,indonesia;philippines,True,yes,country named in the title,,,False
+10.3389/fmars.2023.1127720,2023,United States,cambodia;myanmar;thailand,cambodia;myanmar;thailand,True,yes,country named in the title,,,False
+10.3390/rs12091375,2020,China,,bangladesh,False,yes,"HUMAN: Sundarbans Reserved Forest, Bangladesh is the study area",,,True
+10.1038/s41597-024-04213-z,2025,United States,,colombia;gabon,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.rsma.2026.104816,2026,India,,bangladesh,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.actaastro.2025.08.050,2026,United States,brazil,brazil,True,yes,country named in the title,,,False
+10.1007/s10021-023-00871-z,2024,United States,,mexico,False,yes,HUMAN: northern Gulf of Mexico (USA and Mexico) is the study region,,,True
+10.1016/j.ecolind.2024.112430,2024,Japan,,bangladesh,False,yes,HUMAN: Bangladesh is the study area,,,True
+10.1016/j.jclepro.2024.140889,2024,India,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1111/sjtg.12228,2018,Singapore,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1016/j.catena.2022.106413,2022,United States,,brazil,False,yes,HUMAN: southeastern Brazil is one of the two study regions,,,True
+10.3390/rs15020295,2023,Japan,bangladesh,bangladesh,True,no,off-topic: no mangrove term in title+abstract,,,False
+10.5343/bms.2012.1069,2013,United States,,bangladesh;brazil;china;ecuador;india;indonesia;thailand;vietnam,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.scitotenv.2024.172284,2024,United States,mexico,mexico,True,yes,country named in the title,,,False
+10.1038/s43247-026-03532-w,2026,China,bangladesh,bangladesh,True,yes,country named in the title,,,False
+10.1016/j.rse.2016.04.026,2016,United States,,indonesia,False,yes,abstract places the study in the country,,,False
+10.1007/s10531-024-02800-5,2024,United States,,indonesia,False,no,HUMAN: babirusa conservation study in Indonesia; not a mangrove RS study,,,True
+10.1117/12.976284,2012,Japan,indonesia,indonesia,True,yes,country named in the title,,,False
+10.1007/s10661-025-14380-0,2025,Japan,,bangladesh,False,yes,abstract places the study in the country,,,False
+10.3390/rs12223758,2020,United Kingdom,,myanmar,False,yes,HUMAN: all of coastal Myanmar is the demonstration area,,,True
+10.3390/rs14092146,2022,China,myanmar,myanmar,True,no,off-topic: no mangrove term in title+abstract,,,False
+10.1017/S0376892905002493,2005,United States,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1155/2015/641798,2015,Japan,indonesia,indonesia,True,yes,country named in the title,,,False
+10.3390/rs16010076,2024,Japan,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1111/geb.12140,2014,Singapore,,brazil;cuba;indonesia;nigeria;philippines,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.quascirev.2023.108064,2023,United States,,mexico,False,no,HUMAN: Texas site; the Gulf of Mexico is the wider setting,,,True
+10.1016/j.jenvman.2022.115100,2022,China,,indonesia;myanmar;thailand;vietnam,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.scitotenv.2023.165413,2023,United States,,mexico,False,no,HUMAN: North Atlantic basin-scale study; the Gulf of Mexico is a subregion label,,,True
+10.1016/j.jsames.2025.105560,2025,India,,mexico,False,yes,"HUMAN: Vicente Guerrero coastal region, Mexico is the study area",,,True
+10.3390/rs16214077,2024,Japan,myanmar,,True,yes,country named in the title,,,False
+10.2112/JCOASTRES-D-12-00184.1,2013,United States,,mexico,False,no,HUMAN: Louisiana site; the Gulf of Mexico is a regional label,,,True
+10.1016/j.rse.2017.11.009,2018,United Kingdom,,mexico,False,yes,"HUMAN: Yucatan Peninsula, Mexico is the study area",,,True
+10.1371/journal.pone.0125404,2015,United States,,mexico,False,no,HUMAN: Texas coast site; the Gulf of Mexico is a regional label,,,True
+10.1016/j.marpolbul.2017.05.056,2018,France,indonesia,,True,yes,country named in the title,,,False
+10.1007/s10750-018-3673-1,2018,Vietnam,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1080/01431161.2012.717181,2013,Japan,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.isprsjprs.2024.09.026,2024,China,china,china;indonesia;thailand;vietnam,False,no,comparative / review-counting / background mention,,,False
+10.3389/fmars.2022.892946,2022,United States,colombia,colombia,True,yes,country named in the title,,,False
+10.1007/s42965-022-00256-8,2023,India,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.foreco.2025.123330,2026,Japan,,indonesia;malaysia;myanmar;philippines;thailand;vietnam,False,no,comparative / review-counting / background mention,,,False
+10.1007/s10661-025-14219-8,2025,China,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1117/1.3563584,2011,United States,,american samoa;fiji;micronesia;new caledonia;palau;papua new guinea;samoa;solomon islands;tonga;vanuatu,False,yes,HUMAN: Pacific-island inventory including Papua New Guinea,,,True
+10.1021/acs.est.5c06377,2025,United States,,bahamas;colombia;solomon islands,False,yes,HUMAN: Colombia is one of the sampled blue-carbon hotspots,,,True
+10.1002/ecy.70397,2026,United States,,mexico,False,no,HUMAN: nekton study; the Gulf of Mexico is a regional label,,,True
+10.1007/s10641-018-0809-0,2019,United States,cuba,cuba,True,yes,country named in the title,,,False
+10.1080/22797254.2018.1432295,2018,France,guinea-bissau;senegal,,True,yes,country named in the title,,,False
+10.1016/j.gecco.2024.e03022,2024,United States,madagascar,madagascar,True,yes,country named in the title,,,False
+10.1007/s11273-015-9465-8,2016,United States,,mozambique,False,yes,"HUMAN: Zambezi River Delta, Mozambique is the study area",,,True
+10.1007/s10236-010-0321-3,2010,United States,,mexico,False,no,HUMAN: storm-surge model whose grid spans the Gulf of Mexico,,,True
+10.1117/12.2049590,2014,United Kingdom,,nigeria,False,yes,abstract places the study in the country,,,False
+10.3390/f8060190,2017,United Kingdom,madagascar,madagascar,True,yes,country named in the title,,,False
+10.1007/s10661-010-1669-z,2011,United Kingdom,nigeria,,True,yes,country named in the title,,,False
+10.1016/j.rsma.2025.104422,2025,China,,mozambique,False,no,comparative / review-counting / background mention,,,False
+10.1073/pnas.1510272113,2016,Singapore,,indonesia;malaysia;myanmar,False,no,comparative / review-counting / background mention,,,False
+10.1007/s12524-016-0567-4,2017,India,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1175/JTECH-D-12-00022.1,2013,United States,mexico,mexico,True,yes,country named in the title,,,False
+10.1080/1755876X.2025.2531716,2025,China,,brazil;china,False,no,off-topic: no mangrove term in title+abstract,,,False
+10.5343/bms.2017.1026,2018,United States,,cuba,False,yes,HUMAN: Cuba is the study area (land use and conservation),,,True
+10.1016/j.marpol.2022.105094,2022,United Kingdom,,indonesia,False,yes,abstract places the study in the country,,,False
+10.1016/j.jenvman.2022.116568,2023,China,madagascar,madagascar,True,yes,country named in the title,,,False
+10.1080/014311697217107,1997,United Kingdom,nigeria,nigeria,True,yes,country named in the title,,,False
+10.1016/j.ecss.2020.106798,2021,Singapore,french guiana,bangladesh;french guiana;india,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.gloenvcha.2013.10.007,2014,Singapore,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1016/j.ecolind.2025.113242,2025,India,,mexico,False,yes,HUMAN: Florida coast (USA) vulnerability assessment; Mexico matched only as a boundary label -> conservatively no,,,True
+10.3390/s25247559,2025,United States,,bangladesh;india;myanmar,False,no,comparative / review-counting / background mention,,,False
+10.3390/f16081296,2025,China,indonesia,,True,yes,country named in the title,,,False
+10.1007/s10668-024-05257-2,2026,India,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1007/s10531-011-0214-x,2012,India,india,indonesia,False,yes,HUMAN: Nicobar Islands (India) tsunami-impact field study,,,True
+10.7717/peerj.17563,2024,United States,cuba,cuba,True,yes,country named in the title,,,False
+10.1111/ddi.13380,2021,United States,,mexico,False,no,off-topic: no mangrove term in title+abstract,,,False
+10.3389/ffgc.2025.1511361,2025,China,indonesia,indonesia;united states,True,yes,country named in the title,,,False
+10.1029/2007JG000551,2008,United States,mozambique,mozambique,True,yes,country named in the title,,,False
+10.1111/cobi.70248,2026,France,,brazil,False,no,off-topic: no mangrove term in title+abstract,,,False
+10.1016/j.gloplacha.2016.02.003,2016,India,bangladesh,bangladesh,True,yes,country named in the title,,,False
+10.1016/j.marpolbul.2025.118119,2025,China,papua new guinea,papua new guinea,True,yes,country named in the title,,,False
+10.1016/j.jenvman.2022.116804,2023,China,guinea-bissau,,True,yes,country named in the title,,,False
+10.1111/gcb.14409,2018,Japan,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1016/j.rse.2012.11.014,2013,United States,,indonesia,False,no,HUMAN: large-scale mangrove conversion mapping; the matched countries are not the study object,,,True
+10.1016/j.geoderma.2021.115173,2021,United Kingdom,mexico,mexico,True,yes,country named in the title,,,False
+10.1016/j.jenvman.2024.121529,2024,United States,,indonesia;malaysia;philippines;thailand;vietnam,False,no,comparative / review-counting / background mention,,,False
+10.1016/j.ecss.2006.12.019,2007,United States,bangladesh;india,,True,yes,country named in the title,,,False
+10.1016/j.catena.2023.107601,2024,China,,myanmar,False,yes,abstract places the study in the country,,,False
+10.3390/rs15102495,2023,United States,cuba,cuba,True,yes,country named in the title,,,False
+10.1111/geb.12449,2016,United States,,cambodia;guatemala;indonesia;malaysia;myanmar,False,no,comparative / review-counting / background mention,,,False
+10.1111/sed.13036,2023,United States,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1007/s12665-016-6175-3,2016,India,bangladesh,bangladesh,True,yes,country named in the title,,,False
+10.1016/j.marchem.2010.02.002,2010,United States,,mexico,False,no,HUMAN: CDOM production experiment; the Gulf of Mexico is a receiving-water label,,,True
+10.1016/j.jenvman.2014.01.020,2015,United States,,bangladesh;india;pakistan;sri lanka,False,no,comparative / review-counting / background mention,,,False
+10.3390/f11091016,2020,China,bangladesh,,True,yes,country named in the title,,,False
+10.1088/1755-1315/37/1/012035,2016,Japan,,cambodia;indonesia;thailand;vietnam,False,yes,HUMAN: mangrove forest-type mapping with a stated country study area,,,True
+10.1016/j.asr.2024.10.059,2025,India,,bangladesh;india,False,no,comparative / review-counting / background mention,,,False
+10.1007/s11273-023-09919-2,2023,United Kingdom,nigeria,nigeria,True,yes,country named in the title,,,False
+10.3390/rs71114530,2015,United Kingdom,,mexico,False,yes,HUMAN: mangrove chlorophyll study with a stated country study area,,,True
+10.3390/rs13010052,2021,Japan,myanmar,myanmar,True,yes,country named in the title,,,False
+10.1109/IGARSS52108.2023.10281755,2023,United States,,bangladesh;india;myanmar,False,yes,HUMAN: freshwater-discharge productivity study with a stated country study area,,,True
+10.1016/j.foreco.2015.06.027,2015,United States,mozambique,,True,yes,country named in the title,,,False
+,2013,Japan,,indonesia;japan,False,no,"off-topic title (instrument/platform design, not a mangrove study)",,,False
+,2005,Singapore,indonesia,,True,yes,country named in the title,,,False
+,2025,Japan,indonesia,indonesia,True,yes,country named in the title,,,False
+,2015,Netherlands,,myanmar,False,yes,abstract places the study in the country,,,False
+,2002,France,,bangladesh;india;myanmar,False,no,comparative / review-counting / background mention,,,False

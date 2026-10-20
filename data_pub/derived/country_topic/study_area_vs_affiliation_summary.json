@@ -1,0 +1,80 @@
+{
+  "n_records": 2332,
+  "n_high_output_papers": 1353,
+  "n_high_output_with_region": 799,
+  "n_high_output_studies_low_output_tropical": 148,
+  "pct_high_output_studies_low_output_tropical_all": 10.9,
+  "pct_high_output_studies_low_output_tropical_of_region_detectable": 18.5,
+  "by_country": [
+    {
+      "first_author_country": "China",
+      "n_papers": 503,
+      "n_with_region": 284,
+      "n_studies_low_output_tropical": 19,
+      "pct_studies_low_output_tropical": 3.8
+    },
+    {
+      "first_author_country": "United States",
+      "n_papers": 290,
+      "n_with_region": 148,
+      "n_studies_low_output_tropical": 66,
+      "pct_studies_low_output_tropical": 22.8
+    },
+    {
+      "first_author_country": "India",
+      "n_papers": 275,
+      "n_with_region": 167,
+      "n_studies_low_output_tropical": 14,
+      "pct_studies_low_output_tropical": 5.1
+    },
+    {
+      "first_author_country": "France",
+      "n_papers": 62,
+      "n_with_region": 40,
+      "n_studies_low_output_tropical": 9,
+      "pct_studies_low_output_tropical": 14.5
+    },
+    {
+      "first_author_country": "Japan",
+      "n_papers": 56,
+      "n_with_region": 48,
+      "n_studies_low_output_tropical": 17,
+      "pct_studies_low_output_tropical": 30.4
+    },
+    {
+      "first_author_country": "United Kingdom",
+      "n_papers": 56,
+      "n_with_region": 35,
+      "n_studies_low_output_tropical": 12,
+      "pct_studies_low_output_tropical": 21.4
+    },
+    {
+      "first_author_country": "Vietnam",
+      "n_papers": 47,
+      "n_with_region": 39,
+      "n_studies_low_output_tropical": 1,
+      "pct_studies_low_output_tropical": 2.1
+    },
+    {
+      "first_author_country": "Netherlands",
+      "n_papers": 23,
+      "n_with_region": 10,
+      "n_studies_low_output_tropical": 4,
+      "pct_studies_low_output_tropical": 17.4
+    },
+    {
+      "first_author_country": "Saudi Arabia",
+      "n_papers": 21,
+      "n_with_region": 15,
+      "n_studies_low_output_tropical": 0,
+      "pct_studies_low_output_tropical": 0.0
+    },
+    {
+      "first_author_country": "Singapore",
+      "n_papers": 20,
+      "n_with_region": 13,
+      "n_studies_low_output_tropical": 6,
+      "pct_studies_low_output_tropical": 30.0
+    }
+  ]
+}

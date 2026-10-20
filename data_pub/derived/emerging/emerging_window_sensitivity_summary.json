@@ -1,0 +1,86 @@
+{
+  "configs": {
+    "main_2023_2026": {
+      "label": "Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        24,
+        33,
+        34,
+        49
+      ]
+    },
+    "orig_2025_2026": {
+      "label": "Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        24,
+        33,
+        34,
+        49
+      ]
+    },
+    "excl_2026_H1": {
+      "label": "Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        30,
+        33,
+        39,
+        44
+      ]
+    }
+  },
+  "n_passed_per_config": {
+    "main_2023_2026": 9,
+    "orig_2025_2026": 9,
+    "excl_2026_H1": 9
+  },
+  "stable_core": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    33
+  ],
+  "passed_in_any_config": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    24,
+    30,
+    33,
+    34,
+    39,
+    44,
+    49
+  ],
+  "passed_only_in_subset": [
+    24,
+    30,
+    34,
+    39,
+    44,
+    49
+  ],
+  "pairwise_jaccard": {
+    "main_2023_2026_vs_orig_2025_2026": 1.0,
+    "main_2023_2026_vs_excl_2026_H1": 0.5,
+    "orig_2025_2026_vs_excl_2026_H1": 0.5
+  }
+}

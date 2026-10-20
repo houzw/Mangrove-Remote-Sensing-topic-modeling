@@ -1,0 +1,427 @@
+{
+  "clustering": {
+    "original": {
+      "n_topics": 72,
+      "n_outliers": 771,
+      "outlier_pct": 33.1,
+      "mean_topic_size": 21.7,
+      "median_topic_size": 19.0,
+      "min_size": 10,
+      "max_size": 59
+    },
+    "sorted_ngram": {
+      "n_topics": 72,
+      "n_outliers": 0,
+      "outlier_pct": 0.0,
+      "mean_topic_size": 21.7,
+      "median_topic_size": 19.0,
+      "min_size": 10,
+      "max_size": 59
+    }
+  },
+  "coherence": {
+    "original": {
+      "c_v": 0.4453,
+      "npmi": -0.0018,
+      "diversity": 0.3853
+    },
+    "sorted_ngram": {
+      "c_v": 0.423,
+      "npmi": -0.1009,
+      "diversity": 0.4976
+    }
+  },
+  "distinctiveness": {
+    "original": {
+      "n_topics": 72,
+      "mean_sim": 0.2022,
+      "median_sim": 0.1903,
+      "std_sim": 0.0704,
+      "pct_high_sim": 0.0
+    },
+    "sorted_ngram": {
+      "n_topics": 72,
+      "mean_sim": 0.1999,
+      "median_sim": 0.1878,
+      "std_sim": 0.0704,
+      "pct_high_sim": 0.0
+    }
+  },
+  "word_order": {
+    "original": {
+      "flipped_pairs": 27,
+      "examples": [
+        {
+          "key": "area | mangrove",
+          "variants": [
+            "mangrove area",
+            "area mangrove"
+          ]
+        },
+        {
+          "key": "land | use",
+          "variants": [
+            "use land",
+            "land use"
+          ]
+        },
+        {
+          "key": "mangrove | mapping",
+          "variants": [
+            "mapping mangrove",
+            "mangrove mapping"
+          ]
+        },
+        {
+          "key": "optical | sar",
+          "variants": [
+            "optical sar",
+            "sar optical"
+          ]
+        },
+        {
+          "key": "coastal | resilience",
+          "variants": [
+            "resilience coastal",
+            "coastal resilience"
+          ]
+        },
+        {
+          "key": "damage | mangrove",
+          "variants": [
+            "mangrove damage",
+            "damage mangrove"
+          ]
+        },
+        {
+          "key": "mangrove | recovery",
+          "variants": [
+            "mangrove recovery",
+            "recovery mangrove"
+          ]
+        },
+        {
+          "key": "changes | shoreline",
+          "variants": [
+            "changes shoreline",
+            "shoreline changes"
+          ]
+        },
+        {
+          "key": "cover | land",
+          "variants": [
+            "cover land",
+            "land cover"
+          ]
+        },
+        {
+          "key": "based | mangrove",
+          "variants": [
+            "based mangrove",
+            "mangrove based"
+          ]
+        }
+      ]
+    },
+    "sorted_ngram": {
+      "flipped_pairs": 0,
+      "examples": []
+    }
+  },
+  "emerging_keywords": [
+    {
+      "old_topic": 34,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "mangrove aboveground biomass",
+          0.5765
+        ],
+        [
+          "mangrove aboveground",
+          0.5581
+        ],
+        [
+          "estimation mangrove",
+          0.5549
+        ],
+        [
+          "mangrove canopy",
+          0.5474
+        ],
+        [
+          "carbon stock estimation",
+          0.5404
+        ]
+      ],
+      "new_keywords": []
+    },
+    {
+      "old_topic": 8,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "segmentation mangrove",
+          0.5654
+        ],
+        [
+          "mangrove remote sensing",
+          0.5616
+        ],
+        [
+          "remote sensing image",
+          0.5594
+        ],
+        [
+          "remote sensing images",
+          0.5519
+        ],
+        [
+          "hyperspectral image",
+          0.5515
+        ]
+      ],
+      "new_keywords": []
+    },
+    {
+      "old_topic": 16,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "net shoreline movement",
+          0.6287
+        ],
+        [
+          "shoreline erosion",
+          0.6261
+        ],
+        [
+          "shoreline dynamics",
+          0.624
+        ],
+        [
+          "digital shoreline analysis",
+          0.6216
+        ],
+        [
+          "shoreline changes",
+          0.6165
+        ]
+      ],
+      "new_keywords": []
+    },
+    {
+      "old_topic": 4,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "resolution mangrove",
+          0.6014
+        ],
+        [
+          "mangrove mapping",
+          0.6011
+        ],
+        [
+          "mangrove extent",
+          0.5902
+        ],
+        [
+          "wetland mapping",
+          0.581
+        ],
+        [
+          "mangrove tidal",
+          0.5659
+        ]
+      ],
+      "new_keywords": []
+    },
+    {
+      "old_topic": 5,
+      "best_match_new": 3,
+      "jaccard": 0.111,
+      "old_keywords": [
+        [
+          "mangrove resilience",
+          0.6475
+        ],
+        [
+          "ecosystem services",
+          0.6212
+        ],
+        [
+          "coastal resilience",
+          0.62
+        ],
+        [
+          "carbon sequestration",
+          0.6004
+        ],
+        [
+          "contiguous mangrove",
+          0.5993
+        ]
+      ],
+      "new_keywords": [
+        [
+          "ecosystem services",
+          "0.5854"
+        ],
+        [
+          "change deforestation",
+          "0.579"
+        ],
+        [
+          "reforestation",
+          "0.5736"
+        ],
+        [
+          "deforestation",
+          "0.564"
+        ],
+        [
+          "natural resource",
+          "0.5594"
+        ]
+      ]
+    },
+    {
+      "old_topic": 17,
+      "best_match_new": 17,
+      "jaccard": 0.25,
+      "old_keywords": [
+        [
+          "resilience mangroves",
+          0.6072
+        ],
+        [
+          "sustainable development goals",
+          0.6071
+        ],
+        [
+          "ecological systems",
+          0.5995
+        ],
+        [
+          "blue carbon ecosystems",
+          0.5845
+        ],
+        [
+          "sustainable development",
+          0.5841
+        ]
+      ],
+      "new_keywords": [
+        [
+          "ecological systems",
+          "0.5979"
+        ],
+        [
+          "ecological resilience",
+          "0.5889"
+        ],
+        [
+          "blue carbon ecosystems",
+          "0.5805"
+        ],
+        [
+          "blue carbon conservation",
+          "0.5725"
+        ],
+        [
+          "carbon ecosystems",
+          "0.5685"
+        ]
+      ]
+    },
+    {
+      "old_topic": 33,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "mangrove biomass carbon",
+          0.5991
+        ],
+        [
+          "mangrove carbon stocks",
+          0.5978
+        ],
+        [
+          "mangrove phenology",
+          0.5928
+        ],
+        [
+          "mangrove aboveground biomass",
+          0.5902
+        ],
+        [
+          "mangrove carbon stock",
+          0.5873
+        ]
+      ],
+      "new_keywords": []
+    },
+    {
+      "old_topic": 49,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "impacts mangrove",
+          0.5991
+        ],
+        [
+          "mangrove ecosystem services",
+          0.5989
+        ],
+        [
+          "mangrove national nature",
+          0.5951
+        ],
+        [
+          "mangrove nature reserve",
+          0.5912
+        ],
+        [
+          "mangrove ecosystem",
+          0.5909
+        ]
+      ],
+      "new_keywords": []
+    },
+    {
+      "old_topic": 24,
+      "best_match_new": null,
+      "jaccard": 0,
+      "old_keywords": [
+        [
+          "estimating mangrove",
+          0.5516
+        ],
+        [
+          "mangrove aboveground biomass",
+          0.5413
+        ],
+        [
+          "mangrove agb",
+          0.532
+        ],
+        [
+          "mangrove ground biomass",
+          0.5312
+        ],
+        [
+          "estimating aboveground biomass",
+          0.5301
+        ]
+      ],
+      "new_keywords": []
+    }
+  ]
+}

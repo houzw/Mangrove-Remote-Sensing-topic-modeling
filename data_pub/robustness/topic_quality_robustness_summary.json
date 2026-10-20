@@ -1,0 +1,78 @@
+{
+  "n_topics": 72,
+  "global_npmi_top10": -0.2793,
+  "npmi_quartiles": {
+    "q1": -0.3215,
+    "median": -0.2833,
+    "q3": -0.2424
+  },
+  "candidate_prototypes": {
+    "ids": [
+      34,
+      8,
+      16,
+      4,
+      5,
+      17,
+      33,
+      49,
+      24
+    ],
+    "n_total": 9,
+    "n_in_bottom25": 1,
+    "bottom25_ids": [
+      4
+    ]
+  },
+  "word_count_sensitivity": [
+    {
+      "top_n": 5,
+      "global_npmi": -0.2694
+    },
+    {
+      "top_n": 10,
+      "global_npmi": -0.2793
+    },
+    {
+      "top_n": 20,
+      "global_npmi": -0.2811
+    }
+  ],
+  "umap_neighbors_scan": [
+    {
+      "n_neighbors": 5,
+      "n_topics": 83,
+      "n_outliers": 645,
+      "outlier_pct": 27.66,
+      "n_docs": 2332
+    },
+    {
+      "n_neighbors": 10,
+      "n_topics": 76,
+      "n_outliers": 690,
+      "outlier_pct": 29.59,
+      "n_docs": 2332
+    },
+    {
+      "n_neighbors": 15,
+      "n_topics": 72,
+      "n_outliers": 771,
+      "outlier_pct": 33.06,
+      "n_docs": 2332
+    },
+    {
+      "n_neighbors": 30,
+      "n_topics": 60,
+      "n_outliers": 939,
+      "outlier_pct": 40.27,
+      "n_docs": 2332
+    },
+    {
+      "n_neighbors": 50,
+      "n_topics": 61,
+      "n_outliers": 724,
+      "outlier_pct": 31.05,
+      "n_docs": 2332
+    }
+  ]
+}

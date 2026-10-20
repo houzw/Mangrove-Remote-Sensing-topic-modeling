@@ -1,0 +1,71 @@
+{
+  "configs": {
+    "novelty_0.0025": {
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        68
+      ]
+    },
+    "novelty_0.005": {
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        68
+      ]
+    },
+    "novelty_0.01": {
+      "passed": [
+        4,
+        5,
+        8,
+        16,
+        17,
+        35,
+        57,
+        68
+      ]
+    }
+  },
+  "n_passed_per_config": {
+    "novelty_0.0025": 8,
+    "novelty_0.005": 8,
+    "novelty_0.01": 8
+  },
+  "stable_core": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    35,
+    57,
+    68
+  ],
+  "passed_in_any_config": [
+    4,
+    5,
+    8,
+    16,
+    17,
+    35,
+    57,
+    68
+  ],
+  "passed_only_in_subset": [],
+  "pairwise_jaccard": {
+    "novelty_0.0025_vs_novelty_0.005": 1.0,
+    "novelty_0.0025_vs_novelty_0.01": 1.0,
+    "novelty_0.005_vs_novelty_0.01": 1.0
+  }
+}

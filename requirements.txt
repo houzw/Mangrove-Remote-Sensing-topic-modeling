@@ -1,0 +1,77 @@
+# =============================================================================
+# Mangrove remote sensing bibliometric pipeline — pinned runtime environment
+# =============================================================================
+# Versions below are the ACTUAL installed versions read from the working
+# environment (.pixi/envs/default, Python 3.12.13, win-64) that produced every
+# number in the manuscript. They are pinned exactly, not bounded.
+#
+# Reconciliation note: the upstream project declares its environment in
+# pixi.toml. Five packages that the pipeline imports were installed afterwards
+# and are therefore absent from pixi.toml / pixi.lock. They are marked
+# "post-install" below and MUST be installed explicitly, otherwise the
+# reproducibility claim fails. Two of them sit on the critical path:
+#
+#   gensim        — C_V / NPMI topic coherence (src/topic_modeling.py),
+#                   reported in derived/topics/topic_coherence.csv
+#   spacy 3.7.5   — scispacy 0.6.2 pins spacy <3.8; pixi.lock resolves 3.8.14,
+#                   which scispacy cannot load. The working environment has
+#                   3.7.5. Declaring 3.8.x reproduces a broken environment.
+#
+# Install:
+#   python -m pip install -r requirements.txt
+#   python -m pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+#
+# SciBERT (allenai/scibert_scivocab_uncased) is downloaded on first use and
+# needs network access on the first run.
+# =============================================================================
+
+# ---- Core scientific stack -------------------------------------------------
+numpy==1.26.4                 # pinned <2: MKL 2024 ABI (np.dot fails on numpy 2.x here)
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.9.0
+joblib==1.5.3
+
+# ---- Visualization --------------------------------------------------------
+matplotlib==3.11.0
+seaborn==0.13.2
+plotly==6.9.0
+pillow==12.3.0
+
+# ---- Geospatial -----------------------------------------------------------
+geopandas==1.1.4
+shapely==2.1.2
+pyproj==3.7.2
+pyogrio==0.13.0            # shapefile I/O engine for geopandas 1.x (not fiona)
+
+# ---- I/O and utilities ----------------------------------------------------
+pyarrow==23.0.0
+openpyxl==3.1.5
+pyyaml==6.0.3
+tqdm==4.68.4
+networkx==3.6.1
+click==8.4.2
+
+# ---- Topic modelling (BERTopic stack) -------------------------------------
+torch==2.8.0
+bertopic==0.17.4
+sentence-transformers==5.6.0
+transformers==4.53.2
+huggingface-hub==0.36.2
+safetensors==0.8.0
+tokenizers==0.21.4
+umap-learn==0.5.12
+numba==0.66.0
+hdbscan==0.8.44
+keybert==0.9.0
+keyphrase-vectorizers==0.0.13
+gensim==4.4.0                 # post-install — required for topic coherence
+
+# ---- Scientific NLP -------------------------------------------------------
+spacy==3.7.5                  # post-install — scispacy pins <3.8 (lock says 3.8.14)
+scispacy==0.6.2               # post-install
+nltk==3.10.0
+
+# ---- Optional: only needed for the two non-critical paths -----------------
+# openai==2.48.0              # post-install — LLM topic labelling (Appendix A)
+# kaleido==1.3.0              # post-install — static PNG export of Plotly figures

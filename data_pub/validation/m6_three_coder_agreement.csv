@@ -1,0 +1,7 @@
+﻿coder_a,coder_b,n,agreement_pct,kappa
+DeepSeek-flash,DeepSeek-v4-pro,143,95.1,0.861
+DeepSeek-flash,GLM-5.3-Flash,148,95.9,0.875
+DeepSeek-flash,Authors,148,80.4,0.565
+DeepSeek-v4-pro,GLM-5.3-Flash,143,95.8,0.874
+DeepSeek-v4-pro,Authors,143,77.6,0.506
+GLM-5.3-Flash,Authors,148,77.7,0.499

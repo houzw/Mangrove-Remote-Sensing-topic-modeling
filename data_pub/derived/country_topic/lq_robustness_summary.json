@@ -1,0 +1,104 @@
+{
+  "n_permutations": 1000,
+  "n_c_min": 10,
+  "niche_selection_rule": "top-7 positive RRMI among countries with N_c >= 10 topic-assigned fractional documents and >= 1000 km2 of mangrove",
+  "niche_countries_derived": [
+    "Indonesia",
+    "Nigeria",
+    "Brazil",
+    "Mexico",
+    "Bangladesh",
+    "Colombia",
+    "Malaysia"
+  ],
+  "niches": [
+    {
+      "Country": "Colombia",
+      "Topic": 40,
+      "Topic_Label": "Mangrove Remote Sensing Monitoring",
+      "N_c": 11.97,
+      "N_ck": 2.0,
+      "observed_LQ": 17.219,
+      "perm_p_value": 0.005,
+      "shrunk_LQ": 8.949,
+      "survives_permutation": true,
+      "survives_shrinkage": true
+    },
+    {
+      "Country": "Indonesia",
+      "Topic": 53,
+      "Topic_Label": "Mangrove characterization and mapping",
+      "N_c": 67.7,
+      "N_ck": 8.25,
+      "observed_LQ": 15.7,
+      "perm_p_value": 0.001,
+      "shrunk_LQ": 13.817,
+      "survives_permutation": true,
+      "survives_shrinkage": true
+    },
+    {
+      "Country": "Malaysia",
+      "Topic": 18,
+      "Topic_Label": "Mangrove Remote Sensing Applications",
+      "N_c": 32.49,
+      "N_ck": 7.0,
+      "observed_LQ": 13.322,
+      "perm_p_value": 0.001,
+      "shrunk_LQ": 10.903,
+      "survives_permutation": true,
+      "survives_shrinkage": true
+    },
+    {
+      "Country": "Bangladesh",
+      "Topic": 38,
+      "Topic_Label": "Remote Sensing of Shoreline Change",
+      "N_c": 20.93,
+      "N_ck": 2.5,
+      "observed_LQ": 11.54,
+      "perm_p_value": 0.003,
+      "shrunk_LQ": 5.078,
+      "survives_permutation": true,
+      "survives_shrinkage": true
+    },
+    {
+      "Country": "Mexico",
+      "Topic": 70,
+      "Topic_Label": "Mangrove leaf pigment spectroscopy",
+      "N_c": 47.43,
+      "N_ck": 3.5,
+      "observed_LQ": 11.409,
+      "perm_p_value": 0.001,
+      "shrunk_LQ": 8.986,
+      "survives_permutation": true,
+      "survives_shrinkage": true
+    },
+    {
+      "Country": "Nigeria",
+      "Topic": 50,
+      "Topic_Label": "Tsunami impacts on coastal ecosystems",
+      "N_c": 10.5,
+      "N_ck": 1.0,
+      "observed_LQ": 11.326,
+      "perm_p_value": 0.0629,
+      "shrunk_LQ": 4.23,
+      "survives_permutation": false,
+      "survives_shrinkage": true
+    },
+    {
+      "Country": "Brazil",
+      "Topic": 15,
+      "Topic_Label": "Amazon mud bank mangrove coasts",
+      "N_c": 68.85,
+      "N_ck": 12.08,
+      "observed_LQ": 9.69,
+      "perm_p_value": 0.001,
+      "shrunk_LQ": 8.961,
+      "survives_permutation": true,
+      "survives_shrinkage": true
+    }
+  ],
+  "all_survive_permutation": false,
+  "all_survive_shrinkage": true,
+  "max_perm_p_value": 0.0629,
+  "min_shrunk_LQ": 4.23
+}

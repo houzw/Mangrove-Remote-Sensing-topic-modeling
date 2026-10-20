@@ -1,0 +1,527 @@
+{
+  "generated_utc": "2026-10-09T11:25:35Z",
+  "n_countries": 76,
+  "indicators": {
+    "articles": {
+      "key": "articles",
+      "indicator": "IP.JRN.ARTC.SC",
+      "label": "Scientific and technical journal articles (all fields)",
+      "role": "primary",
+      "window": [
+        1996,
+        2023
+      ],
+      "source": "cache",
+      "cache_file": "wb_IP.JRN.ARTC.SC_1996_2023.json",
+      "last_updated": "2026-10-08"
+    },
+    "gdp": {
+      "key": "gdp",
+      "indicator": "NY.GDP.MKTP.CD",
+      "label": "GDP (current US$)",
+      "role": "alternative",
+      "window": [
+        1996,
+        2023
+      ],
+      "source": "cache",
+      "cache_file": "wb_NY.GDP.MKTP.CD_1996_2023.json",
+      "last_updated": "2026-10-08"
+    },
+    "population": {
+      "key": "population",
+      "indicator": "SP.POP.TOTL",
+      "label": "Population, total",
+      "role": "alternative",
+      "window": [
+        1996,
+        2023
+      ],
+      "source": "cache",
+      "cache_file": "wb_SP.POP.TOTL_1996_2023.json",
+      "last_updated": "2026-10-08"
+    },
+    "rd": {
+      "key": "rd",
+      "indicator": "GB.XPD.RSDV.GD.ZS",
+      "label": "Research and development expenditure (% of GDP)",
+      "role": "coverage-only",
+      "window": [
+        1996,
+        2023
+      ],
+      "source": "cache",
+      "cache_file": "wb_GB.XPD.RSDV.GD.ZS_1996_2023.json",
+      "last_updated": "2026-10-08"
+    }
+  },
+  "windows": {
+    "latest": [
+      2021,
+      2023
+    ],
+    "long": [
+      1996,
+      2023
+    ]
+  },
+  "coverage": {
+    "articles": 76,
+    "gdp": 76,
+    "population": 76,
+    "rd": 57
+  },
+  "articles_years_used": [
+    "2021-2023"
+  ],
+  "articles_world_share_of_table": 0.7120781573737445,
+  "n_with_articles": 76,
+  "comparisons": {
+    "articles_latest": {
+      "n": 76,
+      "spearman_vs_rrmi": 0.9503,
+      "perm_p": 0.0004997501249375312,
+      "top14_overlap": 11,
+      "top14_jaccard": 0.6471,
+      "top14_area_share": 0.7131,
+      "top14_pub_share": 0.2616,
+      "top14": [
+        "Indonesia",
+        "Brazil",
+        "Nigeria",
+        "Australia",
+        "Mexico",
+        "Papua New Guinea",
+        "Myanmar",
+        "Malaysia",
+        "Bangladesh",
+        "Cuba",
+        "Venezuela",
+        "Mozambique",
+        "Philippines",
+        "Guinea-Bissau"
+      ],
+      "top14_only_in_variant": [
+        "Australia",
+        "Malaysia",
+        "Philippines"
+      ],
+      "top14_only_in_headline": [
+        "Colombia",
+        "Guinea",
+        "Madagascar"
+      ]
+    },
+    "articles_long": {
+      "n": 76,
+      "spearman_vs_rrmi": 0.9385,
+      "perm_p": 0.0004997501249375312,
+      "top14_overlap": 11,
+      "top14_jaccard": 0.6471,
+      "top14_area_share": 0.7131,
+      "top14_pub_share": 0.2616,
+      "top14": [
+        "Indonesia",
+        "Brazil",
+        "Nigeria",
+        "Mexico",
+        "Australia",
+        "Papua New Guinea",
+        "Myanmar",
+        "Malaysia",
+        "Bangladesh",
+        "Cuba",
+        "Venezuela",
+        "Philippines",
+        "Mozambique",
+        "Guinea-Bissau"
+      ],
+      "top14_only_in_variant": [
+        "Australia",
+        "Malaysia",
+        "Philippines"
+      ],
+      "top14_only_in_headline": [
+        "Colombia",
+        "Guinea",
+        "Madagascar"
+      ]
+    },
+    "gdp": {
+      "n": 76,
+      "spearman_vs_rrmi": 0.9448,
+      "perm_p": 0.0004997501249375312,
+      "top14_overlap": 12,
+      "top14_jaccard": 0.75,
+      "top14_area_share": 0.7093,
+      "top14_pub_share": 0.2509,
+      "top14": [
+        "Indonesia",
+        "Brazil",
+        "Australia",
+        "Nigeria",
+        "Papua New Guinea",
+        "Mexico",
+        "Myanmar",
+        "Malaysia",
+        "Bangladesh",
+        "Cuba",
+        "Venezuela",
+        "Mozambique",
+        "Guinea-Bissau",
+        "Madagascar"
+      ],
+      "top14_only_in_variant": [
+        "Australia",
+        "Malaysia"
+      ],
+      "top14_only_in_headline": [
+        "Colombia",
+        "Guinea"
+      ]
+    },
+    "population": {
+      "n": 76,
+      "spearman_vs_rrmi": 0.9087,
+      "perm_p": 0.0004997501249375312,
+      "top14_overlap": 12,
+      "top14_jaccard": 0.75,
+      "top14_area_share": 0.6984,
+      "top14_pub_share": 0.2411,
+      "top14": [
+        "Indonesia",
+        "Australia",
+        "Brazil",
+        "Papua New Guinea",
+        "Malaysia",
+        "Mexico",
+        "Myanmar",
+        "Cuba",
+        "Venezuela",
+        "Guinea-Bissau",
+        "Nigeria",
+        "Mozambique",
+        "Colombia",
+        "Guinea"
+      ],
+      "top14_only_in_variant": [
+        "Australia",
+        "Malaysia"
+      ],
+      "top14_only_in_headline": [
+        "Bangladesh",
+        "Madagascar"
+      ]
+    }
+  },
+  "top14_rrmi": {
+    "countries": [
+      "Indonesia",
+      "Nigeria",
+      "Brazil",
+      "Papua New Guinea",
+      "Myanmar",
+      "Venezuela",
+      "Cuba",
+      "Mexico",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Madagascar",
+      "Guinea",
+      "Bangladesh",
+      "Colombia"
+    ],
+    "area_share": 0.6348,
+    "pub_share": 0.1665,
+    "capacity_term_sum": 0.5717,
+    "field_term_sum": -0.1035,
+    "n_capacity_positive": 14,
+    "n_field_positive": 0,
+    "n_rca_above_one": 14,
+    "rca_median": 3.762,
+    "rca_min": 1.374,
+    "countries_rca_below_one": []
+  },
+  "rca_above_one_overall": 64,
+  "rca_below_one": [
+    {
+      "country": "South Africa",
+      "rca": 0.2372,
+      "rrmi": -0.0015,
+      "area_share": 0.0002,
+      "pub_share": 0.0016,
+      "articles_share": 0.0068
+    },
+    {
+      "country": "Peru",
+      "rca": 0.2905,
+      "rrmi": -0.0004,
+      "area_share": 0.0002,
+      "pub_share": 0.0006,
+      "articles_share": 0.0021
+    },
+    {
+      "country": "Egypt",
+      "rca": 0.3882,
+      "rrmi": -0.0038,
+      "area_share": 0.0,
+      "pub_share": 0.0038,
+      "articles_share": 0.0098
+    },
+    {
+      "country": "Iran",
+      "rca": 0.4005,
+      "rrmi": -0.0095,
+      "area_share": 0.0007,
+      "pub_share": 0.0101,
+      "articles_share": 0.0253
+    },
+    {
+      "country": "Bahrain",
+      "rca": 0.4067,
+      "rrmi": -0.0001,
+      "area_share": 0.0,
+      "pub_share": 0.0001,
+      "articles_share": 0.0003
+    },
+    {
+      "country": "Japan",
+      "rca": 0.5762,
+      "rrmi": -0.0259,
+      "area_share": 0.0001,
+      "pub_share": 0.026,
+      "articles_share": 0.0451
+    },
+    {
+      "country": "China",
+      "rca": 0.5897,
+      "rrmi": -0.222,
+      "area_share": 0.0023,
+      "pub_share": 0.2243,
+      "articles_share": 0.3804
+    },
+    {
+      "country": "United Kingdom",
+      "rca": 0.6974,
+      "rrmi": -0.0295,
+      "area_share": 0.0022,
+      "pub_share": 0.0317,
+      "articles_share": 0.0454
+    },
+    {
+      "country": "Netherlands",
+      "rca": 0.7297,
+      "rrmi": -0.0105,
+      "area_share": 0.0002,
+      "pub_share": 0.0107,
+      "articles_share": 0.0147
+    },
+    {
+      "country": "Pakistan",
+      "rca": 0.7705,
+      "rrmi": -0.0016,
+      "area_share": 0.0054,
+      "pub_share": 0.007,
+      "articles_share": 0.009
+    },
+    {
+      "country": "United States",
+      "rca": 0.7917,
+      "rrmi": -0.1401,
+      "area_share": 0.0178,
+      "pub_share": 0.1579,
+      "articles_share": 0.1994
+    },
+    {
+      "country": "Brunei",
+      "rca": 0.9184,
+      "rrmi": 0.0009,
+      "area_share": 0.0011,
+      "pub_share": 0.0002,
+      "articles_share": 0.0002
+    }
+  ],
+  "articles_sum": 2256422.1566666667,
+  "watch_list": [
+    {
+      "country": "Indonesia",
+      "area": 28631.4332,
+      "area_share": 0.1989,
+      "pub_share": 0.0519,
+      "articles_share": 0.0132,
+      "rrmi": 0.147,
+      "capacity_term": 0.1857,
+      "field_term": -0.0387,
+      "rca": 3.9424,
+      "rrmi_adj": 0.1857
+    },
+    {
+      "country": "Nigeria",
+      "area": 7478.4467,
+      "area_share": 0.0519,
+      "pub_share": 0.0058,
+      "articles_share": 0.0042,
+      "rrmi": 0.0461,
+      "capacity_term": 0.0477,
+      "field_term": -0.0016,
+      "rca": 1.3743,
+      "rrmi_adj": 0.0477
+    },
+    {
+      "country": "Brazil",
+      "area": 12148.8045,
+      "area_share": 0.0844,
+      "pub_share": 0.0451,
+      "articles_share": 0.0281,
+      "rrmi": 0.0393,
+      "capacity_term": 0.0562,
+      "field_term": -0.017,
+      "rca": 1.6023,
+      "rrmi_adj": 0.0562
+    },
+    {
+      "country": "Papua New Guinea",
+      "area": 5302.1487,
+      "area_share": 0.0368,
+      "pub_share": 0.0007,
+      "articles_share": 0.0,
+      "rrmi": 0.0361,
+      "capacity_term": 0.0368,
+      "field_term": -0.0007,
+      "rca": 20.273,
+      "rrmi_adj": 0.0368
+    },
+    {
+      "country": "Myanmar",
+      "area": 4905.7149,
+      "area_share": 0.0341,
+      "pub_share": 0.0025,
+      "articles_share": 0.0001,
+      "rrmi": 0.0316,
+      "capacity_term": 0.034,
+      "field_term": -0.0024,
+      "rca": 25.1401,
+      "rrmi_adj": 0.034
+    },
+    {
+      "country": "Venezuela",
+      "area": 3630.4849,
+      "area_share": 0.0252,
+      "pub_share": 0.0005,
+      "articles_share": 0.0003,
+      "rrmi": 0.0247,
+      "capacity_term": 0.025,
+      "field_term": -0.0003,
+      "rca": 2.1348,
+      "rrmi_adj": 0.025
+    },
+    {
+      "country": "Guinea-Bissau",
+      "area": 2731.6586,
+      "area_share": 0.019,
+      "pub_share": 0.0004,
+      "articles_share": 0.0,
+      "rrmi": 0.0186,
+      "capacity_term": 0.019,
+      "field_term": -0.0004,
+      "rca": 53.8005,
+      "rrmi_adj": 0.019
+    },
+    {
+      "country": "Mozambique",
+      "area": 2902.6285,
+      "area_share": 0.0202,
+      "pub_share": 0.0024,
+      "articles_share": 0.0001,
+      "rrmi": 0.0178,
+      "capacity_term": 0.0201,
+      "field_term": -0.0023,
+      "rca": 25.8679,
+      "rrmi_adj": 0.0201
+    },
+    {
+      "country": "Madagascar",
+      "area": 2544.3025,
+      "area_share": 0.0177,
+      "pub_share": 0.0022,
+      "articles_share": 0.0001,
+      "rrmi": 0.0155,
+      "capacity_term": 0.0176,
+      "field_term": -0.0021,
+      "rca": 29.7459,
+      "rrmi_adj": 0.0176
+    },
+    {
+      "country": "Guinea",
+      "area": 2203.447,
+      "area_share": 0.0153,
+      "pub_share": 0.0001,
+      "articles_share": 0.0,
+      "rrmi": 0.0152,
+      "capacity_term": 0.0153,
+      "field_term": -0.0,
+      "rca": 2.5506,
+      "rrmi_adj": 0.0153
+    },
+    {
+      "country": "Gabon",
+      "area": 1723.073,
+      "area_share": 0.012,
+      "pub_share": 0.0004,
+      "articles_share": 0.0,
+      "rrmi": 0.0116,
+      "capacity_term": 0.0119,
+      "field_term": -0.0004,
+      "rca": 9.4663,
+      "rrmi_adj": 0.0119
+    },
+    {
+      "country": "Senegal",
+      "area": 1665.3711,
+      "area_share": 0.0116,
+      "pub_share": 0.0008,
+      "articles_share": 0.0002,
+      "rrmi": 0.0108,
+      "capacity_term": 0.0114,
+      "field_term": -0.0005,
+      "rca": 3.5894,
+      "rrmi_adj": 0.0114
+    },
+    {
+      "country": "Sierra Leone",
+      "area": 1347.5547,
+      "area_share": 0.0094,
+      "pub_share": 0.0005,
+      "articles_share": 0.0,
+      "rrmi": 0.0089,
+      "capacity_term": 0.0093,
+      "field_term": -0.0004,
+      "rca": 13.6221,
+      "rrmi_adj": 0.0093
+    },
+    {
+      "country": "Cambodia",
+      "area": 476.7896,
+      "area_share": 0.0033,
+      "pub_share": 0.0003,
+      "articles_share": 0.0001,
+      "rrmi": 0.003,
+      "capacity_term": 0.0032,
+      "field_term": -0.0002,
+      "rca": 4.0128,
+      "rrmi_adj": 0.0032
+    },
+    {
+      "country": "Solomon Islands",
+      "area": 332.6836,
+      "area_share": 0.0023,
+      "pub_share": 0.0001,
+      "articles_share": 0.0,
+      "rrmi": 0.0023,
+      "capacity_term": 0.0023,
+      "field_term": -0.0001,
+      "rca": 9.7213,
+      "rrmi_adj": 0.0023
+    }
+  ]
+}

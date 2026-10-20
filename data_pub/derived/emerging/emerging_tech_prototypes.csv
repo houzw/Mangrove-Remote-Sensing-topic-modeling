@@ -1,0 +1,9 @@
+﻿Topic,Baseline_Share,Burst_Share,Burst_Strength,Burst_Interval,Active_Terminal,Hist_Mean_Share,Hist_Nonzero_Years,Hist_Supporting_Years,Novelty_Pass,Count_2026_H1,Share_2026_H1,Share_2025,Liveness_2026_H1,Passed_Filter,Fail_Reason,Top_Keywords
+17,0.001342,0.02036,35.54,2022-2025,True,0.000567,2,36,True,5,0.03125,0.028777,True,True,,"resilience mangroves, legal, bibliometric, social, social ecological"
+16,0.001681,0.02984,34.85,2024-2025,True,0.0,0,36,True,6,0.0375,0.043165,True,True,,"shoreline, shoreline change, dune, java, north coast"
+8,0.002102,0.036346,34.19,2024-2025,True,0.0,0,36,True,16,0.1,0.039568,True,True,,"semantic, segmentation, semantic segmentation, feature, attention"
+4,0.006907,0.052063,30.09,2024-2025,True,0.001027,3,36,True,13,0.08125,0.064748,True,True,,"tidal wetlands, tourism, thresholds, nonlinear, salinity"
+5,0.000453,0.020075,28.03,2024-2025,True,0.001823,3,36,True,27,0.16875,0.028777,True,True,,"blue carbon, hydrological, blue, sequestration, carbon"
+57,0.000431,0.011341,23.39,2022-2025,True,0.000179,1,36,True,1,0.00625,0.010791,True,True,,"trade, land degradation, lulc classification, cover area, offs"
+35,0.001771,0.020341,20.28,2021-2025,True,0.001208,1,36,True,2,0.0125,0.007194,True,True,,"multi source, tree species, xgboost, xgboost algorithm, source"
+68,0.001045,0.011502,10.99,2021-2025,True,0.0,0,36,True,1,0.00625,0.003597,True,True,,"lidar point clouds, network mangrove, point, lidar point, net"

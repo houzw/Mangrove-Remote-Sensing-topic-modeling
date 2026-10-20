@@ -1,0 +1,81 @@
+[workspace]
+name = "mangrove_rs_biblio"
+version = "0.1.0"
+description = "Bibliometric & topic modeling pipeline for mangrove remote sensing literature"
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+# =============================================================================
+# Conda dependencies (system libs + core scientific stack)
+# =============================================================================
+[dependencies]
+python = ">=3.10,<3.13"
+pandas = ">=2.0"
+numpy = ">=1.24,<2"
+# numpy 1.26.4 is compiled against MKL 2023/2024 (mkl_rt.2.dll); MKL 2026 ships
+# only mkl_rt.3.dll, so np.dot() fails with delay-load 0xc06d007f. Pin MKL down.
+mkl = "<2025"
+matplotlib = ">=3.7"
+seaborn = ">=0.12"
+scipy = ">=1.11"
+scikit-learn = ">=1.3"
+openpyxl = ">=3.1"
+# Geospatial
+geopandas = ">=1.0"
+shapely = ">=2.0"
+# NLP
+spacy = ">=3.7"
+# Visualization
+plotly = ">=5.18"
+# I/O
+pyarrow = ">=14.0"
+pyyaml = ">=6.0"
+pip = ">=24.0"
+# Progress bars
+tqdm = ">=4.66"
+# CLI
+click = ">=8.1"
+# PyTorch (conda-forge for proper Windows DLL support)
+pytorch = ">=2.5"
+# Development
+jupyterlab = ">=4.0"
+ipykernel = ">=6.25"
+ruff = ">=0.5"
+
+# =============================================================================
+# PyPI dependencies (packages better served from PyPI or not on conda-forge)
+# =============================================================================
+[pypi-dependencies]
+bertopic = ">=0.16"
+sentence-transformers = ">=3.0"
+# NOTE: keyphrase-vectorizers → spacy-transformers pins transformers<4.53.3, which
+# requires huggingface-hub<1.0. Do NOT pin huggingface-hub>=1.5.0 here — that
+# forces transformers 5.x and makes the solve unsatisfiable. Keep hub unconstrained
+# so the resolver picks a transformers 4.x line compatible with both.
+keyphrase-vectorizers = ">=0.0.11"
+keybert = ">=0.8"
+umap-learn = ">=0.5"
+hdbscan = ">=0.8"
+
+# =============================================================================
+# Tasks
+# =============================================================================
+[tasks]
+# Post-install: install scispaCy and its scientific English model
+install-scispacy = { cmd = "python -c \"import subprocess, sys; subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'scispacy']); subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz'])\"", description = "Install scispaCy library and en_core_sci_sm model" }
+
+# Run full pipeline
+run-pipeline = { cmd = "python -m src.run_pipeline", description = "Run the complete bibliometric analysis pipeline" }
+
+# Run individual steps
+preprocess = { cmd = "python -m src.data_preprocessing", description = "Step 2: Data preprocessing" }
+bibliometric = { cmd = "python -m src.bibliometric_analysis", description = "Step 3: Bibliometric trend & spatial analysis" }
+topics = { cmd = "python -m src.topic_modeling", description = "Step 4: BERTopic topic modeling" }
+evolution = { cmd = "python -m src.topic_evolution", description = "Step 5: Topic evolution analysis" }
+# Utilities
+merge-txt = { cmd = "python -m src.merge_txt_to_csv", description = "Merge WoS tagged .txt files into a single CSV" }
+
+# Development
+notebook = { cmd = "jupyter lab notebooks/", description = "Start JupyterLab in notebooks directory" }
+lint = { cmd = "ruff check src/", description = "Lint Python source files" }
+format = { cmd = "ruff format src/", description = "Format Python source files" }

@@ -1,0 +1,50 @@
+# =============================================================================
+# Dependencies for "A research--resource mismatch index for mangrove remote
+# sensing" (Hou et al., submitted)
+# =============================================================================
+#
+# Two tiers:
+#   * The RRMI indicator itself needs ONLY pandas, numpy and (optionally)
+#     scipy -- see rrMI_indicator.py.  Install just those to recompute the
+#     index from a publication list and a resource map.
+#   * Everything below the "topic modelling" marker is needed to reproduce the
+#     full demonstration pipeline (embeddings, clustering, figures).
+#
+# Verified on Python 3.11 (Windows, conda-forge).  The pinned upper bounds
+# matter: numpy must stay <2 because the project's MKL build is 2024-era, and
+# transformers must stay on the 4.x line for keyphrase-vectorizers.
+# =============================================================================
+
+# --- indicator only ---------------------------------------------------------
+pandas>=2.0
+numpy>=1.24,<2
+scipy>=1.11
+
+# --- full pipeline: data & statistics ---------------------------------------
+pyarrow>=14.0
+openpyxl>=3.1
+scikit-learn>=1.3
+statsmodels>=0.14
+pyyaml>=6.0
+tqdm>=4.66
+
+# --- full pipeline: topic modelling -----------------------------------------
+bertopic>=0.16
+sentence-transformers>=3.0
+torch>=2.5
+transformers>=4.30,<5
+keybert>=0.8
+keyphrase-vectorizers>=0.0.11
+umap-learn>=0.5
+hdbscan>=0.8
+spacy>=3.7
+# scispaCy + scientific model (install separately; GPU wheels may be needed):
+#   pip install scispacy
+#   pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+
+# --- full pipeline: figures & geospatial ------------------------------------
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.18
+geopandas>=1.0
+shapely>=2.0

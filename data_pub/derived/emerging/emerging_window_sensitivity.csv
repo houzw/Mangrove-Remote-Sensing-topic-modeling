@@ -1,0 +1,217 @@
+﻿Config,Config_Label,Topic,Historical_Mean,Recent_Mean,Slope,Burst_Index,Passed_Filter,Fail_Reason,Count_2026_H1,Prop_2026_H1,Confirm_2026_H1
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",34,0.000148,0.023007,0.029076,154.57,True,,10,0.0625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",8,0.000314,0.043954,0.034783,139.36,True,,16,0.1,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",16,0.00061,0.027055,0.00788,44.27,True,,6,0.0375,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",49,0.000314,0.01296,0.000951,41.09,True,,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",57,0.000318,0.011515,-0.005571,36.14,False,slope_not_positive,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",68,0.000314,0.010083,-0.003397,31.97,False,slope_not_positive,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",4,0.00175,0.046649,0.023234,26.64,True,,13,0.08125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",17,0.001148,0.025169,0.006929,21.91,True,,5,0.03125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",5,0.00267,0.051556,0.080027,19.3,True,,27,0.16875,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",30,0.00139,0.013768,-0.002446,9.89,False,slope_not_positive,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",60,0.00088,0.0078,-0.002174,8.85,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",67,0.000934,0.008018,0.004076,8.58,False,recent_burst_failed,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",35,0.00194,0.016172,-0.00462,8.33,False,slope_not_positive,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",33,0.001497,0.011406,0.004076,7.61,True,,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",32,0.001973,0.013868,-0.005571,7.02,False,slope_not_positive,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",19,0.002206,0.013392,-0.01087,6.07,False,slope_not_positive,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",44,0.001492,0.0076,-0.008696,5.09,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",24,0.002862,0.013684,0.008152,4.78,True,,4,0.025,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",64,0.001118,0.004448,0.000951,3.98,False,recent_burst_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",59,0.001516,0.005614,-0.006522,3.7,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",7,0.006296,0.0229,-0.01644,3.64,False,cold_start_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",39,0.002695,0.009744,-0.008696,3.61,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",65,0.001704,0.005347,0.000951,3.14,False,recent_burst_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",42,0.002254,0.007037,-0.002174,3.12,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",2,0.011515,0.033637,-0.01019,2.92,False,cold_start_failed,3,0.01875,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",27,0.005312,0.013156,-0.007745,2.48,False,cold_start_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",38,0.003121,0.007434,-0.004348,2.38,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",56,0.002139,0.004684,-0.002174,2.19,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",58,0.002288,0.004893,-0.002174,2.14,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",29,0.003659,0.007779,-0.004348,2.13,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",25,0.005366,0.010707,-0.002174,2.0,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",62,0.001983,0.003915,0.003125,1.97,False,recent_burst_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",63,0.001936,0.00344,-0.002174,1.78,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",9,0.008297,0.014471,-0.006522,1.74,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",28,0.003983,0.006752,0.001902,1.69,False,recent_burst_failed,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",61,0.001729,0.002907,0.0,1.68,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",0,0.013423,0.022113,-0.01087,1.65,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",43,0.003644,0.00526,-0.0,1.44,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",21,0.005205,0.007067,-0.006522,1.36,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",26,0.0066,0.008551,0.001902,1.3,False,cold_start_failed,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",66,0.002859,0.00344,-0.002174,1.2,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",31,0.009367,0.010371,0.004076,1.11,False,cold_start_failed,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",6,0.013656,0.014104,-0.008696,1.03,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",14,0.007598,0.0078,-0.002174,1.03,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",1,0.017625,0.017286,-0.009918,0.98,False,cold_start_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",20,0.009966,0.008184,-0.000272,0.82,False,cold_start_failed,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",55,0.005461,0.003549,0.000951,0.65,False,cold_start_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",54,0.003539,0.001453,0.0,0.41,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",13,0.017702,0.007246,-0.002174,0.41,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",47,0.006418,0.00254,-0.002174,0.4,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",3,0.038231,0.014156,0.001902,0.37,False,cold_start_failed,2,0.0125,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",22,0.010132,0.00344,-0.002174,0.34,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",70,0.005249,0.001563,0.003125,0.3,False,cold_start_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",23,0.012689,0.003627,-0.004348,0.29,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",41,0.004633,0.001087,-0.002174,0.23,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",10,0.02899,0.005081,-0.004348,0.18,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",12,0.0162,0.002907,0.0,0.18,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",18,0.008777,0.001453,0.0,0.17,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",40,0.006273,0.001087,-0.002174,0.17,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",50,0.008934,0.001453,0.0,0.16,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",15,0.021303,0.00254,-0.002174,0.12,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",45,0.029322,0.003549,0.000951,0.12,False,cold_start_failed,1,0.00625,True
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",51,0.011709,0.001087,-0.002174,0.09,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",36,0.033621,0.002174,-0.004348,0.06,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",46,0.027301,0.001453,0.0,0.05,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",37,0.085748,0.001087,-0.002174,0.01,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",53,0.003612,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",52,0.054794,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",48,0.003485,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",69,0.016425,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",11,0.030137,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+main_2023_2026,"Main: hist 1970-2022, recent 2023-2026 (2026 H1 raw), slope 2024-2026",71,0.003934,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",34,0.000144,0.04384,0.029076,302.24,True,,10,0.0625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",8,0.000455,0.069784,0.034783,152.9,True,,16,0.1,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",16,0.000744,0.040333,0.00788,54.17,True,,6,0.0375,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",4,0.001854,0.072999,0.023234,39.35,True,,13,0.08125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",5,0.002602,0.098763,0.080027,37.95,True,,27,0.16875,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",17,0.001714,0.030013,0.006929,17.5,True,,5,0.03125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",33,0.001458,0.020638,0.004076,14.14,True,,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",57,0.000608,0.008521,-0.005571,14.0,False,recent_burst_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",30,0.001355,0.01884,-0.002446,13.9,False,slope_not_positive,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",49,0.000903,0.012118,0.000951,13.41,True,,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",67,0.001208,0.008049,0.004076,6.66,False,recent_burst_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",68,0.000754,0.004924,-0.003397,6.53,False,recent_burst_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",64,0.001089,0.006722,0.000951,6.17,False,recent_burst_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",65,0.00166,0.008521,0.000951,5.13,False,recent_burst_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",24,0.003236,0.014299,0.008152,4.42,True,,4,0.025,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",32,0.00237,0.010319,-0.005571,4.35,False,slope_not_positive,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",39,0.002626,0.010791,-0.008696,4.11,False,slope_not_positive,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",35,0.002486,0.009847,-0.00462,3.96,False,recent_burst_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",42,0.002345,0.008993,-0.002174,3.83,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",56,0.002084,0.007194,-0.002174,3.45,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",19,0.002596,0.007194,-0.01087,2.77,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",7,0.006582,0.017513,-0.01644,2.66,False,cold_start_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",62,0.002082,0.004924,0.003125,2.36,False,recent_burst_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",44,0.001603,0.003597,-0.008696,2.24,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",2,0.012263,0.027361,-0.01019,2.23,False,cold_start_failed,3,0.01875,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",28,0.00403,0.00625,0.001902,1.55,False,recent_burst_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",26,0.00658,0.009847,0.001902,1.5,False,cold_start_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",29,0.003863,0.005396,-0.004348,1.4,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",60,0.001454,0.001799,-0.002174,1.24,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",9,0.008681,0.010791,-0.006522,1.24,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",27,0.005623,0.006722,-0.007745,1.2,False,cold_start_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",59,0.001626,0.001799,-0.006522,1.11,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",31,0.009574,0.009847,0.004076,1.03,False,cold_start_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",20,0.00971,0.009847,-0.000272,1.01,False,cold_start_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",55,0.005321,0.004924,0.000951,0.93,False,cold_start_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",1,0.017471,0.015715,-0.009918,0.9,False,cold_start_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",63,0.002036,0.001799,-0.002174,0.88,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",6,0.013753,0.010791,-0.008696,0.78,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",58,0.002527,0.001799,-0.002174,0.71,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",70,0.005114,0.003125,0.003125,0.61,False,cold_start_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",66,0.002934,0.001799,-0.002174,0.61,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",38,0.003489,0.001799,-0.004348,0.52,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",0,0.014421,0.007194,-0.01087,0.5,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",43,0.003998,0.001799,-0.0,0.45,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",3,0.037698,0.015243,0.001902,0.4,False,cold_start_failed,2,0.0125,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",21,0.00537,0.001799,-0.006522,0.33,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",25,0.006122,0.001799,-0.002174,0.29,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",14,0.008,0.001799,-0.002174,0.22,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",13,0.017695,0.003597,-0.002174,0.2,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",22,0.010021,0.001799,-0.002174,0.18,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",45,0.02857,0.004924,0.000951,0.17,False,cold_start_failed,1,0.00625,True
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",69,0.016004,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",61,0.001983,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",54,0.003597,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",36,0.032759,0.0,-0.004348,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",53,0.003519,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",37,0.083549,0.0,-0.002174,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",10,0.028544,0.0,-0.004348,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",11,0.029364,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",12,0.016083,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",15,0.020906,0.0,-0.002174,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",18,0.008701,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",23,0.012513,0.0,-0.004348,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",40,0.006112,0.0,-0.002174,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",52,0.053389,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",41,0.004514,0.0,-0.002174,0.0,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",46,0.02675,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",47,0.006402,0.0,-0.002174,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",48,0.003396,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",50,0.008854,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",51,0.011408,0.0,-0.002174,0.0,False,cold_start_failed,0,0.0,False
+orig_2025_2026,"Original design: hist 1970-2023, recent 2025-2026, slope 2024-2026",71,0.003833,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",8,0.000314,0.025272,0.016877,80.13,True,,16,0.1,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",34,0.000148,0.009843,0.01259,66.13,False,recent_burst_failed,10,0.0625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",49,0.000314,0.015196,-0.002635,48.18,False,slope_not_positive,1,0.00625,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",57,0.000318,0.01327,-0.000418,41.65,False,slope_not_positive,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",16,0.00061,0.023573,0.018676,38.58,True,,6,0.0375,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",68,0.000314,0.011361,-0.006922,36.02,False,slope_not_positive,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",17,0.001148,0.023141,0.002761,20.15,True,,5,0.03125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",4,0.00175,0.035115,0.029467,20.05,True,,13,0.08125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",60,0.00088,0.0104,-0.009829,11.8,False,slope_not_positive,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",30,0.00139,0.01419,0.01259,10.2,True,,2,0.0125,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",35,0.00194,0.017396,-0.008031,8.96,False,slope_not_positive,2,0.0125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",32,0.001973,0.016407,-0.001527,8.31,False,slope_not_positive,1,0.00625,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",19,0.002206,0.017856,-0.001527,8.09,False,slope_not_positive,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",33,0.001497,0.011042,0.014388,7.37,True,,2,0.0125,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",67,0.000934,0.006524,-0.004015,6.98,False,recent_burst_failed,2,0.0125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",44,0.001492,0.010133,0.00069,6.79,True,,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",59,0.001516,0.007485,-0.001108,4.94,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",39,0.002695,0.012991,0.010791,4.82,True,,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",5,0.00267,0.012491,0.014388,4.68,True,,27,0.16875,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",7,0.006296,0.02845,0.005668,4.52,False,cold_start_failed,1,0.00625,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",42,0.002254,0.009382,0.006086,4.16,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",24,0.002862,0.009912,-0.006922,3.46,False,recent_burst_failed,4,0.025,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",64,0.001118,0.003847,0.003597,3.44,False,recent_burst_failed,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",2,0.011515,0.0386,-0.002363,3.35,False,cold_start_failed,3,0.01875,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",38,0.003121,0.009912,-0.006922,3.17,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",65,0.001704,0.005046,0.005396,2.96,False,recent_burst_failed,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",56,0.002139,0.006245,0.007194,2.92,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",27,0.005312,0.015458,-0.005124,2.91,False,cold_start_failed,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",58,0.002288,0.006524,-0.004015,2.85,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",29,0.003659,0.010372,-0.000418,2.83,False,slope_not_positive,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",25,0.005366,0.014276,-0.015643,2.66,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",63,0.001936,0.004586,-0.001108,2.37,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",9,0.008297,0.019294,-0.000837,2.33,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",61,0.001729,0.003876,-0.005814,2.24,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",0,0.013423,0.029484,-0.018969,2.2,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",43,0.003644,0.007013,-0.006922,1.92,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",21,0.005205,0.009423,-0.004015,1.81,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",66,0.002859,0.004586,-0.001108,1.6,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",62,0.001983,0.003137,-0.001108,1.58,False,recent_burst_failed,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",6,0.013656,0.018805,0.00207,1.38,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",14,0.007598,0.0104,-0.009829,1.37,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",28,0.003983,0.004837,-0.002907,1.21,False,recent_burst_failed,2,0.0125,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",1,0.017625,0.020965,0.006776,1.19,False,cold_start_failed,1,0.00625,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",26,0.0066,0.007235,0.00069,1.1,False,cold_start_failed,2,0.0125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",31,0.009367,0.009661,-0.005124,1.03,False,cold_start_failed,2,0.0125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",20,0.009966,0.006746,0.003597,0.68,False,cold_start_failed,2,0.0125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",13,0.017702,0.009661,-0.005124,0.55,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",54,0.003539,0.001938,-0.002907,0.55,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",47,0.006418,0.003387,-0.002907,0.53,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",55,0.005461,0.002648,0.001799,0.48,False,cold_start_failed,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",22,0.010132,0.004586,-0.001108,0.45,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",3,0.038231,0.014708,0.000272,0.38,False,cold_start_failed,2,0.0125,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",23,0.012689,0.004837,-0.002907,0.38,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",41,0.004633,0.001449,-0.0,0.31,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",12,0.0162,0.003876,-0.005814,0.24,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",10,0.02899,0.006775,-0.005814,0.23,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",40,0.006273,0.001449,-0.0,0.23,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",50,0.008934,0.001938,-0.002907,0.22,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",18,0.008777,0.001938,-0.002907,0.22,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",15,0.021303,0.003387,-0.002907,0.16,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",51,0.011709,0.001449,-0.0,0.12,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",36,0.033621,0.002899,-0.0,0.09,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",45,0.029322,0.002648,0.001799,0.09,False,cold_start_failed,1,0.00625,True
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",46,0.027301,0.001938,-0.002907,0.07,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",37,0.085748,0.001449,-0.0,0.02,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",53,0.003612,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",52,0.054794,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",48,0.003485,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",11,0.030137,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",69,0.016425,0.0,0.0,0.0,False,cold_start_failed,0,0.0,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",70,0.005249,0.0,0.0,0.0,False,cold_start_failed,1,0.00625,False
+excl_2026_H1,"Conservative bound: 2026 H1 excluded from all stats (hist 1970-2022, recent/slope 2023-2025)",71,0.003934,0.0,0.0,0.0,False,recent_burst_failed,0,0.0,False
